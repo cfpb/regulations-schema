@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="eregs"
+	xmlns:tns="eregs" 
+	elementFormDefault="qualified">
+	
+	<!-- 
+		This is the main file that defines the RegsML schema. It serves mostly to include
+		other files that define various parts of the schema and defines the top-level
+		regulation element.
+	 -->
+	
+	<include schemaLocation="primitives.xsd"></include>
+	<include schemaLocation="preamble.xsd"></include>
+	<include schemaLocation="toc.xsd"></include>
+	<include schemaLocation="part.xsd"></include>
+
+	<!-- 
+		The regulation consists of three elements:
+		1. The FDSys tag which contains information pertinent to the federal register.
+		2. The preamble tag which contains some descriptive information about the reg.
+		3. At least one part.
+	 -->
+
+    <complexType name="Regulation">
+    	<sequence>
+    		<element name="fdsys" type="tns:FDSys"></element>
+    		<element name="preamble" type="tns:Preamble"></element>
+	    	<choice minOccurs="1" maxOccurs="unbounded">
+	    		<element ref="tns:part"></element>
+	    	</choice>
+    	</sequence>
+    </complexType>
+
+    <element name="regulation" type="tns:Regulation"></element>
+        
+</schema>

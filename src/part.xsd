@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="eregs"
+	xmlns:tns="eregs" 
+	elementFormDefault="qualified">
+	
+	<include schemaLocation="primitives.xsd"></include>
+	<include schemaLocation="appendix.xsd"></include>
+	<include schemaLocation="toc.xsd"></include>
+	
+	<complexType name="Section">
+    	<sequence>
+    		<element name="subject" type="string"></element>
+    		<choice maxOccurs="unbounded">
+    			<element name="paragraph" type="tns:Paragraph"></element>
+    		</choice>
+    	</sequence>
+    	<attribute name="sectionNum" type="int" use="required"></attribute>
+    </complexType>
+    
+    <complexType name="PartContents">
+    	<sequence>
+			<element name="tableOfContents" type="tns:TableOfContents"></element>
+			<element name="auth">
+				<complexType>
+					<sequence>
+						<element name="title" type="string"></element>
+						<element name="content" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<element ref="tns:section"></element>
+			</choice>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<element ref="tns:appendix"></element>
+			</choice>
+		</sequence>
+    </complexType>
+    
+    <complexType name="Subpart">
+    	<sequence>
+    		<choice minOccurs="1" maxOccurs="unbounded">
+    			<element name="content" type="tns:PartContents"></element>
+    		</choice>
+    	</sequence>
+    	<attribute name="subpartLetter" type="string"></attribute>
+    </complexType>
+	
+	<complexType name="Part">
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<sequence>
+				<choice minOccurs="0" maxOccurs="unbounded">
+					<element ref="tns:subpart"></element>
+				</choice>
+			</sequence>
+			<element name="content" type="tns:PartContents"></element>
+		</choice>
+		<attribute name="partNumber" type="int" use="required"></attribute>
+	</complexType>
+	
+	<element name="section" type="tns:Section"></element>
+	<element name="subpart" type="tns:Subpart"></element>
+	<element name="part" type="tns:Part"></element>
+	
+	
+</schema>

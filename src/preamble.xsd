@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="eregs"
+	xmlns:tns="eregs" 
+	elementFormDefault="qualified">
+	
+	<complexType name="Preamble">
+		<sequence>
+			<element name="agency" type="string"></element>
+			<element name="cfr">
+				<complexType>
+					<sequence>
+						<element name="title" type="int"></element>
+						<element name="section" type="int"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="depdoc" type="string"></element>
+			<element name="rin" type="string"></element>
+			<element name="summary">
+				<complexType>
+					<sequence>
+						<element name="header" type="string"></element>
+						<element name="content" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="effectiveDate" type="date"></element>
+		</sequence>
+	</complexType>
+	
+	<complexType name="FDSys">
+		<sequence>
+			<element name="cfrTitleNum" type="int"></element>
+			<element name="cfrTitleText" type="string"></element>
+			<element name="volume" type="int"></element>
+			<element name="date" type="date"></element>
+			<element name="originalDate" type="date"></element>
+			<element name="title" type="string"></element>
+		</sequence>
+	</complexType>
+	
+	<element name="preamble" type="tns:Preamble"></element>
+</schema>

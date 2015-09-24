@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="eregs"
+	xmlns:tns="eregs" 
+	elementFormDefault="qualified">
+	
+	<include schemaLocation="primitives.xsd"></include>
+	<include schemaLocation="toc.xsd"></include>
+	
+	<complexType name="Appendix">
+		<sequence>
+			<element name="appendixTitle" type="tns:AppendixHeader"></element>
+			<choice minOccurs="0" maxOccurs="1">
+				<element ref="tns:tableOfContents"></element>
+			</choice>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<!-- <element ref="tns:appendixHeader"></element>  -->
+				<element ref="tns:appendixSection"></element>
+			</choice>
+		</sequence>
+		<attribute name="appendixLetter" type="string"></attribute>
+	</complexType>
+	
+	<complexType name="AppendixSection">
+    	<sequence>
+    		<element name="subject" type="string"></element>
+    		<choice maxOccurs="unbounded">
+    			<element ref="tns:appendixHeader"></element>
+    			<element ref="tns:paragraph"></element>
+    		</choice>
+    	</sequence>
+    	<attribute name="appendixSecNum" type="string" use="required"></attribute>
+    </complexType>
+
+	<simpleType name="AppendixHeader">
+		<restriction base="string"></restriction>
+	</simpleType>
+	
+	<element name="appendix" type="tns:Appendix"></element>
+	<element name="tableOfContents" type="tns:TableOfContents"></element>
+	<element name="appendixSection" type="tns:AppendixSection"></element>
+    <element name="appendixHeader" type="tns:AppendixHeader"></element>
+	
+</schema>

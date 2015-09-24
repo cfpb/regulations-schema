@@ -14,12 +14,12 @@
 
 ----
 
-# Project Title
+# eRegs XML Schema
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+**Description**:  The goal of this project is to develop an XML Schema Definition that will power the eRegs project.
+The XSD is intended to capture the semantics of the regulations, both in terms of their structure and their 
+content (e.g. things like citations and references). The XML generated in conformity with this XSD will be guaranteed
+to parse properly in the new eRegs parser tool that is being developed alongside this schema.
 
 Other things to include:
 
