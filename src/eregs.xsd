@@ -31,7 +31,26 @@
 	    	</choice>
     	</sequence>
     </complexType>
+    
+    <!-- 
+    	The regulation element enforces the following constraints:
+    	1. IDs of definitions must be unique.
+    	2. Labels of paragraphs must be unique.
+    	3. Labels of sections must be unique.
+    	4. Labels of subparts must be unique.
+    	5. Labels of appendices must be unique.
+    	6. Labels of appendix sections must be unique.
+     -->
 
-    <element name="regulation" type="tns:Regulation"></element>
+    <element name="regulation" type="tns:Regulation">
+    	<unique name="unique-def-id">
+    		<selector xpath=".//tns:def"></selector>
+    		<field xpath="@def-id"></field>
+    	</unique>
+    	<unique name="unique-par-label">
+    		<selector xpath=".//tns:paragraph|.//tns:section|.//tns:subpart|.//tns:appendix|.//tns:appendixSection"></selector>
+    		<field xpath="@label"></field>
+    	</unique>
+    </element>
         
 </schema>

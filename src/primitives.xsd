@@ -68,6 +68,7 @@
 	<complexType name="Definition">
 		<simpleContent>
 			<extension base="string">
+				<attribute name="def-id" type="string" use="required"></attribute>
 				<attribute name="deftype" type="string"></attribute>
 			</extension>
 		</simpleContent>
