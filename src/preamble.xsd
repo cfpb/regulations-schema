@@ -15,16 +15,16 @@
 					</sequence>
 				</complexType>
 			</element>
-			<element name="depdoc" type="string"></element>
-			<element name="rin" type="string"></element>
-			<element name="summary">
-				<complexType>
-					<sequence>
-						<element name="header" type="string"></element>
-						<element name="content" type="string"></element>
-					</sequence>
-				</complexType>
-			</element>
+<!-- 			<element name="depdoc" type="string"></element> -->
+<!-- 			<element name="rin" type="string"></element> -->
+<!-- 			<element name="summary"> -->
+<!-- 				<complexType> -->
+<!-- 					<sequence> -->
+<!-- 						<element name="header" type="string"></element> -->
+<!-- 						<element name="content" type="string"></element> -->
+<!-- 					</sequence> -->
+<!-- 				</complexType> -->
+<!-- 			</element> -->
 			<element name="effectiveDate" type="date"></element>
 		</sequence>
 	</complexType>

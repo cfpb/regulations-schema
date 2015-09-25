@@ -6,14 +6,17 @@
 	
 	<complexType name="TableOfContents">
 		<sequence>
-			<element name="tocSecEntry" maxOccurs="unbounded">
-				<complexType>
-					<sequence>
-						<element name="sectionNum" type="int"></element>
-						<element name="sectionSubject" type="string"></element>
-					</sequence>
-				</complexType>
-			</element>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<element name="tocSecEntry">
+					<complexType>
+						<sequence>
+							<element name="sectionNum" type="int"></element>
+							<element name="sectionSubject" type="string"></element>
+						</sequence>
+						<attribute name="target" type="string" use="required"></attribute>
+					</complexType>
+				</element>
+			</choice>
 			<choice minOccurs="0" maxOccurs="unbounded">
 				<element name="tocAppEntry">
 					<complexType>
@@ -21,6 +24,7 @@
 							<element name="appendixLetter" type="string"></element>
 							<element name="appendixSubject" type="string"></element>
 						</sequence>
+						<attribute name="target" type="string" use="required"></attribute>
 					</complexType>
 				</element>
 			</choice>

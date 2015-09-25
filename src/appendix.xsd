@@ -18,7 +18,8 @@
 				<element ref="tns:appendixSection"></element>
 			</choice>
 		</sequence>
-		<attribute name="appendixLetter" type="string"></attribute>
+		<attribute name="appendixLetter" type="string" use="required"></attribute>
+		<attribute name="label" type="string" use="required"></attribute>
 	</complexType>
 	
 	<complexType name="AppendixSection">
@@ -30,6 +31,7 @@
     		</choice>
     	</sequence>
     	<attribute name="appendixSecNum" type="string" use="required"></attribute>
+    	<attribute name="label" type="string" use="required"></attribute>
     </complexType>
 
 	<simpleType name="AppendixHeader">
