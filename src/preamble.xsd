@@ -4,6 +4,16 @@
 	xmlns:tns="eregs" 
 	elementFormDefault="qualified">
 	
+	<!-- 
+		The preamble to a regulation contains descriptive information about the regulation.
+		It consists of the following elements:
+		1. agency, a string that identifies the agency which issued the regulation
+		2. cfr, a complex element that supports the following sub-elements:
+		 a. title, an integer identifying the CFR title containing the regulation
+		 b. section, an integer identifying the CFR section containing the regulation
+		3. effectiveDate, the date on which the regulation takes effect
+	 -->
+	
 	<complexType name="Preamble">
 		<sequence>
 			<element name="agency" type="string"></element>
@@ -28,6 +38,10 @@
 			<element name="effectiveDate" type="date"></element>
 		</sequence>
 	</complexType>
+	
+	<!-- 
+		
+	 -->
 	
 	<complexType name="FDSys">
 		<sequence>

@@ -4,6 +4,23 @@
 	xmlns:tns="eregs" 
 	elementFormDefault="qualified">
 	
+	<!-- 
+		The tableOfContents element describes the contents of the element that contains it.
+		It consists of the following elements:
+		1. zero or more tocSecEntry elements, which express a reference to a section of the content.
+		   The tocSecEntry consists of the following elements:
+			a. sectionNum, an integer indicating the section number
+			b. sectionSubject, a string indicating the section title
+		   In addition, the tocSecEntry element supports the following attributes:
+		    a. target, a string indicating the label of the element being referenced
+		2. zero or more tocAppEntry elements, which express a reference to a section of the appendix content.
+		   The tocAppEntry consists of the following elements:
+		    a. zero or one appendixLetter, a string containing the letter of the appendix being referenced
+		    b. appendixSubject, a string containing the subject of the appendix or section being referenced
+		   In addition, the tocAppEntry element supports the following attributes:
+		    a. target, a string indicating the label of the element being referenced
+	 -->
+	
 	<complexType name="TableOfContents">
 		<sequence>
 			<choice minOccurs="0" maxOccurs="unbounded">
@@ -21,7 +38,9 @@
 				<element name="tocAppEntry">
 					<complexType>
 						<sequence>
-							<element name="appendixLetter" type="string"></element>
+							<choice minOccurs="0" maxOccurs="1">
+								<element name="appendixLetter" type="string"></element>
+							</choice>
 							<element name="appendixSubject" type="string"></element>
 						</sequence>
 						<attribute name="target" type="string" use="required"></attribute>

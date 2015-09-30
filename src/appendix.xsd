@@ -7,6 +7,18 @@
 	<include schemaLocation="primitives.xsd"></include>
 	<include schemaLocation="toc.xsd"></include>
 	
+	<!-- 
+		The appendix type defines appendices to regulation. It consists of the
+		following elements:
+		1. appendixTitle, a string giving the title of the appendix
+		2. either 0 or 1 tableOfContents elements
+		3. zero or more appendixSection elements
+		
+		In addition, the appendix element supports the following attributes:
+		1. appendixLetter, a string containing the letter by which the appendix is identified
+		2. label, a string containing an identifier by which the appendix can be referenced 
+	 -->
+	
 	<complexType name="Appendix">
 		<sequence>
 			<element name="appendixTitle" type="tns:AppendixHeader"></element>
@@ -22,6 +34,17 @@
 		<attribute name="label" type="string" use="required"></attribute>
 	</complexType>
 	
+	<!-- 
+		The appendixSection type defines a section of an appendix. It consists of the
+		following elements:
+		1. subject, a string containing the section title
+		2. zero or more appendixHeader elements optionally followed by paragraph elements
+		
+		In addition the appendixSection element supports the following attributes:
+		1. appendixSecNum, an integer indicating the section number
+		2. label, a string containing a unique identifier by which the section can be referenced
+	 -->
+	
 	<complexType name="AppendixSection">
     	<sequence>
     		<element name="subject" type="string"></element>
@@ -33,6 +56,10 @@
     	<attribute name="appendixSecNum" type="string" use="required"></attribute>
     	<attribute name="label" type="string" use="required"></attribute>
     </complexType>
+    
+    <!-- 
+    	The appendixHeader element is a wrapper type for a string element.
+     -->
 
 	<simpleType name="AppendixHeader">
 		<restriction base="string"></restriction>

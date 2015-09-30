@@ -63,22 +63,23 @@
 	
 	<!-- 
 		The definition element supports defined terms within the text.
+		The defintion has the following attributes:
+		1. id, a unique id
+		2. term, the actual term being defined within this tag
 	 -->
 	
 	<complexType name="Definition">
 		<simpleContent>
 			<extension base="string">
-				<attribute name="def-id" type="string" use="required"></attribute>
-				<attribute name="deftype" type="string"></attribute>
+				<attribute name="id" type="string" use="optional"></attribute>
+				<attribute name="term" type="string" use="required"></attribute>
 			</extension>
 		</simpleContent>
 	</complexType>
 	
-	<complexType name="InternalReference">
-		<complexContent>
-			<extension base="tns:Reference"></extension>
-		</complexContent>
-	</complexType>
+	<!-- 
+		Elements instantiating the various types.
+	 -->
 	
 	<element name="ref" type="tns:Reference"></element>
     <element name="paragraph" type="tns:Paragraph"></element>
