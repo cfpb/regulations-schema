@@ -7,6 +7,7 @@
 	<include schemaLocation="primitives.xsd"></include>
 	<include schemaLocation="appendix.xsd"></include>
 	<include schemaLocation="toc.xsd"></include>
+	<include schemaLocation="interpretation.xsd"></include>
 	
 	<!-- 
 		The section element describes the contents of a section of regulation.
@@ -23,6 +24,7 @@
     	<sequence>
     		<element name="subject" type="string"></element>
     		<choice maxOccurs="unbounded">
+    			<element name="reserved" type="string"></element>
     			<element name="paragraph" type="tns:Paragraph"></element>
     		</choice>
     	</sequence>
@@ -61,6 +63,7 @@
 			</choice>
 		</sequence>
     </complexType>
+   
     
     <!-- 
     	The subpart type describes a subpart to a regulation.
@@ -95,6 +98,7 @@
     	2. content, an element which consists of the following sub-elements:
     		a. zero or more subpart elements
     		b. zero or more appendix elements
+    		c. zero or more interpretation elements
      -->
 	
 	<complexType name="Part">	
@@ -108,11 +112,11 @@
 						<choice minOccurs="0" maxOccurs="unbounded">
 							<element ref="tns:subpart"></element>
 							<element ref="tns:appendix"></element>
+							<element ref="tns:interpretations"></element>
 						</choice>
 					</sequence>	
 				</complexType>
 			</element>
-			
 		</sequence>
 		<attribute name="partNumber" type="int" use="required"></attribute>
 	</complexType>

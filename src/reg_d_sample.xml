@@ -231,9 +231,9 @@
 	      			</content>
 	      		</paragraph>
 	   		</section>
-	   		<appendix>
+	   		<appendix appendixLetter="A" label="1004-A">
 	   			<appendixTitle>Appendix A to Part 1004—Official Commentary on Regulation D</appendixTitle>
-	   			<appendixSection appendixSecNum="1">	
+	   			<appendixSection appendixSecNum="1" label="1004-A-1">	
 	   				<subject>§ 1004.1 Authority, Purpose, and Scope</subject>
 	   				<appendixHeader>1(c) Scope</appendixHeader>
 	   				<paragraph marker="1">
@@ -259,7 +259,7 @@
 	   					</paragraph>
 	   				</paragraph>
 	   			</appendixSection>
-	   			<appendixSection appendixSecNum="2">
+	   			<appendixSection appendixSecNum="2" label="1004-A-2">
 	   				<subject>§ 1004.2 Definitions</subject>
 	   				<appendixHeader>2(a) Alternative Mortgage Transaction</appendixHeader>
 	   				 <paragraph marker="1">

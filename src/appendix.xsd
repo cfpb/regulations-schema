@@ -27,6 +27,7 @@
 			</choice>
 			<choice minOccurs="0" maxOccurs="unbounded">
 				<!-- <element ref="tns:appendixHeader"></element>  -->
+				<element name="reserved" type="string"></element>
 				<element ref="tns:appendixSection"></element>
 			</choice>
 		</sequence>
