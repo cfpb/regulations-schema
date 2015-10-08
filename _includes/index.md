@@ -1,3 +1,3 @@
-The homepage content can be edited as markdown in _includes/index.html or directly within the index.html file.
+The goal of this project is to develop an XML Schema Definition that will power the [eRegulations project](http://cfpb.github.io/eRegulations/). The XSD is intended to capture the semantics of the regulations, both in terms of their structure and their content (e.g. things like citations and references).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The XML generated in conformity with this XSD will be guaranteed to parse properly in the [regulations-parser](https://github.com/cfpb/regulations-parser) tool that is being developed alongside this schema.

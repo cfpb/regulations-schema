@@ -86,7 +86,7 @@ Lists
 }
 
 .main-content li {
-    margin-bottom: 1em;
+    margin-bottom: .5em;
 }
 
 li h3,
@@ -96,6 +96,14 @@ li h4 {
 
 li p {
     margin-top: 0;
+}
+
+.main-content ol {
+  margin-bottom: 2em;
+}
+
+.main-content ol ol {
+  margin-bottom: 0;
 }
 
 /*
@@ -336,6 +344,7 @@ pre {
     overflow-y: scroll;
     background-color: #f1f2f2;
     padding: 10px;
+    margin-bottom: 3em;
 }
 
 /*
