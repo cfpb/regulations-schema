@@ -15,6 +15,8 @@ The `section` element supports the following attributes:
 1. `sectionNum`, an integer indicating the section number
 2. `label`, a unique id by which the section can be referenced
 
+<span class="toggle">View schema code</span>
+
 ```XML
 <complexType name="Section">
 	<sequence>
@@ -36,6 +38,8 @@ The `partContents` type defines the contents of a part of a regulation. It consi
 	2. content, a string indicating where the issuing authority comes from
 2. zero or more section elements
 3. zero or more appendix elements
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <complexType name="PartContents">
@@ -70,6 +74,8 @@ In addition, subpart contains the following attributes:
 
 1. `subpartLetter`, a string identifying the letter of this subpart
 
+<span class="toggle">View schema code</span>
+
 ```xml
 <complexType name="Subpart">
 	<sequence>
@@ -94,6 +100,8 @@ The `part` element describes the part of a regulation. It consists of the follow
 	1. zero or more `subpart` elements
 	2. zero or more `appendix` elements
 	3. zero or more `interpretation` elements
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <complexType name="Part">

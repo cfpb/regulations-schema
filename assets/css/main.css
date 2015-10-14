@@ -277,6 +277,45 @@ footer .wrap {
   padding-bottom: 2em;
 }
 
+/*
+Toggled Code Blocks
+==================================
+*/
+
+/* style the toggle links */
+
+.toggle {
+  cursor: pointer;
+  color: #0072ce;
+  border-bottom: 1px dotted #0072ce;
+  text-decoration: none;
+}
+
+.toggle:hover {
+  border-bottom: 1px solid #7eb8dd;
+  color: #7eb8dd;
+  text-decoration: none;
+}
+
+.toggle:active {
+    border-bottom: 1px solid #002d72;
+    color: #002d72;
+    text-decoration: none;
+}
+
+.toggle:focus {
+    border-bottom: 1px solid #0072ce;
+    color: #0072ce;
+    outline: thin dotted;
+    text-decoration: none;
+}
+
+
+/* by default schema blocks are hidden when js is enabled*/
+.highlight.hidden {
+  display: none;
+}
+
 
 /*
 Helpers

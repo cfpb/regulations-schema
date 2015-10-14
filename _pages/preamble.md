@@ -13,6 +13,8 @@ The `preamble` to a regulation contains descriptive information about the regula
   2. `section`, an integer identifying the CFR section containing the regulation
 3. `effectiveDate`, the date on which the regulation takes effect
 
+<span class="toggle">View schema code</span>
+
 ```xml
 <complexType name="Preamble">
 	<sequence>

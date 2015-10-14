@@ -26,6 +26,9 @@ In addition, the `tocAppEntry` element supports the following attributes:
 1. `target`, a string indicating the label of the element being referenced
 
 
+<span class="toggle">View schema code</span>
+
+
 ```xml
 <complexType name="TableOfContents">
 	<sequence>

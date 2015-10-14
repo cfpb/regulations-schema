@@ -8,6 +8,8 @@ title: eRegs/RegsML schema
 
 `eregs.xsd` is the main file that defines the RegsML schema. It serves mostly to include other files that define various parts of the schema and defines the top-level regulation element.
 
+<span class="toggle">View schema code</span>
+
 ```xml
   <include schemaLocation="primitives.xsd"></include>
   <include schemaLocation="preamble.xsd"></include>
@@ -20,6 +22,8 @@ The regulation consists of three elements:
 1. The `FDSys` tag which contains information pertinent to the federal register.
 2. The `preamble` tag which contains some descriptive information about the reg.
 3. At least one part.
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <complexType name="Regulation">
@@ -42,6 +46,8 @@ The regulation element enforces the following constraints:
 5. Labels of appendices must be unique.
 6. Labels of appendix sections must be unique.
 
+<span class="toggle">View schema code</span>
+
 ```xml
 <element name="regulation" type="tns:Regulation">
 	<unique name="unique-def-id">
@@ -55,4 +61,4 @@ The regulation element enforces the following constraints:
 </element>
 ```
 
-[View the full schema file](https://github.com/cfpb/regulations-schema/blob/master/src/eregs.xsd)
+[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/eregs.xsd)

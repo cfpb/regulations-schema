@@ -13,6 +13,8 @@ Regulation text is a mixed element that can contain:
 2. references, and
 3. definitions.
 
+<span class="toggle">View schema code</span>
+
 ```XML
 <complexType name="RegText" mixed="true">
   <choice minOccurs="0" maxOccurs="unbounded">
@@ -33,6 +35,8 @@ In addition, the paragraph element contains the following attributes:
 1. `marker`, which defines the marker that is placed in the beginning of the paragraph
 2. `label`, which defines the unique tag that identifies the paragraph.
 
+<span class="toggle">View schema code</span>
+
 ```xml
 <complexType name="Paragraph">
 	<sequence>
@@ -51,6 +55,8 @@ The `reference` element supports referencing any other element with a label attr
 
 1. `target`, the element being referenced.
 2. `reftype`, the type of reference (internal or external)
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <complexType name="Reference">
