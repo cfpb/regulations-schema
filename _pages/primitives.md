@@ -35,6 +35,15 @@ In addition, the paragraph element contains the following attributes:
 1. `marker`, which defines the marker that is placed in the beginning of the paragraph
 2. `label`, which defines the unique tag that identifies the paragraph.
 
+```xml
+<paragraph marker="a">
+  <title>Mortgages with adjustable rates or finance charges and home equity lines of credit.</title>
+  <content>
+    ...
+  </content>
+</paragraph>
+```
+
 <span class="toggle">View schema code</span>
 
 ```xml
@@ -85,4 +94,4 @@ The `definition` element supports defined terms within the text. The `definition
 </complexType>
 ```
 
-[View the full schema file](https://github.com/cfpb/regulations-schema/blob/master/src/primitives.xsd)
+[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/primitives.xsd)

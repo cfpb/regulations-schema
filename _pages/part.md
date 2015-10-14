@@ -15,6 +15,18 @@ The `section` element supports the following attributes:
 1. `sectionNum`, an integer indicating the section number
 2. `label`, a unique id by which the section can be referenced
 
+```xml
+<section sectionNum="1">
+	<subject>Authority, purpose, and scope.</subject>
+	<paragraph marker="a">
+		<title>Authority.</title>
+		<content>
+			...
+		</content>
+	</paragraph>
+</section>
+```
+
 <span class="toggle">View schema code</span>
 
 ```XML
@@ -125,4 +137,4 @@ The `part` element describes the part of a regulation. It consists of the follow
 </complexType>
 ```
 
-[View the full schema file](https://github.com/cfpb/regulations-schema/blob/master/src/part.xsd)
+[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/part.xsd)

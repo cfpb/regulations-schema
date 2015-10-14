@@ -17,11 +17,45 @@ title: eRegs/RegsML schema
   <include schemaLocation="part.xsd"></include>
 ```
 
-The regulation consists of three elements:
+---
+
+**The regulation consists of three elements:**
 
 1. The `FDSys` tag which contains information pertinent to the federal register.
 2. The `preamble` tag which contains some descriptive information about the reg.
 3. At least one part.
+
+```xml
+<fdsys>
+  <cfrTitleNum>12</cfrTitleNum>
+  <cfrTitleText>Banks and Banking</cfrTitleText>
+  <volume>8</volume>
+  <date>2012-01-01</date>
+  <originalDate>2012-01-01</originalDate>
+  <title>ALTERNATIVE MORTGAGE TRANSACTION PARITY (REGULATION D)</title>
+</fdsys>
+<preamble>
+  <agency>Consumer Financial Protection Bureau</agency>
+  <cfr>
+    <title>12</title>
+    <section>1004</section>
+  </cfr>
+  <depdoc>[Docket No. CFPB-2011-0004]</depdoc>
+  <rin>RIN 3170-AA04</rin>
+  <summary>
+    <header>SUMMARY:</header>
+    <content>
+      ...
+    </content>
+  </summary>
+  <effectiveDate>2011-07-22</effectiveDate>
+</preamble>
+<part partNumber="1004">
+  <content>
+    ...
+  </content>
+</part>
+```
 
 <span class="toggle">View schema code</span>
 
@@ -36,6 +70,8 @@ The regulation consists of three elements:
 	</sequence>
 </complexType>
 ```
+
+---
 
 The regulation element enforces the following constraints:
 
@@ -60,5 +96,7 @@ The regulation element enforces the following constraints:
 	</unique>
 </element>
 ```
+
+---
 
 [View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/eregs.xsd)

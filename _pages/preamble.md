@@ -13,6 +13,25 @@ The `preamble` to a regulation contains descriptive information about the regula
   2. `section`, an integer identifying the CFR section containing the regulation
 3. `effectiveDate`, the date on which the regulation takes effect
 
+```xml
+<preamble>
+  <agency>Consumer Financial Protection Bureau</agency>
+  <cfr>
+    <title>12</title>
+    <section>1004</section>
+  </cfr>
+  <depdoc>[Docket No. CFPB-2011-0004]</depdoc>
+  <rin>RIN 3170-AA04</rin>
+  <summary>
+    <header>SUMMARY:</header>
+    <content>
+      ...
+    </content>
+  </summary>
+  <effectiveDate>2011-07-22</effectiveDate>
+</preamble>
+```
+
 <span class="toggle">View schema code</span>
 
 ```xml
@@ -42,4 +61,4 @@ The `preamble` to a regulation contains descriptive information about the regula
 </complexType>
 ```
 
-[View the full schema file](https://github.com/cfpb/regulations-schema/blob/master/src/preamble.xsd)
+[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/preamble.xsd)

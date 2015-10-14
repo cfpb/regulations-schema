@@ -25,6 +25,31 @@ In addition, the `tocAppEntry` element supports the following attributes:
 
 1. `target`, a string indicating the label of the element being referenced
 
+```xml
+<tableOfContents>
+	<tocSecEntry>
+		<sectionNum>1</sectionNum>
+		<sectionSubject>Authority, purpose, and scope.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry>
+		<sectionNum>2</sectionNum>
+				<sectionSubject>Definitions.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry>
+		<sectionNum>3</sectionNum>
+		<sectionSubject>Preemption of State law.</sectionSubject>
+	</tocSecEntry>
+	<tocSecEntry>
+		<sectionNum>4</sectionNum>
+		<sectionSubject>Requirements for alternative mortgage transactions.</sectionSubject>
+	</tocSecEntry>
+	<tocAppEntry>
+		<appendixLetter>A</appendixLetter>
+		<appendixSubject>Appendix A to Part 1004—Official Commentary on Regulation D</appendixSubject>
+	</tocAppEntry>
+</tableOfContents>
+```
+
 
 <span class="toggle">View schema code</span>
 
@@ -59,3 +84,5 @@ In addition, the `tocAppEntry` element supports the following attributes:
 	</sequence>
 </complexType>
 ```
+
+[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/toc.xsd)

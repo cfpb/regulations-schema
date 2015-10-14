@@ -16,6 +16,19 @@ In addition, the appendix element supports the following attributes:
 1. `appendixLetter`, a string containing the letter by which the appendix is identified
 2. `label`, a string containing an identifier by which the appendix can be referenced
 
+### Sample XML
+
+```xml
+<appendix appendixLetter="A" label="1004-A">
+	<appendixTitle>Appendix A to Part 1004</appendixTitle>
+	<appendixSection appendixSecNum="1" label="1004-A-1">
+    ...
+	</appendixSection>
+</appendix>
+```
+
+<span class="toggle">View schema code</span>
+
 ```xml
 <complexType name="Appendix">
 	<sequence>
@@ -34,6 +47,8 @@ In addition, the appendix element supports the following attributes:
 </complexType>
 ```
 
+---
+
 The `appendixSection` type defines a section of an appendix. It consists of the following elements:
 
 1. `subject`, a string containing the section title
@@ -43,6 +58,24 @@ In addition the `appendixSection` element supports the following attributes:
 
 1. `appendixSecNum`, an integer indicating the section number
 2. `label`, a string containing a unique identifier by which the section can be referenced
+
+
+### Sample XML
+
+```xml
+<appendixSection appendixSecNum="1" label="1004-A-1">
+	<subject>§ 1004.1 Authority, Purpose, and Scope</subject>
+	<appendixHeader>1(c) Scope</appendixHeader>
+	<paragraph marker="1">
+		<title>Application received before July 22, 2011.</title>
+		<content>
+			...
+		</content>
+	</paragraph>
+</appendixSection>
+```
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <complexType name="AppendixSection">
@@ -58,7 +91,15 @@ In addition the `appendixSection` element supports the following attributes:
 </complexType>
 ```
 
+---
+
 The `appendixHeader` element is a wrapper type for a string element.
+
+```xml
+<appendixHeader>2(a) Alternative Mortgage Transaction</appendixHeader>
+```
+
+<span class="toggle">View schema code</span>
 
 ```xml
 <simpleType name="AppendixHeader">
@@ -66,4 +107,6 @@ The `appendixHeader` element is a wrapper type for a string element.
 </simpleType>
 ```
 
-[View the full schema file](https://github.com/cfpb/regulations-schema/blob/master/src/appendix.xsd)
+---
+
+**[View the full schema file &#187;](https://github.com/cfpb/regulations-schema/blob/master/src/appendix.xsd)**
