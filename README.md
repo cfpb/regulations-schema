@@ -24,7 +24,7 @@ cd DOCter
 Run Jekyll:
 
 ```
-jekyll serve --baseurl ''
+bundle exec jekyll serve --watch --baseurl ''
 ```
 
 
