@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="eregs"
+	xmlns:tns="eregs" 
+	elementFormDefault="qualified">
+	
+	<!-- 
+	
+	This file provides the schema for the notices that accompany the regulation text.
+	
+	 -->
+	 
+	<include schemaLocation="primitives.xsd"></include>
+	 
+	<complexType name="Notice">
+		<sequence>
+			<element name="abstract" type="string"></element>
+			<element name="action" type="string"></element>
+			<element name="agencyNames">
+				<complexType>
+					<sequence minOccurs="1" maxOccurs="unbounded">
+						<element name="agency" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="amendments">
+				<complexType>
+					<sequence minOccurs="0" maxOccurs="unbounded">
+						<element name="amendment" type="tns:Amendment"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="contact" type="string"></element>
+			<element name="documentNumber" type="string"></element>
+			<element name="effectiveDate" type="string"></element>
+			<element name="footnotes">
+				<complexType>
+					<sequence minOccurs="0" maxOccurs="unbounded">
+						<element name="footnote" type="tns:Footnote"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="frCitation" type="string"></element>
+			<element name="frUrl" type="anyURI"></element>
+			<element name="frVolume" type="int"></element>
+			<element name="initialEffectiveDate" type="date"></element>
+			<element name="publicationDate" type="date"></element>
+			<element name="regulationIdNumbers">
+				<complexType>
+					<choice minOccurs="1" maxOccurs="unbounded">
+						<element name="regulationId" type="string"></element>
+					</choice>
+				</complexType>
+			</element>
+			
+		</sequence>
+	</complexType>
+	
+	<complexType name="Amendment">
+		<sequence>
+			<element name="action">
+				<simpleType>
+					<restriction base="string">
+						<enumeration value="post"></enumeration>
+						<enumeration value="designate"></enumeration>
+						<enumeration value="put"></enumeration>
+						<enumeration value="delete"></enumeration>
+					</restriction>
+				</simpleType>
+			</element>
+			<element name="targets">
+				<complexType>
+					<sequence>
+						<element name="target" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<choice minOccurs="0" maxOccurs="1">
+				<element name="destination" type="string"></element>
+			</choice>
+		</sequence>
+	</complexType>
+	
+	<complexType name="Footnote">
+		<simpleContent>
+			<extension base="string">
+				<attribute name="index"></attribute>
+			</extension>
+		</simpleContent>
+	</complexType>
+	
+	
+	
+</schema>

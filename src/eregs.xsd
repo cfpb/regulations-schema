@@ -14,7 +14,8 @@
 	<include schemaLocation="preamble.xsd"></include>
 	<include schemaLocation="toc.xsd"></include>
 	<include schemaLocation="part.xsd"></include>
-
+	<include schemaLocation="notices.xsd"></include>
+	
 	<!-- 
 		The regulation consists of three elements:
 		1. The FDSys tag which contains information pertinent to the federal register.

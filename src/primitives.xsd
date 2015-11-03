@@ -4,6 +4,9 @@
 	xmlns:tns="eregs" 
 	elementFormDefault="qualified">
 	
+	<include schemaLocation="table.xsd"></include>
+	<include schemaLocation="formatting.xsd"></include>
+	
 	<!-- 
 		This file represents the primitives that are allowed in the RegsML.
 	 -->
@@ -19,12 +22,28 @@
 		<choice minOccurs="0" maxOccurs="unbounded">
 			<element ref="tns:ref"></element>
 			<element ref="tns:def"></element>
+			<element ref="tns:graphic"></element>
+			<element ref="tns:dash"></element>
+			<element ref="tns:table"></element>
 		</choice>
 	</complexType>
 	
 	<!-- 
+		titleType enumerates the possible attributes that can be contained
+		in a paragraph title tag
+	 -->
+	
+	<simpleType name="titleType">
+		<restriction base="string">
+			<enumeration value="header"></enumeration>
+			<enumeration value="keyterm"></enumeration>
+		</restriction>
+	</simpleType>
+	
+	<!-- 
 		The paragraph element can contain the following:
 		1. At most 1 paragraph title.
+		   a. Which supports a type attribute indicating whether the title is a keyterm
 		2. One content tag that contains regtext.
 		3. Possibly any number of subparagraphs.
 		
@@ -36,7 +55,15 @@
 	<complexType name="Paragraph">
     	<sequence>
     		<choice minOccurs="0" maxOccurs="1">
-    			<element name="title" type="string"></element>
+    			<element name="title">
+    				<complexType>
+    					<simpleContent>
+    						<extension base="string">
+    							<attribute name="type" type="tns:titleType"></attribute>
+    						</extension>
+    					</simpleContent>
+    				</complexType>
+    			</element>
     		</choice>
     		<element name="content" type="tns:RegText"></element>
     		<element ref="tns:paragraph" minOccurs="0" maxOccurs="unbounded"></element>
@@ -51,12 +78,21 @@
 		1. target, the element being referenced.
 		2. reftype, the type of reference (internal or external)
 	 -->
+	 
+	<simpleType name="reftype">
+		<restriction base="string">
+			<enumeration value="internal"></enumeration>
+			<enumeration value="external"></enumeration>
+			<enumeration value="footnote"></enumeration>
+			<enumeration value="term"></enumeration>
+		</restriction>
+	</simpleType>
 
 	<complexType name="Reference">
 		<simpleContent>
 			<extension base="string">
 				<attribute name="target" type="string"></attribute>
-				<attribute name="reftype" type="string"></attribute>
+				<attribute name="reftype" type="tns:reftype"></attribute>
 			</extension>
 		</simpleContent>
 	</complexType>
@@ -77,6 +113,23 @@
 		</simpleContent>
 	</complexType>
 	
+	<!--  
+		The graphics element supports embedding graphics within the text.
+		
+	 -->
+	
+	<complexType name="Graphics">
+		<sequence>
+			<element name="altText" type="string"></element>
+			<element name="text" type="string"></element>
+			<element name="url" type="anyURI"></element>
+			<choice minOccurs="0" maxOccurs="1">
+				<element name="thumbUrl" type="anyURI"></element>
+			</choice>
+		</sequence>
+	</complexType>
+	
+	
 	<!-- 
 		Elements instantiating the various types.
 	 -->
@@ -84,5 +137,6 @@
 	<element name="ref" type="tns:Reference"></element>
     <element name="paragraph" type="tns:Paragraph"></element>
     <element name="def" type="tns:Definition"></element>
+    <element name="graphic" type="tns:Graphics"></element>
     
 </schema>
