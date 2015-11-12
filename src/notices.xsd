@@ -81,6 +81,7 @@
 		</sequence>
 	</complexType>
 	
+        <!--
 	<complexType name="Footnote">
 		<simpleContent>
 			<extension base="string">
@@ -88,6 +89,7 @@
 			</extension>
 		</simpleContent>
 	</complexType>
+        -->
 	
 	
 	
