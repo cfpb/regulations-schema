@@ -30,6 +30,9 @@
 				<element name="reserved" type="string"></element>
 				<element ref="tns:appendixSection"></element>
 			</choice>
+    		<choice minOccurs="0" maxOccurs="unbounded">
+    			<element ref="tns:analysis"></element>
+    		</choice>
 		</sequence>
 		<attribute name="appendixLetter" type="string" use="required"></attribute>
 		<attribute name="label" type="string" use="required"></attribute>
@@ -52,6 +55,9 @@
     		<choice maxOccurs="unbounded">
     			<element ref="tns:appendixHeader"></element>
     			<element ref="tns:paragraph"></element>
+    		</choice>
+    		<choice minOccurs="0" maxOccurs="unbounded">
+    			<element ref="tns:analysis"></element>
     		</choice>
     	</sequence>
     	<attribute name="appendixSecNum" type="string" use="required"></attribute>

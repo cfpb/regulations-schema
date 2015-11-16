@@ -26,7 +26,7 @@
     		<choice maxOccurs="unbounded">
     			<element name="reserved" type="string"></element>
     			<element name="paragraph" type="tns:Paragraph"></element>
-    			<element name="analysis" type="tns:Analysis"></element>
+    			<element ref="tns:analysis"></element>
     		</choice>
     	</sequence>
     	<attribute name="sectionNum" type="int" use="required"></attribute>
