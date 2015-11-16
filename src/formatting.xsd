@@ -6,5 +6,19 @@
 
 	<element name="dash"></element>
 
+	<!--  
+	The Emphasis type describes italicized text. It is an extension of string, having the additional
+	attribute of data-original, which describes the original emphasis tag from the eCFR XML.
+	 -->
+	
+	<complexType name="Emphasis">
+		<simpleContent>
+			<extension base="string">
+				<attribute name="data-original" type="string"></attribute>
+			</extension>
+		</simpleContent>
+	</complexType>
+	
+	<element name="em"></element>
 	
 </schema>
