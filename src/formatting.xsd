@@ -4,8 +4,6 @@
 	xmlns:tns="eregs" 
 	elementFormDefault="qualified">
 
-	<element name="dash"></element>
-
 	<!--  
 	The Emphasis type describes italicized text. It is an extension of string, having the additional
 	attribute of data-original, which describes the original emphasis tag from the eCFR XML.
@@ -20,5 +18,6 @@
 	</complexType>
 	
 	<element name="em"></element>
+	<element name="dash"></element>
 	
 </schema>
