@@ -3,6 +3,8 @@
     targetNamespace="eregs"
     xmlns:tns="eregs" 
     elementFormDefault="qualified">
+    
+    <include schemaLocation="formatting.xsd"></include>
 
   <!-- 
       The analysis type describes the analysis of a section of the 
@@ -50,11 +52,13 @@
          footnote elements
       2. zero or more other analysisParagraph elements
       3. zero or more footnote elements
+      4. italicized text
    -->
   <complexType name="AnalysisParagraph" mixed="true">
     <sequence>
       <choice minOccurs="0" maxOccurs="unbounded">
         <element ref="tns:footnote"></element>
+        <element name="em" type="tns:Emphasis"></element>
       </choice>
     </sequence>
   </complexType>
