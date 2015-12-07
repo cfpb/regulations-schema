@@ -25,6 +25,7 @@
 					</sequence>
 				</complexType>
 			</element>
+			<element name="documentNumber" type="string"></element>
 <!-- 			<element name="depdoc" type="string"></element> -->
 <!-- 			<element name="rin" type="string"></element> -->
 <!-- 			<element name="summary"> -->
