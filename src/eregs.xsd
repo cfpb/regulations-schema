@@ -52,6 +52,10 @@
     		<selector xpath=".//tns:paragraph|.//tns:section|.//tns:subpart|.//tns:appendix|.//tns:appendixSection"></selector>
     		<field xpath="@label"></field>
     	</unique>
+    	<unique name="unique-interp-label">
+    		<selector xpath=".//tns:interpSection|.//tns:interpParagraph"></selector>
+    		<field xpath="@label"></field>
+    	</unique>
     </element>
         
 </schema>

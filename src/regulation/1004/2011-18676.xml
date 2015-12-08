@@ -101,10 +101,10 @@
           </section>
           <section label="1004-2" sectionNum="2">
             <subject>§ 1004.2 Definitions.</subject>
-            <paragraph label="1004-2-def0" marker="">
+            <paragraph label="1004-2-def0" marker="none">
               <content>For purposes of this part:</content>
             </paragraph>
-            <paragraph label="1004-2-a" marker="(a)">
+            <paragraph label="1004-2-a" marker="none">
               <content><def term="alternative mortgage transaction" id="928d2a15bbab2fad46203758ff4e81169172fd2f">Alternative mortgage transaction</def> means a loan, credit sale, or account:</content>
               <paragraph label="1004-2-a-1" marker="(1)">
                 <content>That is secured by an interest in a residential structure that contains one to four units, whether or not that structure is attached to real property, including an individual condominium unit, cooperative unit, mobile home, or trailer, if it is used as a residence;</content>
@@ -116,10 +116,10 @@
                 <content>In which the interest rate or finance charge may be adjusted or renegotiated.</content>
               </paragraph>
             </paragraph>
-            <paragraph label="1004-2-b" marker="(b)">
+            <paragraph label="1004-2-b" marker="none">
               <content>Creditor shall have the same meaning as in <ref target="CFR:12-226-2" reftype="external">12 CFR 226.2</ref>.</content>
             </paragraph>
-            <paragraph label="1004-2-c" marker="(c)">
+            <paragraph label="1004-2-c" marker="none">
               <content><def term="housing creditor" id="2eabed2fb2a0df881069754e8acd218322aede1f">Housing creditor</def> means:</content>
               <paragraph label="1004-2-c-1" marker="(1)">
                 <content>A depository institution, as defined in section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980;</content>
@@ -134,10 +134,10 @@
                 <content>Any transferee of a party listed in paragraph <ref target="1004-2-c-1" reftype="internal">(c)(1)</ref>, <ref target="1004-2-c-2" reftype="internal">(2)</ref>, or <ref target="1004-2-c-3" reftype="internal">(3)</ref> of this section.</content>
               </paragraph>
             </paragraph>
-            <paragraph label="1004-2-d" marker="(d)">
+            <paragraph label="1004-2-d" marker="none">
               <content><def term="state" id="aa4a5f8125f234182e2dea92805afdfb747a86be">State</def> means any State of the United States of America, the District of Columbia, Puerto Rico, the Virgin Islands, the Northern Mariana Islands, American Samoa, Guam, and any other territory or possession of the United States.</content>
             </paragraph>
-            <paragraph label="1004-2-e" marker="(e)">
+            <paragraph label="1004-2-e" marker="none">
               <content><def term="state law" id="b070ef4a8406d218428a05122c673ff890851f2b">State law</def> means a <ref target="1004-2-d" reftype="term">State</ref> constitution, statute, or regulation or any provision thereof.</content>
             </paragraph>
             <analysis>
