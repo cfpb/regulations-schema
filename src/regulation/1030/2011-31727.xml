@@ -14,6 +14,7 @@
       <title>12</title>
       <section>1030</section>
     </cfr>
+    <documentNumber>2011-31727</documentNumber>
     <effectiveDate>2011-12-30</effectiveDate>
   </preamble>
   <part partNumber="1030">
@@ -260,7 +261,7 @@
               </paragraph>
               <paragraph label="1030-3-f-2" marker="(2)">
                 <title type="keyterm">Accuracy.</title>
-                <content>Accuracy. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> (and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> (and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) determined in accordance with the rules in <ref target="1030-A" reftype="internal">appendix A</ref> of this part.</content>
+                <content>Accuracy. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> (and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> (and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) determined in accordance with the rules in <ref target="1030-A" reftype="internal">Appendix A</ref> of this part.</content>
               </paragraph>
             </paragraph>
           </section>
@@ -306,7 +307,7 @@
                 <content>Rate information.</content>
                 <paragraph label="1030-4-b-1-i" marker="(i)">
                   <title type="keyterm">Annual percentage yield and interest rate.</title>
-                  <content><ref target="1030-2-c" reftype="term">Annual percentage yield</ref> and <ref target="1030-2-o" reftype="term">interest rate</ref>. The “ <ref target="1030-2-c" reftype="term">annual percentage yield</ref> ” and the “ <ref target="1030-2-o" reftype="term">interest rate</ref> ,” using those terms, and for <ref target="1030-2-l" reftype="term">fixed-rate accounts</ref> the period of time the <ref target="1030-2-o" reftype="term">interest rate</ref> will be in effect.</content>
+                  <content><ref target="1030-2-c" reftype="term">Annual percentage yield</ref> and <ref target="1030-2-o" reftype="term">interest rate</ref>. The “<ref target="1030-2-c" reftype="term">annual percentage yield</ref>” and the “<ref target="1030-2-o" reftype="term">interest rate</ref>,” using those terms, and for <ref target="1030-2-l" reftype="term">fixed-rate accounts</ref> the period of time the <ref target="1030-2-o" reftype="term">interest rate</ref> will be in effect.</content>
                 </paragraph>
                 <paragraph label="1030-4-b-1-ii" marker="(ii)">
                   <title type="keyterm">Variable rates.</title>
@@ -389,7 +390,7 @@
                 </paragraph>
                 <paragraph label="1030-4-b-6-iii" marker="(iii)">
                   <title type="keyterm">Withdrawal of interest prior to maturity.</title>
-                  <content>Withdrawal of <ref target="1030-2-n" reftype="term">interest</ref> prior to maturity. If compounding occurs during the term and <ref target="1030-2-n" reftype="term">interest</ref> may be withdrawn prior to maturity, a statement that the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> assumes <ref target="1030-2-n" reftype="term">interest</ref> remains on deposit until maturity and that a withdrawal will reduce earnings. For <ref target="1030-2-a" reftype="term">accounts</ref> with a stated maturity greater than one year that do not compound <ref target="1030-2-n" reftype="term">interest</ref> on an annual or more frequent basis, that require <ref target="1030-2-n" reftype="term">interest</ref> payouts at least annually, and that disclose an APY determined in accordance with <ref target="1030-A-I-h7" reftype="internal">section E of appendix A</ref> of this part, a statement that <ref target="1030-2-n" reftype="term">interest</ref> cannot remain on deposit and that payout of <ref target="1030-2-n" reftype="term">interest</ref> is mandatory.</content>
+                  <content>Withdrawal of <ref target="1030-2-n" reftype="term">interest</ref> prior to maturity. If compounding occurs during the term and <ref target="1030-2-n" reftype="term">interest</ref> may be withdrawn prior to maturity, a statement that the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> assumes <ref target="1030-2-n" reftype="term">interest</ref> remains on deposit until maturity and that a withdrawal will reduce earnings. For <ref target="1030-2-a" reftype="term">accounts</ref> with a stated maturity greater than one year that do not compound <ref target="1030-2-n" reftype="term">interest</ref> on an annual or more frequent basis, that require <ref target="1030-2-n" reftype="term">interest</ref> payouts at least annually, and that disclose an APY determined in accordance with <ref target="1030-A-I-h7" reftype="internal">section E of Appendix A</ref> of this part, a statement that <ref target="1030-2-n" reftype="term">interest</ref> cannot remain on deposit and that payout of <ref target="1030-2-n" reftype="term">interest</ref> is mandatory.</content>
                 </paragraph>
                 <paragraph label="1030-4-b-6-iv" marker="(iv)">
                   <title type="keyterm">Renewal policies.</title>
@@ -479,7 +480,7 @@
               <content>General rule. If a <ref target="1030-2-j" reftype="term">depository institution</ref> mails or delivers a <ref target="1030-2-q" reftype="term">periodic statement</ref> , the statement shall include the following disclosures: </content>
               <paragraph label="1030-6-a-1" marker="(1)">
                 <title type="keyterm">Annual percentage yield earned.</title>
-                <content><ref target="1030-2-c" reftype="term">Annual percentage yield</ref> earned. The “ <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned” during the statement period, using that term, calculated according to the rules in <ref target="1030-A" reftype="internal">appendix A</ref> of this part.</content>
+                <content><ref target="1030-2-c" reftype="term">Annual percentage yield</ref> earned. The “ <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned” during the statement period, using that term, calculated according to the rules in <ref target="1030-A" reftype="internal">Appendix A</ref> of this part.</content>
               </paragraph>
               <paragraph label="1030-6-a-2" marker="(2)">
                 <title type="keyterm">Amount of interest.</title>
@@ -578,7 +579,7 @@
                 </paragraph>
                 <paragraph label="1030-8-c-6-iii" marker="(iii)">
                   <title type="keyterm">Required interest payouts.</title>
-                  <content>Required interest payouts. For noncompounding <ref target="1030-2-u" reftype="term">time accounts</ref> with a stated maturity greater than one year that do not compound <ref target="1030-2-n" reftype="term">interest</ref> on an annual or more frequent basis, that require <ref target="1030-2-n" reftype="term">interest</ref> payouts at least annually, and that disclose an APY determined in accordance with <ref target="1030-A-I-h7" reftype="internal">section E of appendix A</ref> of this part, a statement that <ref target="1030-2-n" reftype="term">interest</ref> cannot remain on deposit and that payout of <ref target="1030-2-n" reftype="term">interest</ref> is mandatory.</content>
+                  <content>Required interest payouts. For noncompounding <ref target="1030-2-u" reftype="term">time accounts</ref> with a stated maturity greater than one year that do not compound <ref target="1030-2-n" reftype="term">interest</ref> on an annual or more frequent basis, that require <ref target="1030-2-n" reftype="term">interest</ref> payouts at least annually, and that disclose an APY determined in accordance with <ref target="1030-A-I-h7" reftype="internal">section E of Appendix A</ref> of this part, a statement that <ref target="1030-2-n" reftype="term">interest</ref> cannot remain on deposit and that payout of <ref target="1030-2-n" reftype="term">interest</ref> is mandatory.</content>
                 </paragraph>
               </paragraph>
             </paragraph>
@@ -678,7 +679,7 @@
               </paragraph>
               <paragraph label="1030-11-a-3" marker="(3)">
                 <title type="keyterm">Format requirements.</title>
-                <content>Format requirements. The aggregate fee disclosures required by paragraph <ref target="1030-11-a" reftype="internal">(a)</ref> of this section must be disclosed in close proximity to fees identified under § <ref target="1030-6-a-3" reftype="internal">1030.6(a)(3)</ref>, using a format substantially similar to <ref target="1030-B-10" reftype="internal">Sample Form B-10</ref> in <ref target="1030-B" reftype="internal">appendix B</ref> to this part.</content>
+                <content>Format requirements. The aggregate fee disclosures required by paragraph <ref target="1030-11-a" reftype="internal">(a)</ref> of this section must be disclosed in close proximity to fees identified under § <ref target="1030-6-a-3" reftype="internal">1030.6(a)(3)</ref>, using a format substantially similar to <ref target="1030-B-10" reftype="internal">Sample Form B-10</ref> in <ref target="1030-B" reftype="internal">Appendix B</ref> to this part.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1030-11-b" marker="(b)">
@@ -1851,7 +1852,7 @@
 	    <content/>
 	    <interpParagraph label="1030-2-f-Interp-1">
 	      <title>Examples.</title>
-              <content>Bonuses include items of value, other than interest, offered as incentives to consumers, such as an offer to pay the final installment deposit for a holiday club account. Items that are not a bonus include discount coupons for goods or services at restaurants or stores.</content>
+              <content><ref target="1030-2-f" reftype="term">Bonuses</ref> include items of value, other than interest, offered as incentives to consumers, such as an offer to pay the final installment deposit for a holiday club account. Items that are not a bonus include discount coupons for goods or services at restaurants or stores.</content>
 	    </interpParagraph>
 	    <interpParagraph label="1030-2-f-Interp-2">
 	      <title>De minimis rule.</title>
@@ -2222,15 +2223,15 @@
                 </interpParagraph>
                 <interpParagraph label="1030-4-b-1-i-Interp-2">
 		  <title>Fixed-rate accounts.</title>
-                  <content>For fixed-rate <ref target="1030-2-u" reftype="term">time accounts</ref> paying the opening rate until maturity, <ref target="1030-2-j" reftype="term">institutions</ref> may disclose the period of time the <ref target="1030-2-o" reftype="term">interest rate</ref> will be in effect by stating the maturity date. (See <ref target="1030-B-7" reftype="internal">appendix B-7</ref> —Sample Form.) For other <ref target="1030-2-l" reftype="term">fixed-rate accounts</ref>, <ref target="1030-2-j" reftype="term">institutions</ref> may use a date (“This rate will be in effect through May 4, 1995”) or a period (“This rate will be in effect for at least 30 days”).</content>
+                  <content>For fixed-rate <ref target="1030-2-u" reftype="term">time accounts</ref> paying the opening rate until maturity, <ref target="1030-2-j" reftype="term">institutions</ref> may disclose the period of time the <ref target="1030-2-o" reftype="term">interest rate</ref> will be in effect by stating the maturity date. (See <ref target="1030-B-7" reftype="internal">Appendix B-7—Sample Form</ref>.) For other <ref target="1030-2-l" reftype="term">fixed-rate accounts</ref>, <ref target="1030-2-j" reftype="term">institutions</ref> may use a date (“This rate will be in effect through May 4, 1995”) or a period (“This rate will be in effect for at least 30 days”).</content>
                 </interpParagraph>
                 <interpParagraph label="1030-4-b-1-i-Interp-3">
 		  <title>Tiered-rate accounts.</title>
-                  <content>Each <ref target="1030-2-o" reftype="term">interest rate</ref>, along with the corresponding <ref target="1030-2-c" reftype="term">annual percentage yield</ref> for each specified balance level (or range of <ref target="1030-2-c" reftype="term">annual percentage yields</ref>, if appropriate), must be disclosed for <ref target="1030-2-t" reftype="term">tiered-rate accounts</ref>. (See <ref target="1030-A-I-h6" reftype="internal">appendix A, Part I, Paragraph D</ref>.) </content>
+                  <content>Each <ref target="1030-2-o" reftype="term">interest rate</ref>, along with the corresponding <ref target="1030-2-c" reftype="term">annual percentage yield</ref> for each specified balance level (or range of <ref target="1030-2-c" reftype="term">annual percentage yields</ref>, if appropriate), must be disclosed for <ref target="1030-2-t" reftype="term">tiered-rate accounts</ref>. (See <ref target="1030-A-I-h6" reftype="internal">Appendix A, Part I, Paragraph D</ref>.) </content>
                 </interpParagraph>
                 <interpParagraph label="1030-4-b-1-i-Interp-4">
 		  <title>Stepped-rate accounts.</title>
-                  <content>A single composite <ref target="1030-2-c" reftype="term">annual percentage yield</ref> must be disclosed for <ref target="1030-2-s" reftype="term">stepped-rate accounts</ref>. (See <ref target="1030-A-I-h3" reftype="internal">appendix A, Part I, Paragraph B</ref>.) The <ref target="1030-2-o" reftype="term">interest rates</ref> and the period of time each will be in effect also must be provided. When the initial rate offered for a specified time on a <ref target="1030-2-v" reftype="term">variable-rate account</ref> is higher or lower than the rate that would otherwise be paid on the <ref target="1030-2-a" reftype="term">account</ref>, the calculation of the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> must be made as if for a <ref target="1030-2-s" reftype="term">stepped-rate account</ref>. (See <ref target="1030-A-I-h5" reftype="internal">appendix A, Part I, Paragraph C</ref>.)</content>
+                  <content>A single composite <ref target="1030-2-c" reftype="term">annual percentage yield</ref> must be disclosed for <ref target="1030-2-s" reftype="term">stepped-rate accounts</ref>. (See <ref target="1030-A-I-h3" reftype="internal">Appendix A, Part I, Paragraph B</ref>.) The <ref target="1030-2-o" reftype="term">interest rates</ref> and the period of time each will be in effect also must be provided. When the initial rate offered for a specified time on a <ref target="1030-2-v" reftype="term">variable-rate account</ref> is higher or lower than the rate that would otherwise be paid on the <ref target="1030-2-a" reftype="term">account</ref>, the calculation of the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> must be made as if for a <ref target="1030-2-s" reftype="term">stepped-rate account</ref>. (See <ref target="1030-A-I-h5" reftype="internal">Appendix A, Part I, Paragraph C</ref>.)</content>
                 </interpParagraph>
               </interpParagraph>
 
@@ -2429,7 +2430,7 @@
                 </interpParagraph>
                 <interpParagraph label="1030-4-b-6-iv-Interp-2">
 		  <title>Nonrollover time accounts.</title>
-                  <content><ref target="1030-2-j" reftype="term">Institutions</ref> paying <ref target="1030-2-n" reftype="term">interest</ref> on funds following the maturity of <ref target="1030-2-u" reftype="term">time accounts</ref> that do not renew automatically need not state the rate (or <ref target="1030-2-c" reftype="term">annual percentage yield</ref> ) that may be paid. (See <ref target="1030-B-1-h-iv-2" reftype="internal">appendix B, Model Clause B-1(h)(iv)(2).</ref>) </content>
+                  <content><ref target="1030-2-j" reftype="term">Institutions</ref> paying <ref target="1030-2-n" reftype="term">interest</ref> on funds following the maturity of <ref target="1030-2-u" reftype="term">time accounts</ref> that do not renew automatically need not state the rate (or <ref target="1030-2-c" reftype="term">annual percentage yield</ref> ) that may be paid. (See <ref target="1030-B-1-h-iv-2" reftype="internal">Appendix B, Model Clause B-1(h)(iv)(2).</ref>) </content>
                 </interpParagraph>
               </interpParagraph>
             </interpParagraph>
@@ -3189,7 +3190,7 @@
 	      
               <interpParagraph label="1030-11-a-1-Interp-2">
 		<title>Fees for paying overdrafts.</title>
-		<content>Institutions must disclose on periodic statements a total dollar amount for all fees or charges imposed on the account for paying overdrafts. The institution must disclose separate totals for the statement period and for the calendar year-to-date. The total dollar amount for each of these periods includes per-item fees as well as interest charges, daily or other periodic fees, or fees charged for maintaining an account in overdraft status, whether the overdraft is by check, debit card transaction, or by any other transaction type. It also includes fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. It does not include fees for transferring funds from another account of the consumer to avoid an overdraft, or fees charged under a service subject to Regulation Z (12 CFR part 1026). See also comment 11(c)-2. Under § 1030.11(a)(1)(i), the disclosure must describe the total dollar amount for all fees or charges imposed on the account for the statement period and calendar year-to-date for paying overdrafts using the term “Total Overdraft Fees.” This requirement applies notwithstanding comment 3(a)-2.3.</content>
+		<content>Institutions must disclose on periodic statements a total dollar amount for all fees or charges imposed on the account for paying overdrafts. The institution must disclose separate totals for the statement period and for the calendar year-to-date. The total dollar amount for each of these periods includes per-item fees as well as interest charges, daily or other periodic fees, or fees charged for maintaining an account in overdraft status, whether the overdraft is by check, debit card transaction, or by any other transaction type. It also includes fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. It does not include fees for transferring funds from another account of the consumer to avoid an overdraft, or fees charged under a service subject to Regulation Z (12 CFR part 1026). See also comment 11(c)-2. Under § 1030.11(a)(1)(i), the disclosure must describe the total dollar amount for all fees or charges imposed on the account for the statement period and calendar year-to-date for paying overdrafts using the term “Total Overdraft Fees.” This requirement applies notwithstanding comment 3(a)-2.</content>
 	      </interpParagraph>
 
 	      <interpParagraph label="1030-11-a-1-Interp-3">
@@ -3280,14 +3281,14 @@
 
             <interpParagraph label="1030-11-b-Interp-8">
 	      <title>Advertising an account as “free.”</title>
-              <content>If the advertised <ref target="1030-2-a" reftype="term">account</ref> -related service is an overdraft service subject to the requirements of § <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part, <ref target="1030-2-j" reftype="term">institutions</ref> must disclose the fee or fees for the payment of each overdraft, not merely that a cost is associated with the overdraft service, as well as other required information. Compliance with comment 8(a)-10.v. is not sufficient. (c) Disclosure of <ref target="1030-2-a" reftype="term">account</ref> balances.</content>
+              <content>If the advertised <ref target="1030-2-a" reftype="term">account</ref> -related service is an overdraft service subject to the requirements of § <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part, <ref target="1030-2-j" reftype="term">institutions</ref> must disclose the fee or fees for the payment of each overdraft, not merely that a cost is associated with the overdraft service, as well as other required information. Compliance with comment 8(a)-10.v. is not sufficient.</content>
             </interpParagraph>
 	  </interpParagraph>
 
 	  <!-- Interps for 9(c) -->
 
 	  <interpParagraph label="1030-11-c-Interp" target="1030-11-c">
-	    <title>(c) Discount of account balances.</title>
+	    <title>(c) Disclosure of account balances.</title>
 	    <content/>
             <interpParagraph label="1030-11-c-Interp-1">
 	      <title>Balance that does not include additional amounts.</title>
@@ -3374,7 +3375,7 @@
             </interpParagraph>
             <interpParagraph label="1030-A-II-h11-Interp-2">
               <title>Rounding.</title>
-              <content>Rounding. The <ref target="1030-2-n" reftype="term">interest</ref> earned figure used to calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned must be rounded to two decimals and reflect the amount actually paid. For example, if the <ref target="1030-2-n" reftype="term">interest</ref> earned for a statement period is $20.074 and the <ref target="1030-2-j" reftype="term">institution</ref> pays the <ref target="1030-2-h" reftype="term">consumer</ref> $20.07, the <ref target="1030-2-j" reftype="term">institution</ref> must use $20.07 (not $20.074) to calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned. For <ref target="1030-2-a" reftype="term">accounts</ref> paying <ref target="1030-2-n" reftype="term">interest</ref> based on the <ref target="1030-2-i" reftype="term">daily balance method</ref> that compound and credit <ref target="1030-2-n" reftype="term">interest</ref> quarterly, and send monthly statements, the <ref target="1030-2-j" reftype="term">institution</ref> may, but need not, round accrued <ref target="1030-2-n" reftype="term">interest</ref> to two decimals for calculating the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned on the first two monthly statements issued during the quarter. However, on the quarterly statement the <ref target="1030-2-n" reftype="term">interest</ref> earned figure must reflect the amount actually paid.</content>
+              <content>The <ref target="1030-2-n" reftype="term">interest</ref> earned figure used to calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned must be rounded to two decimals and reflect the amount actually paid. For example, if the <ref target="1030-2-n" reftype="term">interest</ref> earned for a statement period is $20.074 and the <ref target="1030-2-j" reftype="term">institution</ref> pays the <ref target="1030-2-h" reftype="term">consumer</ref> $20.07, the <ref target="1030-2-j" reftype="term">institution</ref> must use $20.07 (not $20.074) to calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned. For <ref target="1030-2-a" reftype="term">accounts</ref> paying <ref target="1030-2-n" reftype="term">interest</ref> based on the <ref target="1030-2-i" reftype="term">daily balance method</ref> that compound and credit <ref target="1030-2-n" reftype="term">interest</ref> quarterly, and send monthly statements, the <ref target="1030-2-j" reftype="term">institution</ref> may, but need not, round accrued <ref target="1030-2-n" reftype="term">interest</ref> to two decimals for calculating the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned on the first two monthly statements issued during the quarter. However, on the quarterly statement the <ref target="1030-2-n" reftype="term">interest</ref> earned figure must reflect the amount actually paid.</content>
             </interpParagraph>
           </interpParagraph>
 
@@ -3383,14 +3384,14 @@
           <interpParagraph label="1030-A-II-h12-Interp" target="1030-A-II-h12">
             <title>B. Special Formula for Use Where Periodic Statement Is Sent More Often Than the Period for Which Interest Is Compounded.</title>
             <content/>
-            <interpParagraph label="1030-A-II-2-h2-Interp-1" target="1030-A-II-2-h2-1" marker="1.">
+            <interpParagraph label="1030-A-II-2-h2-Interp-1" target="1030-A-II-2-h2-1">
               <title>Statements triggered by Regulation E.</title>
               <content><ref target="1030-2-j" reftype="term">Institutions</ref> may, but need not, use this formula to calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned for <ref target="1030-2-a" reftype="term">accounts</ref> that receive quarterly statements and are subject to Regulation E's rule calling for monthly statements when an electronic fund transfer has occurred. They may do so even though no monthly statement was issued during a specific quarter. But <ref target="1030-2-j" reftype="term">institutions</ref> must use this formula for <ref target="1030-2-a" reftype="term">accounts</ref> that compound and credit <ref target="1030-2-n" reftype="term">interest</ref> quarterly and receive monthly statements that, while triggered by Regulation E, comply with the provisions of § <ref target="1030-6" reftype="internal">1030.6</ref>.</content>
             </interpParagraph>
 	    
-            <interpParagraph label="1030-A-II-2-h2-Interp-2" target="1030-A-II-2-h2-2" marker="2.">
+            <interpParagraph label="1030-A-II-2-h2-Interp-2" target="1030-A-II-2-h2-2">
               <title>Days in compounding period.</title>
-              <content>Days in compounding period. <ref target="1030-2-j" reftype="term">Institutions</ref> using the special <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned formula must use the actual number of days in the compounding period.</content>
+              <content><ref target="1030-2-j" reftype="term">Institutions</ref> using the special <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned formula must use the actual number of days in the compounding period.</content>
             </interpParagraph>
           </interpParagraph>
 	</interpSection>
