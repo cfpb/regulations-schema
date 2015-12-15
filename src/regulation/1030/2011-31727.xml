@@ -205,7 +205,7 @@
 		<content><def term="interest" id="5e8aa8dfeca53b534645d32630f62951bfd56bbd">Interest</def> means any payment to a <ref target="1030-2-h" reftype="term">consumer</ref> or to an <ref target="1030-2-a" reftype="term">account</ref> for the use of funds in an <ref target="1030-2-a" reftype="term">account</ref>, calculated by application of a periodic rate to the balance. The term does not include the payment of a <ref target="1030-2-f" reftype="term">bonus</ref> or other consideration worth $10 or less given during a year, the waiver or reduction of a fee, or the absorption of expenses.</content>
               </paragraph>
               <paragraph label="1030-2-o" marker="(o)">
-		<content><def term="interest rate" id="e483ae542c39d9521f59f67a734e8f120ef760a9">Interest rate</def> means the annual rate of <ref target="1030-2-n" reftype="term">interest</ref> paid on an <ref target="1030-2-a" reftype="term">account</ref> which does not reflect compounding. For the purposes of the <ref target="1030-2-a" reftype="term">account</ref> disclosures in &#167; <ref target="1030-4-b-1-i" reftype="internal">1030.4(b)(1)(i)</ref> of this part, the <ref target="1030-2-n" reftype="term">interest</ref> rate may, but need not, be referred to as the &#8220; <def term="annual percentage rate" id="a4a1f124713dc8b0b00dfaefb1e252e41436c874">annual percentage rate</def> &#8221; in addition to being referred to as the &#8220;interest rate.&#8221; </content>
+		<content><def term="interest rate" id="e483ae542c39d9521f59f67a734e8f120ef760a9">Interest rate</def> means the annual rate of <ref target="1030-2-n" reftype="term">interest</ref> paid on an <ref target="1030-2-a" reftype="term">account</ref> which does not reflect compounding. For the purposes of the <ref target="1030-2-a" reftype="term">account</ref> disclosures in &#167; <ref target="1030-4-b-1-i" reftype="internal">1030.4(b)(1)(i)</ref> of this part, the <ref target="1030-2-o" reftype="term">interest rate</ref> may, but need not, be referred to as the &#8220; <def term="annual percentage rate" id="a4a1f124713dc8b0b00dfaefb1e252e41436c874">annual percentage rate</def> &#8221; in addition to being referred to as the &#8220;interest rate.&#8221; </content>
               </paragraph>
               <paragraph label="1030-2-p" marker="(p)">
 		<content><def term="passbook savings account" id="8242c285761e2950d8432c1066e985f31f493408">Passbook savings account</def> means a savings <ref target="1030-2-a" reftype="term">account</ref> in which the <ref target="1030-2-h" reftype="term">consumer</ref> retains a book or other document in which the <ref target="1030-2-j" reftype="term">institution</ref> records transactions on the <ref target="1030-2-a" reftype="term">account</ref>.</content>
@@ -541,7 +541,7 @@
             </paragraph>
             <paragraph label="1030-8-b" marker="(b)">
               <title type="keyterm">Permissible rates.</title>
-              <content>Permissible rates. If an <ref target="1030-2-b" reftype="term">advertisement</ref> <ref target="1030-2-r" reftype="term">states</ref> a rate of return, it shall state the rate as an &#8220; <ref target="1030-2-c" reftype="term">annual percentage yield</ref> &#8221; using that term. (The abbreviation &#8220;APY&#8221; may be used provided the term &#8220;<ref target="1030-2-c" reftype="term">annual percentage yield</ref>&#8221; is stated at least once in the <ref target="1030-2-b" reftype="term">advertisement</ref>.) The <ref target="1030-2-b" reftype="term">advertisement</ref> shall not state any other rate, except that the &#8220;<ref target="1030-2-o" reftype="term">interest rate</ref>,&#8221; using that term, may be stated in conjunction with, but not more conspicuously than, the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> to which it relates.</content>
+              <content>Permissible rates. If an <ref target="1030-2-b" reftype="term">advertisement</ref> states a rate of return, it shall state the rate as an &#8220; <ref target="1030-2-c" reftype="term">annual percentage yield</ref> &#8221; using that term. (The abbreviation &#8220;APY&#8221; may be used provided the term &#8220;<ref target="1030-2-c" reftype="term">annual percentage yield</ref>&#8221; is stated at least once in the <ref target="1030-2-b" reftype="term">advertisement</ref>.) The <ref target="1030-2-b" reftype="term">advertisement</ref> shall not state any other rate, except that the &#8220;<ref target="1030-2-o" reftype="term">interest rate</ref>,&#8221; using that term, may be stated in conjunction with, but not more conspicuously than, the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> to which it relates.</content>
             </paragraph>
             <paragraph label="1030-8-c" marker="(c)">
               <title type="keyterm">When additional disclosures are required.</title>
@@ -625,7 +625,7 @@
                   <content>Signs inside the premises of a <ref target="1030-2-j" reftype="term">depository institution</ref> (or the premises of a <ref target="1030-2-k" reftype="term">deposit broker</ref> ) are not subject to paragraphs <ref target="1030-8-b" reftype="internal">(b)</ref>, <ref target="1030-8-c" reftype="internal">(c)</ref>, <ref target="1030-8-d" reftype="internal">(d)</ref> or <ref target="1030-8-e-1" reftype="internal">(e)(1)</ref> of this section.</content>
                 </paragraph>
                 <paragraph label="1030-8-e-2-ii" marker="(ii)">
-                  <content>If a sign exempt by paragraph <ref target="1030-8-e-2" reftype="internal">(e)(2)</ref> of this section <ref target="1030-2-r" reftype="term">states</ref> a rate of return, it shall: </content>
+                  <content>If a sign exempt by paragraph <ref target="1030-8-e-2" reftype="internal">(e)(2)</ref> of this section states a rate of return, it shall: </content>
                   <paragraph label="1030-8-e-2-ii-A" marker="(A)">
                     <content>State the rate as an &#8220;<ref target="1030-2-c" reftype="term">annual percentage yield</ref>,&#8221; using that term or the term &#8220;APY.&#8221; The sign shall not stat any other rate, except that the <ref target="1030-2-o" reftype="term">interest rate</ref> may be stated in conjunction with the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> to which it relates.</content>
                   </paragraph>
@@ -759,7 +759,7 @@
       </subpart>
       <appendix appendixLetter="A" label="1030-A">
         <appendixTitle>Appendix A to Part 1030&#8212;Annual Percentage Yield Calculation</appendixTitle>
-        <tableOfContents>
+        <!--<tableOfContents>
           <tocAppEntry target="1030-A-I">
             <appendixLetter>I</appendixLetter>
             <appendixSubject>Part I. Annual Percentage Yield for Account Disclosures and Advertising Purposes</appendixSubject>
@@ -768,11 +768,11 @@
             <appendixLetter>II</appendixLetter>
             <appendixSubject>Part II. Annual Percentage Yield Earned for Periodic Statements</appendixSubject>
           </tocAppEntry>
-        </tableOfContents>
+        </tableOfContents>-->
         <appendixSection appendixSecNum="1" label="1030-A-p1">
           <subject/>
           <paragraph label="1030-A-p1-p1" marker="">
-            <content>The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> measures the total amount of <ref target="1030-2-n" reftype="term">interest</ref> paid on an <ref target="1030-2-a" reftype="term">account</ref> based on the <ref target="1030-2-o" reftype="term">interest rate</ref> and frequency of compounding. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> reflects only <ref target="1030-2-n" reftype="term">interest</ref> and does not include the value of any <ref target="1030-2-f" reftype="term">bonus</ref> (other consideration worth $10 or less) that may be provided to the <ref target="1030-2-h" reftype="term">consumer</ref> to open, maintain, increase or renew an <ref target="1030-2-a" reftype="term">account</ref>. Interest or other earnings are not to be included in the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> if such amounts are determined by circumstances that may or may not occur in the future. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> is expressed as an annualized rate, based on a 365-day year. Institutions may calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> based on a 365-day or a 366-day year in a leap year. <ref target="1030-A-I" reftype="internal">Part I</ref> of this appendix discusses the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> calculations for <ref target="1030-2-a" reftype="term">account</ref> disclosures and advertisements, while <ref target="1030-A-II" reftype="internal">Part II</ref> discusses <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned calculations for periodic statements.</content></paragraph>
+            <content>The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> measures the total amount of <ref target="1030-2-n" reftype="term">interest</ref> paid on an <ref target="1030-2-a" reftype="term">account</ref> based on the <ref target="1030-2-o" reftype="term">interest rate</ref> and the frequency of compounding. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> reflects only <ref target="1030-2-n" reftype="term">interest</ref> and does not include the value of any <ref target="1030-2-f" reftype="term">bonus</ref> (or other consideration worth $10 or less) that may be provided to the <ref target="1030-2-h" reftype="term">consumer</ref> to open, maintain, increase or renew an <ref target="1030-2-a" reftype="term">account</ref>. Interest or other earnings are not to be included in the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> if such amounts are determined by circumstances that may or may not occur in the future. The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> is expressed as an annualized rate, based on a 365-day year. Institutions may calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> based on a 365-day or a 366-day year in a leap year. <ref target="1030-A-I" reftype="internal">Part I</ref> of this appendix discusses the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> calculations for <ref target="1030-2-a" reftype="term">account</ref> disclosures and advertisements, while <ref target="1030-A-II" reftype="internal">Part II</ref> discusses <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned calculations for periodic statements.</content></paragraph>
         </appendixSection>
         <appendixSection appendixSecNum="2" label="1030-A-I">
           <subject>Part I. Annual Percentage Yield for Account Disclosures and Advertising Purposes</subject>
@@ -798,7 +798,7 @@
               <content>&#8220;<ref target="1030-2-n" reftype="term">Interest</ref>&#8221; is the total dollar amount of <ref target="1030-2-n" reftype="term">interest</ref> earned on the Principal for the term of the <ref target="1030-2-a" reftype="term">account</ref>.</content>
             </paragraph>
             <paragraph label="1030-A-I-h1-p8" marker="">
-              <content>&#8220;Days in term&#8221; is the actual number of days in the term of the<ref target="1030-2-a" reftype="term">account</ref>. When the &#8220;days in term&#8221; is 365 (that is, where the statedmaturity is 365 days or where the<ref target="1030-2-a" reftype="term">account</ref>does not have a stated maturity), the<ref target="1030-2-c" reftype="term">annual percentage yield</ref>can be calculated by use of the following simple formula: </content>
+              <content>&#8220;Days in term&#8221; is the actual number of days in the term of the <ref target="1030-2-a" reftype="term">account</ref>. When the &#8220;days in term&#8221; is 365 (that is, where the stated maturity is 365 days or where the <ref target="1030-2-a" reftype="term">account</ref> does not have a stated maturity), the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> can be calculated by use of the following simple formula: </content>
             </paragraph>
             <paragraph label="1030-A-I-h1-p9" marker="">
               <content>APY=100 (<ref target="1030-2-n" reftype="term">Interest</ref>/Principal)</content>
@@ -914,7 +914,7 @@
                     <cell>Above $15,000.</cell>
                   </row>
                 </table>
-                <ref target="1030-2-o" reftype="term">Interest rate</ref>
+                &#xA0;
               </content>
             </paragraph>
             <paragraph label="1030-A-I-h6-p30" marker="">
@@ -1326,175 +1326,207 @@
             <paragraph label="1030-B-1-b-i" marker="(i)">
 	      <title type="keyterm">Frequency</title>
               <content>Frequency</content>
-            </paragraph>
-            <paragraph label="1030-B-1-b-p17" marker="">
-              <content><ref target="1030-2-n" reftype="term">Interest</ref> will be compounded [on a __ basis/every (time period)]. <ref target="1030-2-n" reftype="term">Interest</ref> will be credited to your <ref target="1030-2-a" reftype="term">account</ref> [on a __ basis/every (time period)].</content>
-            </paragraph>
+	      <paragraph label="1030-B-1-c-17" marker="">
+		<content><ref target="1030-2-n" reftype="term">Interest</ref> will be compounded [on a __ basis/every (time period)]. <ref target="1030-2-n" reftype="term">Interest</ref> will be credited to your <ref target="1030-2-a" reftype="term">account</ref> [on a __ basis/every (time period)].</content>
+              </paragraph>
+	    </paragraph>
             <paragraph label="1030-B-1-b-ii" marker="(ii)">
 	      <title type="keyterm">Effect of Closing an Account</title>
-              <content>Effect of Closing an <ref target="1030-2-a" reftype="term">Account</ref> </content>
-            </paragraph>
-            <paragraph label="1030-B-1-b-p18" marker="">
-              <content>If you close your <ref target="1030-2-a" reftype="term">account</ref> before <ref target="1030-2-n" reftype="term">interest</ref> is credited, you will not receive the accrued <ref target="1030-2-n" reftype="term">interest</ref>.</content>
-            </paragraph>
+              <content>Effect of Closing an Account</content>
+	      <paragraph label="1030-B-1-c-18" marker="">
+		<content>If you close your <ref target="1030-2-a" reftype="term">account</ref> before <ref target="1030-2-n" reftype="term">interest</ref> is credited, you will not receive the accrued <ref target="1030-2-n" reftype="term">interest</ref>.</content>
+              </paragraph>
+	    </paragraph>
           </paragraph>
+	  
           <paragraph label="1030-B-1-c" marker="(c)">
 	    <title type="keyterm">Minimum Balance Requirements</title>
-            <content>Minimum Balance Requirements</content>
+	    <content>Minimum Balance Requirements</content>
             <paragraph label="1030-B-1-c-i" marker="(i)">
-              <content>To Open the <ref target="1030-2-a" reftype="term">Account</ref> </content>
+	      <title type="keyterm">To Open the Account</title>
+	      <content>To Open the Account</content>
+	      <paragraph label="1030-B-1-c-19" marker="">
+		<content>You must deposit $__ to open this <ref target="1030-2-a" reftype="term">account</ref>.</content>
+	      </paragraph>
             </paragraph>
-            <paragraph label="1030-B-1-c-p19" marker="">
-              <content>You must deposit $__ to open this <ref target="1030-2-a" reftype="term">account</ref>.</content>
-            </paragraph>
+	    
             <paragraph label="1030-B-1-c-ii" marker="(ii)">
-              <content>To Avoid Imposition of Fees</content>
-            </paragraph>
-            <paragraph label="1030-B-1-c-p20" marker="">
-              <content>A minimum balance fee of $__ will be imposed every (time period) if the balance in the <ref target="1030-2-a" reftype="term">account</ref> falls below $__ any day of the (time period).</content>
-            </paragraph>
-            <paragraph label="1030-B-1-c-p21" marker="">
-              <content>A minimum balance fee of $__ will be imposed every (time period) if the average daily balance for the (time period) falls below $__. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
-            </paragraph>
+              <title type="keyterm">To Avoid Imposition of Fees</title>
+	      <content>To Avoid Imposition of Fees</content>
+	      <paragraph label="1030-B-1-c-p20" marker="">
+		<content>A minimum balance fee of $__ will be imposed every (time period) if the balance in the <ref target="1030-2-a" reftype="term">account</ref> falls below $__ any day of the (time period).</content>
+	      </paragraph>
+	      <paragraph label="1030-B-1-c-p21" marker="">
+		<content>A minimum balance fee of $__ will be imposed every (time period) if the average daily balance for the (time period) falls below $__. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
+              </paragraph>
+	    </paragraph>
+	    
             <paragraph label="1030-B-1-c-iii" marker="(iii)">
-              <content>To Obtain the <ref target="1030-2-c" reftype="term">Annual Percentage Yield</ref> Disclosed </content>
+	      <title type="keyterm">To Obtain the Annual Percentage Yield Disclosed</title>
+              <content>To Obtain the Annual Percentage Yield Disclosed</content>
+              <paragraph label="1030-B-1-c-p22" marker="">
+		<content>You must maintain a minimum balance of $__ in the <ref target="1030-2-a" reftype="term">account</ref> each day to obtain the disclosed <ref target="1030-2-c" reftype="term">annual percentage yield</ref>.</content>
+              </paragraph>
+              <paragraph label="1030-B-1-c-p23" marker="">
+		<content>You must maintain a minimum average daily balance of $__ to obtain the disclosed <ref target="1030-2-c" reftype="term">annual percentage yield</ref>. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
+              </paragraph>
             </paragraph>
-            <paragraph label="1030-B-1-c-p22" marker="">
-              <content>You must maintain a minimum balance of $__ in the <ref target="1030-2-a" reftype="term">account</ref> each day to obtain the disclosed <ref target="1030-2-c" reftype="term">annual percentage yield</ref>.</content>
-            </paragraph>
-            <paragraph label="1030-B-1-c-p23" marker="">
-              <content>You must maintain a minimum average daily balance of $__ to obtain the disclosed <ref target="1030-2-c" reftype="term">annual percentage yield</ref>. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
-            </paragraph>
-          </paragraph>
+	  </paragraph>
+	    
           <paragraph label="1030-B-1-d" marker="(d)">
-            <content>Balance Computation Method</content>
+	    <title type="keyterm">Balance Computation Method</title>
+	    <content>Balance Computation Method</content>
             <paragraph label="1030-B-1-d-i" marker="(i)">
-              <content>
-                <ref target="1030-2-i" reftype="term">Daily Balance Method</ref>
-              </content>
+	      <title type="keyterm">Daily Balance Method</title>
+	      <content>Daily Balance Method</content>
+	      <paragraph label="1030-B-1-p24" marker="">
+		<content>We use the <ref target="1030-2-i" reftype="term">daily balance method</ref> to calculate the <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a daily periodic rate to the principal in the <ref target="1030-2-a" reftype="term">account</ref> each day.</content>	
+	      </paragraph>
+	    </paragraph>
+	    
+	    <paragraph label="1030-B-1-d-ii" marker="(ii)">
+	      <title type="keyterm">Average Daily Balance Method</title>
+	      <content>Average Daily Balance Method</content>
+	      <paragraph label="1030-B-1-p25" marker="">
+		<content>We use the <ref target="1030-2-d" reftype="term">average daily balance method</ref> to calculate <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a periodic rate to the average daily balance in the <ref target="1030-2-a" reftype="term">account</ref> for the period. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
+	      </paragraph>
+	    </paragraph>
+	  </paragraph>
+
+	  <paragraph label="1030-B-1-e" marker="(e)">
+            <title type="keyterm">Accrual of Interest on Noncash Deposits</title>
+	    <content>Accrual of Interest on Noncash Deposits</content>
+            <paragraph label="1030-B-1-p26" marker="">
+	      <content><ref target="1030-2-n" reftype="term">Interest</ref> begins to accrue no later than the <ref target="1030-2-g" reftype="term">business day</ref> we receive credit for the deposit of noncash items (for example, checks); or </content>
             </paragraph>
-            <paragraph label="1030-B-1-d-p24" marker="">
-              <content>We use the <ref target="1030-2-i" reftype="term">daily balance method</ref> to calculate the <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a daily periodic rate to the principal in the <ref target="1030-2-a" reftype="term">account</ref> each day.</content>
-            </paragraph>
-            <paragraph label="1030-B-1-d-ii" marker="(ii)">
-              <content>
-                <ref target="1030-2-d" reftype="term">Average Daily Balance Method</ref>
-              </content>
-            </paragraph>
-            <paragraph label="1030-B-1-d-p25" marker="">
-              <content>We use the <ref target="1030-2-d" reftype="term">average daily balance method</ref> to calculate <ref target="1030-2-n" reftype="term">interest</ref> on your <ref target="1030-2-a" reftype="term">account</ref>. This method applies a periodic rate to the average daily balance in the <ref target="1030-2-a" reftype="term">account</ref> for the period. The average daily balance is calculated by adding the principal in the <ref target="1030-2-a" reftype="term">account</ref> for each day of the period and dividing that figure by the number of days in the period.</content>
+            <paragraph label="1030-B-1-p27" marker="">
+	      <content><ref target="1030-2-n" reftype="term">Interest</ref> begins to accrue on the <ref target="1030-2-g" reftype="term">business day</ref> you deposit noncash items (for example, checks).</content>
             </paragraph>
           </paragraph>
-          <paragraph label="1030-B-1-e" marker="(e)">
-            <content>Accrual of <ref target="1030-2-n" reftype="term">Interest</ref> on Noncash Deposits </content>
-          </paragraph>
-          <paragraph label="1030-B-1-p26" marker="">
-            <content><ref target="1030-2-n" reftype="term">Interest</ref> begins to accrue no later than the <ref target="1030-2-g" reftype="term">business day</ref> we receive credit for the deposit of noncash items (for example, checks); or </content>
-          </paragraph>
-          <paragraph label="1030-B-1-p27" marker="">
-            <content><ref target="1030-2-n" reftype="term">Interest</ref> begins to accrue on the <ref target="1030-2-g" reftype="term">business day</ref> you deposit noncash items (for example, checks).</content>
-          </paragraph>
+          
           <paragraph label="1030-B-1-f" marker="(f)">
-            <content>Fees</content>
+            <title type="keyterm">Fees</title>
+	    <content>Fees</content>
+	    <paragraph label="1030-B-1-p28" marker="">
+	      <content>The following fees may be assessed against your <ref target="1030-2-a" reftype="term">account</ref>:</content>
+	    </paragraph>
+            <paragraph label="1030-B-1-p29" marker="">
+	      <content>__$__</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p30" marker="">
+	      <content>__$__</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p31" marker="">
+	      <content>__$__</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p32" marker="">
+	      <content>__(conditions for imposing fee) $__</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p33" marker="">
+	      <content>__% of __.</content>
+            </paragraph>
           </paragraph>
-          <paragraph label="1030-B-1-p28" marker="">
-            <content>The following fees may be assessed against your <ref target="1030-2-a" reftype="term">account</ref> : </content>
-          </paragraph>
-          <paragraph label="1030-B-1-p29" marker="">
-            <content>__$__</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p30" marker="">
-            <content>__$__</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p31" marker="">
-            <content>__$__</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p32" marker="">
-            <content>__(conditions for imposing fee) $__</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p33" marker="">
-            <content>__% of __.</content>
-          </paragraph>
+          
           <paragraph label="1030-B-1-g" marker="(g)">
-            <content>Transaction Limitations</content>
+            <title type="keyterm">Transaction Limitations</title>
+	    <content>Transaction Limitations</content>
+	    <paragraph label="1030-B-1-p34" marker="">
+	      <content>The minimum amount you may [withdraw/write a check for] is $__.</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p35" marker="">
+	      <content>You may make __ [deposits into/withdrawals from] your <ref target="1030-2-a" reftype="term">account</ref> each (time period).</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p36" marker="">
+	      <content>You may not make [deposits into/withdrawals from] your <ref target="1030-2-a" reftype="term">account</ref> until the maturity date.</content>
+            </paragraph>
           </paragraph>
-          <paragraph label="1030-B-1-p34" marker="">
-            <content>The minimum amount you may [withdraw/write a check for] is $__.</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p35" marker="">
-            <content>You may make __ [deposits into/withdrawals from] your <ref target="1030-2-a" reftype="term">account</ref> each (time period).</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p36" marker="">
-            <content>You may not make [deposits into/withdrawals from] your <ref target="1030-2-a" reftype="term">account</ref> until the maturity date.</content>
-          </paragraph>
+	  
           <paragraph label="1030-B-1-h" marker="(h)">
-            <content>Disclosures Relating to <ref target="1030-2-u" reftype="term">Time Accounts</ref> </content>
+	    <title type="keyterm">Disclosures Relating to Time Accounts</title>
+	    <content>Disclosures Relating to Time Accounts</content>
             <paragraph label="1030-B-1-h-i" marker="(i)">
-              <content>Time Requirements</content>
+	      <title type="keyterm">Time Requirements</title>
+	      <content>Time Requirements</content>
+	      <paragraph label="1030-B-1-h-p37" marker="">
+		<content>Your <ref target="1030-2-a" reftype="term">account</ref> will mature on (date).</content>
+	      </paragraph>
+	      <paragraph label="1030-B-1-h-p38" marker="">
+		<content>Your <ref target="1030-2-a" reftype="term">account</ref> will mature in (time period).</content>
+	      </paragraph>
             </paragraph>
-            <paragraph label="1030-B-1-h-p37" marker="">
-              <content>Your <ref target="1030-2-a" reftype="term">account</ref> will mature on (date).</content>
-            </paragraph>
-            <paragraph label="1030-B-1-h-p38" marker="">
-              <content>Your <ref target="1030-2-a" reftype="term">account</ref> will mature in (time period).</content>
-            </paragraph>
+	    
             <paragraph label="1030-B-1-h-ii" marker="(ii)">
-              <content>Early Withdrawal Penalties</content>
+	      <title type="keyterm">Early Withdrawal Penalties</title>
+	      <content>Early Withdrawal Penalties</content>
+	      <paragraph label="1030-B-1-h-p39" marker="">
+		<content>We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal __ days/week[s]/month[s] of <ref target="1030-2-n" reftype="term">interest</ref> ; or </content>
+	      </paragraph>
+	      <paragraph label="1030-B-1-h-p40" marker="">
+		<content>We [will/may] impose a penalty of $__ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date.</content>
+	      </paragraph>
+	      <paragraph label="1030-B-1-h-p41" marker="">
+		<content>If you withdraw some of your funds before maturity, the <ref target="1030-2-o" reftype="term">interest rate</ref> for the remaining funds in your <ref target="1030-2-a" reftype="term">account</ref> will be __% with an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> of __%.</content>
+	      </paragraph>
             </paragraph>
-            <paragraph label="1030-B-1-h-p39" marker="">
-              <content>We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal __ days/week[s]/month[s] of <ref target="1030-2-n" reftype="term">interest</ref> ; or </content>
-            </paragraph>
-            <paragraph label="1030-B-1-h-p40" marker="">
-              <content>We [will/may] impose a penalty of $__ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date.</content>
-            </paragraph>
-            <paragraph label="1030-B-1-h-p41" marker="">
-              <content>If you withdraw some of your funds before maturity, the <ref target="1030-2-o" reftype="term">interest rate</ref> for the remaining funds in your <ref target="1030-2-a" reftype="term">account</ref> will be __% with an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> of __%.</content>
-            </paragraph>
+	    
             <paragraph label="1030-B-1-h-iii" marker="(iii)">
-              <content>Withdrawal of <ref target="1030-2-n" reftype="term">Interest</ref> Prior to Maturity </content>
+	      <title type="keyterm">Withdrawal of Interest Prior to Maturity</title>
+	      <content>Withdrawal of Interest Prior to Maturity</content>
+	      <paragraph label="1030-B-1-h-p42" marker="">
+		<content>The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> assumes <ref target="1030-2-n" reftype="term">interest</ref> will remain on deposit until maturity. A withdrawal will reduce earnings.</content>
+	      </paragraph>
             </paragraph>
-            <paragraph label="1030-B-1-h-p42" marker="">
-              <content>The <ref target="1030-2-c" reftype="term">annual percentage yield</ref> assumes <ref target="1030-2-n" reftype="term">interest</ref> will remain on deposit until maturity. A withdrawal will reduce earnings.</content>
-            </paragraph>
+	      
             <paragraph label="1030-B-1-h-iv" marker="(iv)">
-              <content>Renewal Policies</content>
+              <title type="keyterm">Renewal Policies</title>
+	      <content>Renewal Policies</content>
               <paragraph label="1030-B-1-h-iv-1" marker="(1)">
-                <content>Automatically Renewable <ref target="1030-2-u" reftype="term">Time Accounts</ref> </content>
+                <title type="keyterm">Automatically Renewable Time Accounts</title>
+		<content>Automatically Renewable Time Accounts</content>
+		<paragraph label="1030-B-1-h-iv-p43" marker="">
+                  <content>This <ref target="1030-2-a" reftype="term">account</ref> will automatically renew at maturity.</content>
+		</paragraph>
+		<paragraph label="1030-B-1-h-iv-p44" marker="">
+                  <content>You will have [__ calendar/business] days after the maturity date to withdraw funds without penalty; or </content>
+		</paragraph>
+		<paragraph label="1030-B-1-h-iv-p45" marker="">
+                  <content>There is no <ref target="1030-2-m" reftype="term">grace period</ref> following the maturity of this <ref target="1030-2-a" reftype="term">account</ref> to withdraw funds without penalty.</content>
+		</paragraph>
               </paragraph>
-              <paragraph label="1030-B-1-h-iv-p43" marker="">
-                <content>This <ref target="1030-2-a" reftype="term">account</ref> will automatically renew at maturity.</content>
-              </paragraph>
-              <paragraph label="1030-B-1-h-iv-p44" marker="">
-                <content>You will have [__ calendar/business] days after the maturity date to withdraw funds without penalty; or </content>
-              </paragraph>
-              <paragraph label="1030-B-1-h-iv-p45" marker="">
-                <content>There is no <ref target="1030-2-m" reftype="term">grace period</ref> following the maturity of this <ref target="1030-2-a" reftype="term">account</ref> to withdraw funds without penalty.</content>
-              </paragraph>
+	      
               <paragraph label="1030-B-1-h-iv-2" marker="(2)">
-                <content>Non-Automatically Renewable <ref target="1030-2-u" reftype="term">Time Accounts</ref> </content>
+                <title type="keyterm">Non-Automatically Renewable Time Accounts</title>
+		<content>Non-Automatically Renewable Time Accounts</content>
+	        <paragraph label="1030-B-1-h-iv-p46" marker="">
+                  <content>This <ref target="1030-2-a" reftype="term">account</ref> will not renew automatically at maturity. If you do not renew the <ref target="1030-2-a" reftype="term">account</ref>, your deposit will be placed in [an <ref target="1030-2-n" reftype="term">interest</ref> -bearing/a non<ref target="1030-2-n" reftype="term">interest</ref>-bearing] <ref target="1030-2-a" reftype="term">account</ref>.</content>
+		</paragraph>
               </paragraph>
-              <paragraph label="1030-B-1-h-iv-p46" marker="">
-                <content>This <ref target="1030-2-a" reftype="term">account</ref> will not renew automatically at maturity. If you do not renew the <ref target="1030-2-a" reftype="term">account</ref>, your deposit will be placed in [an <ref target="1030-2-n" reftype="term">interest</ref> -bearing/a non<ref target="1030-2-n" reftype="term">interest</ref>-bearing] <ref target="1030-2-a" reftype="term">account</ref>.</content></paragraph>
             </paragraph>
+
+	    
             <paragraph label="1030-B-1-h-v" marker="(v)">
-              <content>Required <ref target="1030-2-n" reftype="term">Interest</ref> Distribution </content>
-            </paragraph>
-            <paragraph label="1030-B-1-h-p47" marker="">
-              <content>This <ref target="1030-2-a" reftype="term">account</ref> requires the distribution of <ref target="1030-2-n" reftype="term">interest</ref> and does not allow <ref target="1030-2-n" reftype="term">interest</ref> to remain in the <ref target="1030-2-a" reftype="term">account</ref>.</content>
+              <title type="keyterm">Required Interest Distribution</title>
+	      <content>Required Interest Distribution</content>
+	      <paragraph label="1030-B-1-h-p47" marker="">
+		<content>This <ref target="1030-2-a" reftype="term">account</ref> requires the distribution of <ref target="1030-2-n" reftype="term">interest</ref> and does not allow <ref target="1030-2-n" reftype="term">interest</ref> to remain in the <ref target="1030-2-a" reftype="term">account</ref>.</content>
+              </paragraph>
             </paragraph>
           </paragraph>
+	  
           <paragraph label="1030-B-1-i" marker="(i)">
-            <content>Bonuses</content>
+            <title type="keyterm">Bonuses</title>
+	    <content>Bonuses</content>
+	    <paragraph label="1030-B-1-p48" marker="">
+              <content>You will [be paid/receive] [$__/(description of item)] as a <ref target="1030-2-f" reftype="term">bonus</ref> [when you open the <ref target="1030-2-a" reftype="term">account</ref> /on (date) __].</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p49" marker="">
+              <content>You must maintain a minimum [daily balance/average daily balance] of $__ to obtain the <ref target="1030-2-f" reftype="term">bonus</ref>.</content>
+            </paragraph>
+            <paragraph label="1030-B-1-p50" marker="">
+              <content>To earn the <ref target="1030-2-f" reftype="term">bonus</ref>, [$__/your entire principal] must remain on deposit [for (time period)/until (date)__].</content>
+            </paragraph>
           </paragraph>
-          <paragraph label="1030-B-1-p48" marker="">
-            <content>You will [be paid/receive] [$__/(description of item)] as a <ref target="1030-2-f" reftype="term">bonus</ref> [when you open the <ref target="1030-2-a" reftype="term">account</ref> /on (date) __].</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p49" marker="">
-            <content>You must maintain a minimum [daily balance/average daily balance] of $__ to obtain the <ref target="1030-2-f" reftype="term">bonus</ref>.</content>
-          </paragraph>
-          <paragraph label="1030-B-1-p50" marker="">
-            <content>To earn the <ref target="1030-2-f" reftype="term">bonus</ref>, [$__/your entire principal] must remain on deposit [for (time period)/until (date)__].</content>
-          </paragraph>
+          
         </appendixSection>
         <appendixSection appendixSecNum="2" label="1030-B-2">
           <subject>B-2&#8212;Model Clauses for Change in Terms</subject>
@@ -1641,7 +1673,7 @@
               <graphic>
                 <altText/>
                 <text>![](ER21DE11.045)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.045/original.gif</url>
+		<url>http://files.consumerfinance.gov/eregulations/ER21DE11-045-1.png</url>
               </graphic>
             </content>
           </paragraph>
@@ -1654,7 +1686,7 @@
               <graphic>
                 <altText/>
                 <text>![](ER21DE11.045)</text>
-                <url>https://s3.amazonaws.com/images.federalregister.gov/ER21DE11.045/original.gif</url>
+		<url>http://files.consumerfinance.gov/eregulations/ER21DE11-045-2.png</url>
               </graphic>
             </content>
           </paragraph>
@@ -1743,7 +1775,8 @@
             <title>(a) Account.</title>
             <content/>
             <interpParagraph label="1030-2-a-Interp-1">
-              <content>Covered accounts. Examples of accounts subject to the regulation are: </content>
+	      <title>Covered accounts.</title>
+              <content>Examples of <ref target="1030-2-a" reftype="internal">accounts</ref> subject to the regulation are: </content>
               <interpParagraph label="1030-2-a-Interp-1-i">
                 <content>Interest-bearing and non<ref target="1030-2-n" reftype="term">interest</ref>-bearing <ref target="1030-2-a" reftype="term">accounts</ref>.</content></interpParagraph>
               <interpParagraph label="1030-2-a-Interp-1-ii">
@@ -1760,7 +1793,8 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1030-2-a-Interp-2">
-              <content>Other accounts. Examples of <ref target="1030-2-a" reftype="term">accounts</ref> not subject to the regulation are: </content>
+	      <title>Other accounts.</title>
+              <content>Examples of <ref target="1030-2-a" reftype="term">accounts</ref> not subject to the regulation are: </content>
               <interpParagraph label="1030-2-a-Interp-2-i">
                 <content>Mortgage escrow <ref target="1030-2-a" reftype="term">accounts</ref> for collecting taxes and property insurance premiums.</content>
               </interpParagraph>
@@ -1774,7 +1808,8 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1030-2-a-Interp-3">
-              <content>Other investments. The term &#8220;<ref target="1030-2-a" reftype="term">account</ref>&#8221; does not apply to all products of a <ref target="1030-2-j" reftype="term">depository institution</ref>. Examples of products not covered are: </content>
+	      <title>Other investments.</title>
+              <content>The term &#8220;<ref target="1030-2-a" reftype="term">account</ref>&#8221; does not apply to all products of a <ref target="1030-2-j" reftype="term">depository institution</ref>. Examples of products not covered are: </content>
               <interpParagraph label="1030-2-a-Interp-3-i">
                 <content>Government securities.</content>
               </interpParagraph>
@@ -1798,7 +1833,7 @@
             <content/>
             <interpParagraph label="1030-2-b-Interp-1">
               <title>Covered messages.</title>
-              <content>Advertisements include commercial messages in visual, oral, or print media that invite, offer, or otherwise announce generally to prospective customers the availability of <ref target="1030-2-h" reftype="term">consumer</ref> accounts&#8212;such as: </content>
+              <content><ref target="1030-2-b" reftype="internal">Advertisements</ref> include commercial messages in visual, oral, or print media that invite, offer, or otherwise announce generally to prospective customers the availability of <ref target="1030-2-h" reftype="term">consumer</ref> <ref target="1030-2-a" reftype="internal">accounts</ref>&#8212;such as: </content>
               <interpParagraph label="1030-2-b-Interp-1-i">
                 <content>Telephone solicitations.</content>
               </interpParagraph>
@@ -1815,7 +1850,8 @@
               </interpParagraph>
             </interpParagraph>
             <interpParagraph label="1030-2-b-Interp-2">
-              <content>Other messages. Examples of messages that are not advertisements are: </content>
+	      <title>Other messages.</title>
+              <content>Examples of messages that are not advertisements are: </content>
               <interpParagraph label="1030-2-Interp-2-i">
                 <content>Rate sheets in a newspaper, periodical, or trade journal (unless the <ref target="1030-2-j" reftype="term">depository institution</ref>, or a <ref target="1030-2-k" reftype="term">deposit broker</ref> offering <ref target="1030-2-a" reftype="term">accounts</ref> at the <ref target="1030-2-j" reftype="term">institution</ref>, pays a fee for or otherwise controls publication).</content>
               </interpParagraph>
@@ -1911,7 +1947,8 @@
 	    <title>(k) Deposit broker.</title>
 	    <content/>
 	    <interpParagraph label="1030-2-k-Interp-1" target="1030-2-1">
-              <content>General. A <ref target="1030-2-k" reftype="term">deposit broker</ref> is a person who is in the business of placing or facilitating the placement of deposits in an <ref target="1030-2-j" reftype="term">institution</ref>, as defined by the Federal Deposit Insurance Act (12 U.S.C. 29(g)).</content></interpParagraph>
+	      <title>General.</title>
+              <content>A <ref target="1030-2-k" reftype="term">deposit broker</ref> is a person who is in the business of placing or facilitating the placement of deposits in an <ref target="1030-2-j" reftype="term">institution</ref>, as defined by the Federal Deposit Insurance Act (12 U.S.C. 29(g)).</content></interpParagraph>
 	  </interpParagraph>
 
 	  <!-- Interps for 2(n) Interest. -->
@@ -2120,13 +2157,13 @@
 		  <content>A <ref target="1030-2-u" reftype="term">time account</ref> that does not automatically rollover is renewed by a <ref target="1030-2-h" reftype="term">consumer</ref>.</content>
 		</interpParagraph>
 		<interpParagraph label="1030-4-a-1-Interp-1-ii">
-		  <content>A <ref target="1030-2-h" reftype="term">consumer</ref> changes a term for a renewable <ref target="1030-2-u" reftype="term">time account</ref> (see comment 5(b)-5 regarding disclosure alternatives.) </content>
+		  <content>A <ref target="1030-2-h" reftype="term">consumer</ref> changes a term for a renewable <ref target="1030-2-u" reftype="term">time account</ref> (see comment <ref target="1030-5-b-Interp-5" reftype="internal">5(b)-5</ref> regarding disclosure alternatives.) </content>
 		</interpParagraph>
 		<interpParagraph label="1030-4-a-1-Interp-1-iii">
 		  <content>An <ref target="1030-2-j" reftype="term">institution</ref> transfers funds from an <ref target="1030-2-a" reftype="term">account</ref> to open a new <ref target="1030-2-a" reftype="term">account</ref> not at the <ref target="1030-2-h" reftype="term">consumer</ref> 's request, unless the <ref target="1030-2-j" reftype="term">institution</ref> previously gave <ref target="1030-2-a" reftype="term">account</ref> disclosures and any change-in-term notices for the new <ref target="1030-2-a" reftype="term">account</ref>.</content>
 		</interpParagraph>
 		<interpParagraph label="1030-4-a-1-Interp-1-iv">
-		  <content>An <ref target="1030-2-j" reftype="term">institution</ref> accepts a deposit from a <ref target="1030-2-h" reftype="term">consumer</ref> to an <ref target="1030-2-a" reftype="term">account</ref> that the <ref target="1030-2-j" reftype="term">institution</ref> had deemed closed for the purpose of treating accrued but uncredited <ref target="1030-2-n" reftype="term">interest</ref> as forfeited <ref target="1030-2-n" reftype="term">interest</ref> (see comment 7(b)-3.) </content>
+		  <content>An <ref target="1030-2-j" reftype="term">institution</ref> accepts a deposit from a <ref target="1030-2-h" reftype="term">consumer</ref> to an <ref target="1030-2-a" reftype="term">account</ref> that the <ref target="1030-2-j" reftype="term">institution</ref> had deemed closed for the purpose of treating accrued but uncredited <ref target="1030-2-n" reftype="term">interest</ref> as forfeited <ref target="1030-2-n" reftype="term">interest</ref> (see comment <ref target="1030-7-b-Interp-3" reftype="internal">7(b)-3</ref>.) </content>
 		</interpParagraph>
               </interpParagraph>
 	      <interpParagraph label="1030-4-a-1-Interp-2">
@@ -2261,7 +2298,7 @@
 		  
                 <interpParagraph label="1030-4-b-1-ii-D-Interp-1-p1">
 		  <title>Deeming an account closed.</title>
-                  <content>An <ref target="1030-2-j" reftype="term">institution</ref> may, subject to state or other law, provide in its deposit contracts the actions by consumers that will be treated as closing the <ref target="1030-2-a" reftype="term">account</ref> and that will result in the forfeiture of accrued but uncredited <ref target="1030-2-n" reftype="term">interest</ref>. An example is the withdrawal of all funds from the <ref target="1030-2-a" reftype="term">account</ref> prior to the date that <ref target="1030-2-n" reftype="term">interest</ref> is credited.</content></interpParagraph>
+                  <content>An <ref target="1030-2-j" reftype="term">institution</ref> may, subject to <ref target="1030-2-r" reftype="term">state</ref> or other law, provide in its deposit contracts the actions by consumers that will be treated as closing the <ref target="1030-2-a" reftype="term">account</ref> and that will result in the forfeiture of accrued but uncredited <ref target="1030-2-n" reftype="term">interest</ref>. An example is the withdrawal of all funds from the <ref target="1030-2-a" reftype="term">account</ref> prior to the date that <ref target="1030-2-n" reftype="term">interest</ref> is credited.</content></interpParagraph>
 	      </interpParagraph>
 	    </interpParagraph>
 
@@ -2271,7 +2308,7 @@
 	      <interpParagraph label="1030-4-b-3-ii-Interp">
 		<title>(b)(3)(ii) Balance computation method.</title>
 		<content/>
-                <interpParagraph label="1030-4-b-1-ii-D-Interp-1-p2" target="1030-4-b-1-ii-D-1">
+                <interpParagraph label="1030-4-b-3-ii-Interp-1" target="1030-4-b-3-ii">
 		  <title>Methods and periods.</title>
                   <content>Institutions may use different methods or periods to calculate minimum balances for purposes of imposing a fee (the daily balance for a calendar month, for example) and accruing <ref target="1030-2-n" reftype="term">interest</ref> (the average daily balance for a statement period, for example). Each method and corresponding period must be disclosed.</content></interpParagraph>
 	      </interpParagraph>
@@ -2279,7 +2316,7 @@
 	      <interpParagraph label="1030-4-b-3-iii-Interp">
 		<title>(b)(3)(iii) When interest begins to accrue.</title>
 		<content/>
-                <interpParagraph label="1030-4-b-1-ii-D-Interp-1-p3" target="1030-4-b-1-ii-D-1">
+                <interpParagraph label="1030-4-b-3-iii-Interp-1" target="1030-4-b-3-iii">
 		  <title>Additional information.</title>
                   <content>Institutions may disclose additional information such as the time of day after which deposits are treated as having been received the following <ref target="1030-2-g" reftype="term">business day</ref>, and may use additional descriptive terms such as &#8220;ledger&#8221; or &#8220;collected&#8221; balances to disclose when <ref target="1030-2-n" reftype="term">interest</ref> begins to accrue.</content></interpParagraph>
 	      </interpParagraph>
@@ -2382,7 +2419,8 @@
                     <content>Penalties imposed by the Internal Revenue Code for certain withdrawals from IRAs or similar pension or savings plans are not early withdrawal penalties for purposes of this part.</content>
                 </interpParagraph>
                 <interpParagraph label="1030-4-b-6-ii-Interp-4">
-                  <content>Disclosing penalties. Penalties may be stated in months, whether <ref target="1030-2-j" reftype="term">institutions</ref> assess the penalty using the actual number of days during the period or using another method such as a number of days that occurs in any actual sequence of the total calendar months involved. For example, stating &#8220;one month's <ref target="1030-2-n" reftype="term">interest</ref> &#8221; is permissible, whether the <ref target="1030-2-j" reftype="term">institution</ref> assesses 30 days' <ref target="1030-2-n" reftype="term">interest</ref> during the month of April, or selects a time period between 28 and 31 days for calculating the <ref target="1030-2-n" reftype="term">interest</ref> for all early withdrawals regardless of when the penalty is assessed.</content>
+		  <title>Disclosing penalties.</title>
+                  <content>Penalties may be stated in months, whether <ref target="1030-2-j" reftype="term">institutions</ref> assess the penalty using the actual number of days during the period or using another method such as a number of days that occurs in any actual sequence of the total calendar months involved. For example, stating &#8220;one month's <ref target="1030-2-n" reftype="term">interest</ref> &#8221; is permissible, whether the <ref target="1030-2-j" reftype="term">institution</ref> assesses 30 days' <ref target="1030-2-n" reftype="term">interest</ref> during the month of April, or selects a time period between 28 and 31 days for calculating the <ref target="1030-2-n" reftype="term">interest</ref> for all early withdrawals regardless of when the penalty is assessed.</content>
                 </interpParagraph>
 	      </interpParagraph>
 	      <interpParagraph label="1030-4-b-6-iv-Interp" target="1030-4-b-6-iv">
@@ -2418,13 +2456,15 @@
 	      <title>(a)(1) Advance notice required.</title>
 	      <content/>
 	      <interpParagraph label="1030-5-a-1-Interp-1">
+		<title>Form of notice.</title>
 		<content>Institutions may provide a change-in-term notice on or with a <ref target="1030-2-q" reftype="term">periodic statement</ref> or in another mailing. If an <ref target="1030-2-j" reftype="term">institution</ref> provides notice through revised <ref target="1030-2-a" reftype="term">account</ref> disclosures, the changed term must be highlighted in some manner. For example, institutions may note that a particular fee has been changed (also specifying the new amount) or use an accompanying letter that refers to the changed term.</content></interpParagraph>
               <interpParagraph label="1030-5-a-1-Interp-2">
 		<title>Effective date.</title>
 		<content>An example of language for disclosing the effective date of a change is &#8220;As of November 21, 1994.&#8221; </content>
               </interpParagraph>
               <interpParagraph label="1030-5-a-1-Interp-3">
-		<content>Terms that change upon the occurrence of an event. An <ref target="1030-2-j" reftype="term">institution</ref> offering terms that will automatically change upon the occurrence of a stated event need not send an advance notice of the change provided the <ref target="1030-2-j" reftype="term">institution</ref> fully describes the conditions of the change in the <ref target="1030-2-a" reftype="term">account</ref> opening disclosures (and sends any change-in-term notices regardless of whether the changed term affects that <ref target="1030-2-h" reftype="term">consumer</ref>'s <ref target="1030-2-a" reftype="term">account</ref> at that time).</content></interpParagraph>
+		<title>Terms that change upon the occurrence of an event.</title>
+		<content>An <ref target="1030-2-j" reftype="term">institution</ref> offering terms that will automatically change upon the occurrence of a stated event need not send an advance notice of the change provided the <ref target="1030-2-j" reftype="term">institution</ref> fully describes the conditions of the change in the <ref target="1030-2-a" reftype="term">account</ref> opening disclosures (and sends any change-in-term notices regardless of whether the changed term affects that <ref target="1030-2-h" reftype="term">consumer</ref>'s <ref target="1030-2-a" reftype="term">account</ref> at that time).</content></interpParagraph>
               <interpParagraph label="1030-5-a-1-Interp-4">
 		<title>Examples.</title>
 		<content>Examples of changes not requiring an advance change-in-terms notice are:</content>
@@ -2640,7 +2680,8 @@
 		<content>Institutions providing the beginning and ending dates of the period must make clear whether both dates are included in the period.</content>
               </interpParagraph>
               <interpParagraph label="1030-6-a-4-Interp-2">
-		<content>Opening or closing an <ref target="1030-2-a" reftype="term">account</ref> mid-cycle. If an <ref target="1030-2-a" reftype="term">account</ref> is opened or closed during the period for which a statement is sent, institutions must calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned based on <ref target="1030-2-a" reftype="term">account</ref> balances for each day the <ref target="1030-2-a" reftype="term">account</ref> was open.</content></interpParagraph>
+		<title>Opening or closing an account mid-cycle.</title>
+		<content>If an <ref target="1030-2-a" reftype="term">account</ref> is opened or closed during the period for which a statement is sent, institutions must calculate the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned based on <ref target="1030-2-a" reftype="term">account</ref> balances for each day the <ref target="1030-2-a" reftype="term">account</ref> was open.</content></interpParagraph>
 	    </interpParagraph>
 	  </interpParagraph>
 
@@ -2653,11 +2694,11 @@
             </interpParagraph>
             <interpParagraph label="1030-6-b-Interp-2">
 	      <title>Length of the period.</title>
-	      <content><ref target="1030-2-j" reftype="term">Institutions</ref> must disclose the length of both the <ref target="1030-2-n" reftype="term">interest</ref> calculation period and the statement period. For example, a statement could disclose a statement period of April 16 through May 15 and further state that &#8220;the <ref target="1030-2-n" reftype="term">interest</ref> earned and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> yield earned are based on your average daily balance for the period April 1 through April 30.&#8221; </content>
+	      <content><ref target="1030-2-j" reftype="term">Institutions</ref> must disclose the length of both the <ref target="1030-2-n" reftype="term">interest</ref> calculation period and the statement period. For example, a statement could disclose a statement period of April 16 through May 15 and further state that &#8220;the <ref target="1030-2-n" reftype="term">interest</ref> earned and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned are based on your average daily balance for the period April 1 through April 30.&#8221; </content>
             </interpParagraph>
             <interpParagraph label="1030-6-b-Interp-3">
 	      <title>Quarterly statements and monthly compounding.</title>
-	      <content><ref target="1030-2-j" reftype="term">Institutions</ref> that use the <ref target="1030-2-d" reftype="term">average daily balance method</ref> to calculate <ref target="1030-2-n" reftype="term">interest</ref> on a monthly basis and that send statements on a quarterly basis may disclose a single <ref target="1030-2-n" reftype="term">interest</ref> (and <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) figure. Alternatively, an <ref target="1030-2-j" reftype="term">institution</ref> may disclose three <ref target="1030-2-n" reftype="term">interest</ref> and three <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned figures, one for each month in the quarter, as long as the <ref target="1030-2-j" reftype="term">institution</ref> <ref target="1030-2-r" reftype="term">states</ref> the number of days (or beginning and ending dates) in the <ref target="1030-2-n" reftype="term">interest</ref> period if different from the statement period.</content>
+	      <content><ref target="1030-2-j" reftype="term">Institutions</ref> that use the <ref target="1030-2-d" reftype="term">average daily balance method</ref> to calculate <ref target="1030-2-n" reftype="term">interest</ref> on a monthly basis and that send statements on a quarterly basis may disclose a single <ref target="1030-2-n" reftype="term">interest</ref> (and <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned) figure. Alternatively, an <ref target="1030-2-j" reftype="term">institution</ref> may disclose three <ref target="1030-2-n" reftype="term">interest</ref> and three <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned figures, one for each month in the quarter, as long as the <ref target="1030-2-j" reftype="term">institution</ref> states the number of days (or beginning and ending dates) in the <ref target="1030-2-n" reftype="term">interest</ref> period if different from the statement period.</content>
             </interpParagraph>
 	  </interpParagraph>
 
@@ -2702,7 +2743,7 @@
 	    </interpParagraph>
 	    <interpParagraph label="1030-7-a-1-Interp-6">
 	      <title>Dormant accounts.</title>
-	      <content>Institutions must pay <ref target="1030-2-n" reftype="term">interest</ref> on funds in an <ref target="1030-2-a" reftype="term">account</ref>, even if inactivity or the infrequency of transactions would permit the <ref target="1030-2-j" reftype="term">institution</ref> to consider the <ref target="1030-2-a" reftype="term">account</ref> to be &#8220;inactive&#8221; or &#8220;dormant&#8221; (or similar status) as defined by state or other law or the <ref target="1030-2-a" reftype="term">account</ref> contract.</content></interpParagraph>
+	      <content>Institutions must pay <ref target="1030-2-n" reftype="term">interest</ref> on funds in an <ref target="1030-2-a" reftype="term">account</ref>, even if inactivity or the infrequency of transactions would permit the <ref target="1030-2-j" reftype="term">institution</ref> to consider the <ref target="1030-2-a" reftype="term">account</ref> to be &#8220;inactive&#8221; or &#8220;dormant&#8221; (or similar status) as defined by <ref target="1030-2-r" reftype="term">state</ref> or other law or the <ref target="1030-2-a" reftype="term">account</ref> contract.</content></interpParagraph>
 	  </interpParagraph>
 	  
 	  <!-- Interps for (a)(2) -->
@@ -2763,7 +2804,7 @@
 
             <interpParagraph label="1030-7-b-Interp-3">
 	      <title>Closed accounts.</title>
-              <content>Subject to state or other law, an <ref target="1030-2-j" reftype="term">institution</ref> may choose not to pay accrued <ref target="1030-2-n" reftype="term">interest</ref> if consumers close an <ref target="1030-2-a" reftype="term">account</ref> prior to the date accrued <ref target="1030-2-n" reftype="term">interest</ref> is credited, as long as the <ref target="1030-2-j" reftype="term">institution</ref> has disclosed that fact.</content></interpParagraph>
+              <content>Subject to <ref target="1030-2-r" reftype="term">state</ref> or other law, an <ref target="1030-2-j" reftype="term">institution</ref> may choose not to pay accrued <ref target="1030-2-n" reftype="term">interest</ref> if consumers close an <ref target="1030-2-a" reftype="term">account</ref> prior to the date accrued <ref target="1030-2-n" reftype="term">interest</ref> is credited, as long as the <ref target="1030-2-j" reftype="term">institution</ref> has disclosed that fact.</content></interpParagraph>
 	  </interpParagraph>
 
 	  <!-- Interps for (c) -->
@@ -2826,7 +2867,7 @@
 	      <title>Other fees.</title>
               <content>Examples of fees that are not maintenance or activity fees include: </content>
               <interpParagraph label="1030-8-a-Interp-4-i">
-		<content>Fees not required to be disclosed under &#167; 1030.4(b)(4).</content>
+		<content>Fees not required to be disclosed under &#167; <ref target="1030-4-b-4" reftype="internal">1030.4(b)(4)</ref>.</content>
               </interpParagraph>
               <interpParagraph label="1030-8-a-Interp-4-ii">
 		<content>Check printing fees.</content>
@@ -2913,7 +2954,7 @@
 	    
             <interpParagraph label="1030-8-b-Interp-3">
 	      <title>Representative examples.</title>
-              <content>An <ref target="1030-2-b" reftype="term">advertisement</ref> that <ref target="1030-2-r" reftype="term">states</ref> an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> for a given type of <ref target="1030-2-a" reftype="term">account</ref> (such as a <ref target="1030-2-u" reftype="term">time account</ref> for a specified term) need not state the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> applicable to other <ref target="1030-2-u" reftype="term">time accounts</ref> offered by the <ref target="1030-2-j" reftype="term">institution</ref> or indicate that other maturity terms are available. In an <ref target="1030-2-b" reftype="term">advertisement</ref> stating that rates for an <ref target="1030-2-a" reftype="term">account</ref> may vary depending on the amount of the initial deposit or the term of a <ref target="1030-2-u" reftype="term">time account</ref>, <ref target="1030-2-j" reftype="term">institutions</ref> need not list each balance level and term offered. Instead, the <ref target="1030-2-b" reftype="term">advertisement</ref> may: </content>
+              <content>An <ref target="1030-2-b" reftype="term">advertisement</ref> that states an <ref target="1030-2-c" reftype="term">annual percentage yield</ref> for a given type of <ref target="1030-2-a" reftype="term">account</ref> (such as a <ref target="1030-2-u" reftype="term">time account</ref> for a specified term) need not state the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> applicable to other <ref target="1030-2-u" reftype="term">time accounts</ref> offered by the <ref target="1030-2-j" reftype="term">institution</ref> or indicate that other maturity terms are available. In an <ref target="1030-2-b" reftype="term">advertisement</ref> stating that rates for an <ref target="1030-2-a" reftype="term">account</ref> may vary depending on the amount of the initial deposit or the term of a <ref target="1030-2-u" reftype="term">time account</ref>, <ref target="1030-2-j" reftype="term">institutions</ref> need not list each balance level and term offered. Instead, the <ref target="1030-2-b" reftype="term">advertisement</ref> may: </content>
 	    
               <interpParagraph label="1030-8-b-Interp-3-i">
 		<content>Provide a representative example of the <ref target="1030-2-c" reftype="term">annual percentage yields</ref> offered, clearly described as such. For <ref target="CFR:12-1026" reftype="external"> example, if an </ref> <ref target="1030-2-j" reftype="term">institution</ref> offers a $25 <ref target="1030-2-f" reftype="term">bonus</ref> on all <ref target="1030-2-u" reftype="term">time accounts</ref> and the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> will vary depending on the term selected, the <ref target="1030-2-j" reftype="term">institution</ref> may provide a disclosure of the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> as follows: &#8220;For example, our 6-month certificate of deposit currently pays a 3.15% <ref target="1030-2-c" reftype="term">annual percentage yield</ref>.&#8221; </content>
@@ -2965,7 +3006,7 @@
 	      <content/>
               <interpParagraph label="1030-8-c-5-Interp-1">
 		<title>Scope.</title>
-		<content>This requirement applies only to maintenance or activity fees described in comment 8(a).</content>
+		<content>This requirement applies only to maintenance or activity fees described in comment <ref target="1030-8-a-Interp" reftype="internal">8(a)</ref>.</content>
               </interpParagraph>
 	    </interpParagraph>
 
@@ -3084,24 +3125,24 @@
         <interpSection label="1030-11-Interp" sectionNum="11">
           <title>Section 1030.11&#8212;Additional Disclosures Regarding the Payment of Overdrafts</title>
 
-	  <!-- Interps for 9(a) -->
+	  <!-- Interps for 11(a) -->
 	  
 	  <interpParagraph label="1030-11-a-Interp">
 	    <title>(a) Disclosure of total fees on periodic statements.</title>
 	    <content/>
 
-	    <!-- Interps for 9(a)(1) -->
+	    <!-- Interps for 11(a)(1) -->
 	    
 	    <interpParagraph label="1030-11-a-1-Interp" target="1030-11-a-1">
 	      <title>(a)(1) General.</title>
 	      <content/>
               <interpParagraph label="1030-11-a-1-Interp-1">
 		<title>Transfer services.</title>
-		<content>The overdraft services covered by &#167; 1030.11(a)(1) of this part do not include a service providing for the transfer of funds from another deposit <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to permit the payment of items without creating an overdraft, even if a fee is charged for the transfer.</content></interpParagraph>
+		<content>The overdraft services covered by &#167; <ref target="1030-11-a-1" reftype="internal">1030.11(a)(1)</ref> of this part do not include a service providing for the transfer of funds from another deposit <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to permit the payment of items without creating an overdraft, even if a fee is charged for the transfer.</content></interpParagraph>
 	      
               <interpParagraph label="1030-11-a-1-Interp-2">
 		<title>Fees for paying overdrafts.</title>
-		<content>Institutions must disclose on periodic statements a total dollar amount for all fees or charges imposed on the <ref target="1030-2-a" reftype="term">account</ref> for paying overdrafts. The <ref target="1030-2-j" reftype="term">institution</ref> must disclose separate totals for the statement period and for the calendar year-to-date. The total dollar amount for each of these periods includes per-item fees as well as <ref target="1030-2-n" reftype="term">interest</ref> charges, daily or other periodic fees, or fees charged for maintaining an <ref target="1030-2-a" reftype="term">account</ref> in overdraft status, whether the overdraft is by check, debit card transaction, or by any other transaction type. It also includes fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. It does not include fees for transferring funds from another <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to avoid an overdraft, or fees charged under a service subject to Regulation Z (12 CFR part 1026). See also comment 11(c)-2. Under &#167; 1030.11(a)(1)(i), the disclosure must describe the total dollar amount for all fees or charges imposed on the <ref target="1030-2-a" reftype="term">account</ref> for the statement period and calendar year-to-date for paying overdrafts using the term &#8220;Total Overdraft Fees.&#8221; This requirement applies notwithstanding comment 3(a)-2.</content></interpParagraph>
+		<content>Institutions must disclose on periodic statements a total dollar amount for all fees or charges imposed on the <ref target="1030-2-a" reftype="term">account</ref> for paying overdrafts. The <ref target="1030-2-j" reftype="term">institution</ref> must disclose separate totals for the statement period and for the calendar year-to-date. The total dollar amount for each of these periods includes per-item fees as well as <ref target="1030-2-n" reftype="term">interest</ref> charges, daily or other periodic fees, or fees charged for maintaining an <ref target="1030-2-a" reftype="term">account</ref> in overdraft status, whether the overdraft is by check, debit card transaction, or by any other transaction type. It also includes fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. It does not include fees for transferring funds from another <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to avoid an overdraft, or fees charged under a service subject to Regulation Z (12 CFR part 1026). See also comment <ref target="1030-11-c-Interp-2" reftype="internal">11(c)-2</ref>. Under &#167; <ref target="1030-11-a-1-i" reftype="internal">1030.11(a)(1)(i)</ref>, the disclosure must describe the total dollar amount for all fees or charges imposed on the <ref target="1030-2-a" reftype="term">account</ref> for the statement period and calendar year-to-date for paying overdrafts using the term &#8220;Total Overdraft Fees.&#8221; This requirement applies notwithstanding comment <ref target="1030-3-a-Interp-2" reftype="internal">3(a)-2</ref>.</content></interpParagraph>
 
 	      <interpParagraph label="1030-11-a-1-Interp-3">
 		<title>Fees for returning items unpaid.</title>
@@ -3118,30 +3159,30 @@
 
               <interpParagraph label="1030-11-a-1-Interp-6">
 		<title>Itemization of fees.</title>
-		<content>An <ref target="1030-2-j" reftype="term">institution</ref> may itemize each fee in addition to providing the disclosures required by &#167; 1030.11(a)(1) of this part.</content></interpParagraph>
+		<content>An <ref target="1030-2-j" reftype="term">institution</ref> may itemize each fee in addition to providing the disclosures required by &#167; <ref target="1030-11-a-1" reftype="internal">1030.11(a)(1)</ref> of this part.</content></interpParagraph>
 	    </interpParagraph>
 
-	    <!-- Interps for 9(a)(3) -->
+	    <!-- Interps for 11(a)(3) -->
 	    
-	    <interpParagraph label="1030-11-a-3-Interp">
+	    <interpParagraph label="1030-11-a-3-Interp" target="1030-11-a-3">
 	      <title>(a)(3) Format requirements.</title>
 	      <content/>
 	    
               <interpParagraph label="1030-11-a-3-Interp-1">
 		<title>Time period covered by periodic statement disclosures.</title>
-		<content>The disclosures under &#167; 1030.11(a) must be included on periodic statements provided by an <ref target="1030-2-j" reftype="term">institution</ref> starting the first statement period that begins after January 1, 2010. For example, if a <ref target="1030-2-h" reftype="term">consumer</ref>'s statement period typically closes on the 15th of each month, an <ref target="1030-2-j" reftype="term">institution</ref> must provide the disclosures required by &#167; 1030.11(a)(1) on subsequent periodic statements for that <ref target="1030-2-h" reftype="term">consumer</ref> beginning with the statement reflecting the period from January 16, 2010 to February 15, 2010.</content></interpParagraph>
+		<content>The disclosures under &#167; 1030.11(a) must be included on periodic statements provided by an <ref target="1030-2-j" reftype="term">institution</ref> starting the first statement period that begins after January 1, 2010. For example, if a <ref target="1030-2-h" reftype="term">consumer</ref>'s statement period typically closes on the 15th of each month, an <ref target="1030-2-j" reftype="term">institution</ref> must provide the disclosures required by &#167; <ref target="1030-11-a-1" reftype="internal">1030.11(a)(1)</ref> on subsequent periodic statements for that <ref target="1030-2-h" reftype="term">consumer</ref> beginning with the statement reflecting the period from January 16, 2010 to February 15, 2010.</content></interpParagraph>
 	    </interpParagraph>
 	  </interpParagraph>
 
-	  <!-- Interps for 9(b) -->
+	  <!-- Interps for 11(b) -->
 
 	  <interpParagraph label="1030-11-b-Interp" target="1030-11-b">
 	    <title>(b) Advertising disclosures for overdraft services.</title>
 	    <content/>
             <interpParagraph label="1030-11-b-Interp-1">
 	      <title>Examples of institutions promoting the payment of overdrafts.</title>
-              <content>A <ref target="1030-2-j" reftype="term">depository institution</ref> would be required to include the advertising disclosures in &#167; 1030.11(b)(1) of this part if the <ref target="1030-2-j" reftype="term">institution</ref>:</content><interpParagraph label="1030-11-b-Interp-1-i">
-		<content>Promotes the <ref target="1030-2-j" reftype="term">institution</ref>'s policy or practice of paying overdrafts (unless the service would be subject to Regulation Z (12 CFR part 1026)). This includes advertisements using print media such as newspapers or brochures, telephone solicitations, electronic mail, or messages posted on an Internet site. (But see &#167; 1030.11(b)(2) of this part for communications that are not subject to the additional advertising disclosures.) </content></interpParagraph>
+              <content>A <ref target="1030-2-j" reftype="term">depository institution</ref> would be required to include the advertising disclosures in &#167; <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part if the <ref target="1030-2-j" reftype="term">institution</ref>:</content><interpParagraph label="1030-11-b-Interp-1-i">
+		<content>Promotes the <ref target="1030-2-j" reftype="term">institution</ref>'s policy or practice of paying overdrafts (unless the service would be subject to Regulation Z (12 CFR part 1026)). This includes advertisements using print media such as newspapers or brochures, telephone solicitations, electronic mail, or messages posted on an Internet site. (But see &#167; <ref target="1030-11-b-2" reftype="internal">1030.11(b)(2)</ref> of this part for communications that are not subject to the additional advertising disclosures.) </content></interpParagraph>
 	      
               <interpParagraph label="1030-11-b-Interp-1-ii">
 		<content>Includes a message on a <ref target="1030-2-q" reftype="term">periodic statement</ref> informing the <ref target="1030-2-h" reftype="term">consumer</ref> of an overdraft limit or the amount of funds available for overdrafts. For example, an <ref target="1030-2-j" reftype="term">institution</ref> that includes a message on a <ref target="1030-2-q" reftype="term">periodic statement</ref> informing the <ref target="1030-2-h" reftype="term">consumer</ref> of a $500 overdraft limit or that the <ref target="1030-2-h" reftype="term">consumer</ref> has $300 remaining on the overdraft limit, is promoting an overdraft service.</content></interpParagraph>
@@ -3152,7 +3193,7 @@
 
             <interpParagraph label="1030-11-b-Interp-2">
 	      <title>Transfer services.</title>
-              <content>The overdraft services covered by &#167; 1030.11(b)(1) of this part do not include a service providing for the transfer of funds from another deposit <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to permit the payment of items without creating an overdraft, even if a fee is charged for the transfer.</content></interpParagraph>
+              <content>The overdraft services covered by &#167; <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part do not include a service providing for the transfer of funds from another deposit <ref target="1030-2-a" reftype="term">account</ref> of the <ref target="1030-2-h" reftype="term">consumer</ref> to permit the payment of items without creating an overdraft, even if a fee is charged for the transfer.</content></interpParagraph>
 	    
             <interpParagraph label="1030-11-b-Interp-3">
               <title>Electronic media.</title>
@@ -3160,11 +3201,11 @@
 
             <interpParagraph label="1030-11-b-Interp-4">
 	      <title>Fees.</title>
-              <content>The fees that must be disclosed under &#167; 1030.11(b)(1) of this part include per-item fees as well as <ref target="1030-2-n" reftype="term">interest</ref> charges, daily or other periodic fees, and fees charged for maintaining an <ref target="1030-2-a" reftype="term">account</ref> in overdraft status, whether the overdraft is by check or by other means. The fees also include fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. The fees do not include fees for transferring funds from another <ref target="1030-2-a" reftype="term">account</ref> to avoid an overdraft, or fees charged when the <ref target="1030-2-j" reftype="term">institution</ref> has previously agreed in writing to pay items that overdraw the <ref target="1030-2-a" reftype="term">account</ref> and the service is subject to Regulation Z, 12 CFR Part 1026.</content></interpParagraph>
+              <content>The fees that must be disclosed under &#167; <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part include per-item fees as well as <ref target="1030-2-n" reftype="term">interest</ref> charges, daily or other periodic fees, and fees charged for maintaining an <ref target="1030-2-a" reftype="term">account</ref> in overdraft status, whether the overdraft is by check or by other means. The fees also include fees charged when there are insufficient funds because previously deposited funds are subject to a hold or are uncollected. The fees do not include fees for transferring funds from another <ref target="1030-2-a" reftype="term">account</ref> to avoid an overdraft, or fees charged when the <ref target="1030-2-j" reftype="term">institution</ref> has previously agreed in writing to pay items that overdraw the <ref target="1030-2-a" reftype="term">account</ref> and the service is subject to Regulation Z, 12 CFR Part 1026.</content></interpParagraph>
 	    
             <interpParagraph label="1030-11-b-Interp-5">
 	      <title>Categories of transactions.</title>
-              <content>An exhaustive list of transactions is not required. Disclosing that a fee may be imposed for covering overdrafts &#8220;created by check, in-person withdrawal, ATM withdrawal, or other electronic means&#8221; would satisfy the requirements of &#167; <ref target="1030-11-b-1-ii" reftype="internal">1030.11(b)(1)(ii)</ref> of this part where the fee may be imposed in these circumstances. See comment 4(b)(4)-5 of this part.</content>
+              <content>An exhaustive list of transactions is not required. Disclosing that a fee may be imposed for covering overdrafts &#8220;created by check, in-person withdrawal, ATM withdrawal, or other electronic means&#8221; would satisfy the requirements of &#167; <ref target="1030-11-b-1-ii" reftype="internal">1030.11(b)(1)(ii)</ref> of this part where the fee may be imposed in these circumstances. See comment  <ref target="1030-4-b-4-Interp-5" reftype="internal">4(b)(4)-5</ref> of this part.</content>
             </interpParagraph>
 	    
             <interpParagraph label="1030-11-b-Interp-6">
@@ -3179,7 +3220,7 @@
 
             <interpParagraph label="1030-11-b-Interp-8">
 	      <title>Advertising an account as &#8220;free.&#8221;</title>
-              <content>If the advertised <ref target="1030-2-a" reftype="term">account</ref> -related service is an overdraft service subject to the requirements of &#167; <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part, <ref target="1030-2-j" reftype="term">institutions</ref> must disclose the fee or fees for the payment of each overdraft, not merely that a cost is associated with the overdraft service, as well as other required information. Compliance with comment 8(a)-10.v. is not sufficient.</content>
+              <content>If the advertised <ref target="1030-2-a" reftype="term">account</ref> -related service is an overdraft service subject to the requirements of &#167; <ref target="1030-11-b-1" reftype="internal">1030.11(b)(1)</ref> of this part, <ref target="1030-2-j" reftype="term">institutions</ref> must disclose the fee or fees for the payment of each overdraft, not merely that a cost is associated with the overdraft service, as well as other required information. Compliance with comment  <ref target="1030-8-a-Interp-10-v" reftype="internal">8(a)-10.v</ref>. is not sufficient.</content>
             </interpParagraph>
 	  </interpParagraph>
 
@@ -3209,7 +3250,7 @@
 	    
             <interpParagraph label="1030-11-c-Interp-3">
 	      <title>Additional balance.</title>
-              <content>The <ref target="1030-2-j" reftype="term">institution</ref> may disclose additional balances supplemented by funds that may be provided by the <ref target="1030-2-j" reftype="term">institution</ref> to cover an overdraft, whether pursuant to a discretionary overdraft service, a service subject to Regulation Z (12 CFR Part 1026), or a service that transfers funds from another <ref target="1030-2-a" reftype="term">account</ref> held individually or jointly by the <ref target="1030-2-h" reftype="term">consumer</ref>, so long as the <ref target="1030-2-j" reftype="term">institution</ref> prominently <ref target="1030-2-r" reftype="term">states</ref> that any additional balance includes these additional overdraft amounts. The <ref target="1030-2-j" reftype="term">institution</ref> may not simply state, for instance, that the second balance is the <ref target="1030-2-h" reftype="term">consumer</ref> 's &#8220;available balance,&#8221; or contains &#8220;available funds.&#8221; Rather, the <ref target="1030-2-j" reftype="term">institution</ref> should provide enough information to convey that the second balance includes these amounts. For example, the <ref target="1030-2-j" reftype="term">institution</ref> may state that the balance includes &#8220;overdraft funds.&#8221; Where a <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into, or as applicable, has opted out of the <ref target="1030-2-j" reftype="term">institution</ref> 's discretionary overdraft service, any additional balance disclosed should not include funds that otherwise might be available under that service. Where a <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into, or as applicable, has opted out of, the <ref target="1030-2-j" reftype="term">institution</ref> 's discretionary overdraft service for some, but not all transactions (e.g., the <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into overdraft services for ATM and one-time debit card transactions), an <ref target="1030-2-j" reftype="term">institution</ref> that includes these additional overdraft funds in the second balance should convey that the overdraft funds are not available for all transactions. For example, the <ref target="1030-2-j" reftype="term">institution</ref> could state that overdraft funds are not available for ATM and one-time (or everyday) debit card transactions. Similarly, if funds are not available for all transactions pursuant to a service subject to Regulation Z ( <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref> ) or a service that transfers funds from another <ref target="1030-2-a" reftype="term">account</ref>, a second balance that includes such funds should also indicate this fact.</content>
+              <content>The <ref target="1030-2-j" reftype="term">institution</ref> may disclose additional balances supplemented by funds that may be provided by the <ref target="1030-2-j" reftype="term">institution</ref> to cover an overdraft, whether pursuant to a discretionary overdraft service, a service subject to Regulation Z (12 CFR Part 1026), or a service that transfers funds from another <ref target="1030-2-a" reftype="term">account</ref> held individually or jointly by the <ref target="1030-2-h" reftype="term">consumer</ref>, so long as the <ref target="1030-2-j" reftype="term">institution</ref> prominently states that any additional balance includes these additional overdraft amounts. The <ref target="1030-2-j" reftype="term">institution</ref> may not simply state, for instance, that the second balance is the <ref target="1030-2-h" reftype="term">consumer</ref> 's &#8220;available balance,&#8221; or contains &#8220;available funds.&#8221; Rather, the <ref target="1030-2-j" reftype="term">institution</ref> should provide enough information to convey that the second balance includes these amounts. For example, the <ref target="1030-2-j" reftype="term">institution</ref> may state that the balance includes &#8220;overdraft funds.&#8221; Where a <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into, or as applicable, has opted out of the <ref target="1030-2-j" reftype="term">institution</ref> 's discretionary overdraft service, any additional balance disclosed should not include funds that otherwise might be available under that service. Where a <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into, or as applicable, has opted out of, the <ref target="1030-2-j" reftype="term">institution</ref> 's discretionary overdraft service for some, but not all transactions (e.g., the <ref target="1030-2-h" reftype="term">consumer</ref> has not opted into overdraft services for ATM and one-time debit card transactions), an <ref target="1030-2-j" reftype="term">institution</ref> that includes these additional overdraft funds in the second balance should convey that the overdraft funds are not available for all transactions. For example, the <ref target="1030-2-j" reftype="term">institution</ref> could state that overdraft funds are not available for ATM and one-time (or everyday) debit card transactions. Similarly, if funds are not available for all transactions pursuant to a service subject to Regulation Z ( <ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref> ) or a service that transfers funds from another <ref target="1030-2-a" reftype="term">account</ref>, a second balance that includes such funds should also indicate this fact.</content>
             </interpParagraph>
 	    
             <interpParagraph label="1030-11-c-Interp-4">
@@ -3251,7 +3292,7 @@
             </interpParagraph>
             <interpParagraph label="1030-A-II-Interp-2">
               <title>Negative balances prohibited.</title>
-              <content><ref target="1030-2-j" reftype="term">Institutions</ref> must treat a negative <ref target="1030-2-a" reftype="term">account</ref> balance as zero to determine the balance on which the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned is calculated. (See commentary to &#167; 1030.7(a)(2).) </content>
+              <content><ref target="1030-2-j" reftype="term">Institutions</ref> must treat a negative <ref target="1030-2-a" reftype="term">account</ref> balance as zero to determine the balance on which the <ref target="1030-2-c" reftype="term">annual percentage yield</ref> earned is calculated. (See commentary to &#167; <ref target="1030-7-a-2" reftype="internal">1030.7(a)(2)</ref>.) </content>
             </interpParagraph>
 	  </interpParagraph>
 	  
@@ -3307,10 +3348,10 @@
             </interpParagraph>
             <interpParagraph label="1030-B-Interp-3">
 	      <title>Disclosures for opening accounts.</title>
-              <content>The sample forms illustrate the information that must be provided to consumers when an <ref target="1030-2-a" reftype="term">account</ref> is opened, as required by &#167; 1030.4(a)(1). (See &#167; 1030.4(a)(2), which states the requirements for disclosing the <ref target="1030-2-c" reftype="term">annual percentage yield</ref>, the <ref target="1030-2-o" reftype="term">interest rate</ref>, and the maturity of a <ref target="1030-2-u" reftype="term">time account</ref> in responding to a <ref target="1030-2-h" reftype="term">consumer</ref>'s request.) </content></interpParagraph>
+              <content>The sample forms illustrate the information that must be provided to consumers when an <ref target="1030-2-a" reftype="term">account</ref> is opened, as required by &#167; <ref target="1030-4-a-1" reftype="internal">1030.4(a)(1)</ref>. (See &#167; <ref target="1030-4-a-2" reftype="internal">1030.4(a)(2)</ref>, which states the requirements for disclosing the <ref target="1030-2-c" reftype="term">annual percentage yield</ref>, the <ref target="1030-2-o" reftype="term">interest rate</ref>, and the maturity of a <ref target="1030-2-u" reftype="term">time account</ref> in responding to a <ref target="1030-2-h" reftype="term">consumer</ref>'s request.) </content></interpParagraph>
             <interpParagraph label="1030-B-Interp-4">
 	      <title>Compliance with Regulation E.</title>
-              <content>Institutions may satisfy certain requirements under Regulation DD with disclosures that meet the requirements of Regulation E. (See &#167; 1030.3(c).) For disclosures covered by both this part and Regulation E (such as the amount of fees for ATM usage, institutions should consult appendix A to Regulation E for appropriate model clauses.</content>
+              <content>Institutions may satisfy certain requirements under Regulation DD with disclosures that meet the requirements of Regulation E. (See &#167; <ref target="1030-3-c" reftype="internal">1030.3(c)</ref>.) For disclosures covered by both this part and Regulation E (such as the amount of fees for ATM usage, institutions should consult Appendix A to Regulation E for appropriate model clauses.</content>
             </interpParagraph>
             <interpParagraph label="1030-B-Interp-5">
 	      <title>Duplicate disclosures.</title>
@@ -3357,7 +3398,7 @@
             <content/>
             <interpParagraph label="1030-B-6-Interp-1">
               <title>General.</title>
-              <content><ref target="1030-B-6" reftype="internal">Sample Form B-6</ref> uses Tiering Method A (discussed in appendix <ref target="1030-A" reftype="internal">A</ref> and Clause (a)(iv)) to calculate <ref target="1030-2-n" reftype="term">interest</ref>. It gives a narrative description of a <ref target="1030-2-t" reftype="term">tiered-rate account</ref> ; <ref target="1030-2-j" reftype="term">institutions</ref> may use different formats (for example, a chart similar to the one in <ref target="1030-B-4" reftype="internal">Sample Form B-4</ref> ), as long as all required information for each tier is clearly presented. The form does not contain a separate disclosure of the minimum balance required to obtain the <ref target="1030-2-c" reftype="term">annual percentage yield</ref>; the tiered-rate disclosure provides that information.</content>
+              <content><ref target="1030-B-6" reftype="internal">Sample Form B-6</ref> uses Tiering Method A (discussed in <ref target="1030-A" reftype="internal">Appendix A</ref> and Clause (a)(iv)) to calculate <ref target="1030-2-n" reftype="term">interest</ref>. It gives a narrative description of a <ref target="1030-2-t" reftype="term">tiered-rate account</ref> ; <ref target="1030-2-j" reftype="term">institutions</ref> may use different formats (for example, a chart similar to the one in <ref target="1030-B-4" reftype="internal">Sample Form B-4</ref> ), as long as all required information for each tier is clearly presented. The form does not contain a separate disclosure of the minimum balance required to obtain the <ref target="1030-2-c" reftype="term">annual percentage yield</ref>; the tiered-rate disclosure provides that information.</content>
             </interpParagraph>
           </interpParagraph>
         </interpSection>
