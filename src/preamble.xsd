@@ -12,6 +12,7 @@
 		 a. title, an integer identifying the CFR title containing the regulation
 		 b. section, an integer identifying the CFR section containing the regulation
 		3. effectiveDate, the date on which the regulation takes effect
+        4. federalRegisterURL, the human-friendly URL to the notice in the Federal Register
 	 -->
 	
 	<complexType name="Preamble">

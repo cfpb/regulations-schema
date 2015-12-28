@@ -4,7 +4,7 @@
     xmlns:tns="eregs" 
     elementFormDefault="qualified">
     
-    <include schemaLocation="formatting.xsd"></include>
+  <include schemaLocation="formatting.xsd"></include>
 
   <!-- 
       The analysis type describes the analysis of a section of the 
