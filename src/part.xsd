@@ -119,7 +119,7 @@
 				</complexType>
 			</element>
 		</sequence>
-		<attribute name="partNumber" type="int" use="required"></attribute>
+		<attribute name="label" type="int" use="required"></attribute>
 	</complexType>
 	
 	<element name="section" type="tns:Section"></element>
