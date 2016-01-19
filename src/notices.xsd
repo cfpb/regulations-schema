@@ -1,96 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema" 
-	targetNamespace="eregs"
-	xmlns:tns="eregs" 
-	elementFormDefault="qualified">
-	
-	<!-- 
-	
-	This file provides the schema for the notices that accompany the regulation text.
-	
-	 -->
-	 
-	<include schemaLocation="primitives.xsd"></include>
-	 
-	<complexType name="Notice">
-		<sequence>
-			<element name="abstract" type="string"></element>
-			<element name="action" type="string"></element>
-			<element name="agencyNames">
-				<complexType>
-					<sequence minOccurs="1" maxOccurs="unbounded">
-						<element name="agency" type="string"></element>
-					</sequence>
-				</complexType>
-			</element>
-			<element name="amendments">
-				<complexType>
-					<sequence minOccurs="0" maxOccurs="unbounded">
-						<element name="amendment" type="tns:Amendment"></element>
-					</sequence>
-				</complexType>
-			</element>
-			<element name="contact" type="string"></element>
-			<element name="documentNumber" type="string"></element>
-			<element name="effectiveDate" type="string"></element>
-			<element name="footnotes">
-				<complexType>
-					<sequence minOccurs="0" maxOccurs="unbounded">
-						<element name="footnote" type="tns:Footnote"></element>
-					</sequence>
-				</complexType>
-			</element>
-			<element name="frCitation" type="string"></element>
-			<element name="frUrl" type="anyURI"></element>
-			<element name="frVolume" type="int"></element>
-			<element name="initialEffectiveDate" type="date"></element>
-			<element name="publicationDate" type="date"></element>
-			<element name="regulationIdNumbers">
-				<complexType>
-					<choice minOccurs="1" maxOccurs="unbounded">
-						<element name="regulationId" type="string"></element>
-					</choice>
-				</complexType>
-			</element>
-			
-		</sequence>
-	</complexType>
-	
-	<complexType name="Amendment">
-		<sequence>
-			<element name="action">
-				<simpleType>
-					<restriction base="string">
-						<enumeration value="post"></enumeration>
-						<enumeration value="designate"></enumeration>
-						<enumeration value="put"></enumeration>
-						<enumeration value="delete"></enumeration>
-					</restriction>
-				</simpleType>
-			</element>
-			<element name="targets">
-				<complexType>
-					<sequence>
-						<element name="target" type="string"></element>
-					</sequence>
-				</complexType>
-			</element>
-			<choice minOccurs="0" maxOccurs="1">
-				<element name="destination" type="string"></element>
-			</choice>
-		</sequence>
-	</complexType>
-	
-        <!--
-	<complexType name="Footnote">
-		<simpleContent>
-			<extension base="string">
-				<attribute name="index"></attribute>
-			</extension>
-		</simpleContent>
-	</complexType>
-        -->
-	
-	
-	
+    targetNamespace="eregs"
+    xmlns:tns="eregs" 
+    elementFormDefault="qualified">
+
+  <include schemaLocation="primitives.xsd"></include>
+  <include schemaLocation="preamble.xsd"></include>
+  <include schemaLocation="toc.xsd"></include>
+  <include schemaLocation="part.xsd"></include>
+
+  <!-- 
+       Notices include the same sorts of content as regulations do,
+       except that the content is just the things that have been 
+       modified from the last notice, wrapped in a changeset element. 
+       
+      All the notice metadata is contained within the preamble, which 
+      is identical to the regulation preamble.
+  -->
+  <complexType name="Notice">
+    <sequence>
+      <element name="preamble" type="tns:Preamble"></element>
+      <choice minOccurs="0" maxOccurs="1">
+        <element ref="tns:changeset"></element>
+      </choice>
+    </sequence>
+  </complexType>
+
+  <!-- 
+      Changeset express changes from one version of a regulation to
+      another. This includes operations that add/modify/delete for a 
+      given label within the regulation itself. It consists of the 
+      following elements:
+
+      1. leftDocumentNumber, the notice document number of the left 
+         version, which will be transformed into the right.
+      2. rightDocumentNumber, the notice document number of the right 
+         version, the one into which the left is transformed.
+   -->
+  <complexType name="Changeset">
+    <sequence>
+      <choice minOccurs="0" maxOccurs="unbounded">
+        <element ref="tns:change"></element>
+      </choice>
+    </sequence>
+    <attribute name="leftDocumentNumber" type="string"></attribute>
+    <attribute name="rightDocumentNumber" type="string"></attribute>
+  </complexType>
+
+  <!-- 
+       A Change modifies the given label from the immediately prior 
+       version of a regulation with the given contents. Deletions won't 
+       have any content.
+
+       "operation" should be one of "added", "modified", or "deleted".
+   -->
+  <complexType name="Change">
+    <choice minOccurs="0" maxOccurs="unbounded">
+      <element name="reserved" type="string"></element>
+      <element ref="tns:paragraph"></element>
+      <element ref="tns:analysis"></element>
+      <element ref="tns:interpParagraph"></element>
+      <element ref="tns:interpretations"></element>
+      <element ref="tns:interpSection"></element>
+    </choice>
+    <attribute name="operation">
+      <simpleType>
+        <restriction base="string">
+          <enumeration value="added"/>
+          <enumeration value="modified"/>
+          <enumeration value="deleted"/>
+        </restriction>
+      </simpleType>
+    </attribute>
+    <attribute name="label"></attribute>
+  </complexType>
+
+  <element name="change" type="tns:Change"></element>
+  <element name="changeset" type="tns:Changeset"></element>
+  <element name="notice" type="tns:Notice"></element>
 </schema>
