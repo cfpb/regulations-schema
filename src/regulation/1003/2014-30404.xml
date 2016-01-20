@@ -1,9 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <regulation xmlns="eregs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eregs ../../eregs.xsd">
   <fdsys>
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2011-12-19</date>
+    <date>2014-12-29</date>
     <originalDate>2012-01-01</originalDate>
     <title>HOME MORTGAGE DISCLOSURE</title>
   </fdsys>
@@ -13,9 +14,9 @@
       <title>12</title>
       <section>1003</section>
     </cfr>
-    <documentNumber>2011-31712</documentNumber>
-    <effectiveDate>2011-12-30</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/19/2011-31712/home-mortgage-disclosure-regulation-c</federalRegisterURL>
+    <documentNumber>2014-30404</documentNumber>
+    <effectiveDate>2015-01-01</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/a/2014-30404</federalRegisterURL>
   </preamble>
   <part partNumber="1003">
     <tableOfContents>
@@ -121,7 +122,7 @@
             		<content><def term="act">Act</def> means the Home Mortgage Disclosure Act (<def term="hmda">HMDA</def>) (12 U.S.C. 2801 et seq.), as amended.</content>
             	</paragraph>
             	<paragraph label="1003-2-p1-Application" marker="">
-            		<content>Application-</content>
+            		<content>Application</content>
          			<paragraph label="1003-2-p1-Application-1" marker="(1)">
          				<title type="keyterm">In general.</title>
          				<content>In general. <def term="Application">Application</def> means an oral or written request for a <ref target="1003-2-p1-HomePurchaseLoan" reftype="term">home purchase loan</ref>, a <ref target="1003-2-p1-HomeImprovementLoan" reftype="term">home improvement loan</ref>, or a <ref target="1003-2-p1-Refinancing" reftype="term">refinancing</ref> that is made in accordance with procedures used by a <ref target="1003-2-p1-FinancialInstitution" reftype="term">financial institution</ref> for the type of credit requested.</content></paragraph>
@@ -1055,7 +1056,7 @@
           	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-1">
             	<content>General. An institution that met the test for coverage under HMDA in year 1, and then ceases to meet the test (for example, because its assets fall below the threshold on December 31 of year 2) stops collecting HMDA data beginning with year 3. Similarly, an institution that did not meet the coverage test for a given year, and then meets the test in the succeeding year, begins collecting HMDA data in the calendar year following the year in which it meets the test for coverage. For example, a for-profit mortgage lending institution (other than a bank, savings association, or credit union) that, in year 1, falls below the thresholds specified in the definition of <ref target="1003-2-p1-FinancialInstitution" reftype="term">Financial institution</ref> in &#167; 1003.2, but meets one of them in year 2, need not collect data in year 2, but begins collecting data in year 3.</content></interpParagraph>
 	        <interpParagraph label="1003-2-p1-FinancialInstitution-Interp-2">
-	        	<content>Adjustment of exemption threshold for depository institutions. For data collection in 2011, the asset-size exemption threshold is $40 million. Banks, savings associations, and credit, unions with assets at or below $40 million as of December 31, 2010, are exempt from collecting data for 2011.</content>
+	        	<content>Adjustment of exemption threshold for banks, savings associations, and credit unions. For data collection in 2015, the asset-size exemption threshold is $44 million. Banks, savings associations, and credit unions with assets at or below $44 million as of December 31, 2014, are exempt from collecting data for 2015.</content>
 	        </interpParagraph>
 	        
           	<interpParagraph label="1003-2-p1-FinancialInstitution-Interp-3">
