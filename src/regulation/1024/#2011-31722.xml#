@@ -4,7 +4,7 @@
     <cfrTitleNum>12</cfrTitleNum>
     <cfrTitleText>Banks and Banking</cfrTitleText>
     <volume>8</volume>
-    <date>2013-07-24</date>
+    <date>2011-12-30</date>
     <originalDate>2012-01-01</originalDate>
     <title>REAL ESTATE SETTLEMENT PROCEDURES ACT</title>
   </fdsys>
@@ -14,9 +14,9 @@
       <title>12</title>
       <section>1024</section>
     </cfr>
-    <documentNumber>2013-16962</documentNumber>
-    <effectiveDate>2013-07-24</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.gov/articles/2013/07/24/2013-16962/amendments-to-the-2013-mortgage-rules-under-the-real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
+    <documentNumber>2011-31722</documentNumber>
+    <effectiveDate>2011-12-30</effectiveDate>
+    <federalRegisterURL>https://www.federalregister.gov/articles/2011/12/20/2011-31722/real-estate-settlement-procedures-act-regulation-x</federalRegisterURL>
   </preamble>
   <part partNumber="1024">
     <tableOfContents>
@@ -296,9 +296,9 @@
                 <content><def term="dealer" id="27f65806fb21d86a7d06426f00e446f7c8e9d381">Dealer</def> means, in the case of property improvement loans, a seller, contractor, or supplier of goods or services. In the case of manufactured home loans, “dealer” means one who engages in the business of manufactured home retail sales.</content>
               </paragraph>
               <paragraph label="1024-2-b-DealerLoanOrDealerConsumerCreditContract" marker="">
-                <content><def term="dealer loan or dealer consumer credit contract" id="39fa3417d9c9c698c6b14767997edd82fb38bbbb">Dealer loan or dealer consumer credit contract</def> means, generally, any arrangement in which a <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> assists the borrower in obtaining a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> from the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> and then assigns the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref>'s legal interests to the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> and receives the net proceeds of the loan. The funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> is the <ref target="1024-2-b-Lender" reftype="term">lender</ref> for the purposes of the disclosure requirements of this part. If a <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> is a “creditor” as defined under the definition of “federally related mortgage loan” in this part, the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> is the <ref target="1024-2-b-Lender" reftype="term">lender</ref> for purposes of this part.</content>
+                <content><def term="dealer loan">Dealer loan</def> or <def term="dealer consumer credit contract">dealer consumer credit contract</def> means, generally, any arrangement in which a <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> assists the borrower in obtaining a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> from the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> and then assigns the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref>'s legal interests to the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> and receives the net proceeds of the loan. The funding <ref target="1024-2-b-Lender" reftype="term">lender</ref> is the <ref target="1024-2-b-Lender" reftype="term">lender</ref> for the purposes of the disclosure requirements of this part. If a <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> is a “<def term="creditor">creditor</def>” as defined under the definition of “federally related mortgage loan” in this part, the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> is the <ref target="1024-2-b-Lender" reftype="term">lender</ref> for purposes of this part.</content>
               </paragraph>
-              <paragraph label="1024-2-b-def1" marker="">
+              <paragraph label="1024-2-b-EffectiveDateOfTransfer" marker="">
                 <content><def term="effective date of transfer" id="2fb5e44e8ca82935bbd06ce33cabdd66e0f933b8">Effective date of transfer</def> is defined in section 6(i)(1) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2605" reftype="external">12 U.S.C. 2605</ref>(i)(1)). In the case of a home equity conversion mortgage or <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> as referenced in this section, the effective date of transfer is the transfer date agreed upon by the transferee <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and the transferor <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
               </paragraph>
               <paragraph label="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" marker="">
@@ -350,7 +350,7 @@
                 </paragraph>
               </paragraph>
               <paragraph label="1024-2-b-GoodFaithEstimateOrGFE" marker="">
-                <content><def term="good faith estimate" id="26354bf10fd3fa673d0d88d69dbb276ddfd9f709">Good faith estimate</def> or GFE means an estimate of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges a borrower is likely to incur, as a dollar amount, and related loan information, based upon common practice and experience in the locality of the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, as provided on the form prescribed in § <ref target="1024-7" reftype="internal">1024.7</ref> and prepared in accordance with the Instructions in appendix <ref target="1024-C" reftype="internal">C</ref> to this part.</content>
+                <content><def term="good faith estimate" id="26354bf10fd3fa673d0d88d69dbb276ddfd9f709">Good faith estimate</def> or <def term="GFE">GFE</def> means an estimate of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges a borrower is likely to incur, as a dollar amount, and related loan information, based upon common practice and experience in the locality of the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, as provided on the form prescribed in § <ref target="1024-7" reftype="internal">1024.7</ref> and prepared in accordance with the Instructions in appendix <ref target="1024-C" reftype="internal">C</ref> to this part.</content>
               </paragraph>
               <paragraph label="1024-2-b-HUD" marker="">
                 <content><def term="hud" id="6a8e2399923d653e019463d003ac3946c8dacb70">HUD</def> means the Department of Housing and Urban Development.</content>
@@ -359,13 +359,13 @@
                 <content><ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement (also <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A) means the statement that is prescribed in this part for setting forth <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges in connection with either the purchase or the <ref target="1024-2-b-Refinancing" reftype="term">refinancing</ref> (or other subordinate lien transaction) of 1- to 4-family residential property.</content>
               </paragraph>
               <paragraph label="1024-2-b-Lender" marker="">
-                <content>Lender means, generally, the secured <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditor</ref> or <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditors</ref> named in the debt obligation and document creating the lien. For loans originated by a <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that closes a federally related <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> in its own name in a <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref> transaction, the lender is the person to whom the obligation is initially assigned at or after <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. A lender, in connection with <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loans, is the lender to whom the loan is assigned, unless the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> meets the definition of <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditor</ref> as defined under “<def term="federally related mortgage loan" id="bea5310084e2e13a74ce14ef6a4502993d2b385d">federally related mortgage loan</def>” in this section. See also § <ref target="1024-5-b-7" reftype="internal">1024.5(b)(7)</ref>, secondary market transactions.</content>
+                <content><def term="lender">Lender</def> means, generally, the secured <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditor</ref> or <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditors</ref> named in the debt obligation and document creating the lien. For loans originated by a <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref> that closes a federally related <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> in its own name in a <ref target="1024-2-b-TableFunding" reftype="term">table funding</ref> transaction, the lender is the person to whom the obligation is initially assigned at or after <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. A lender, in connection with <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> loans, is the lender to whom the loan is assigned, unless the <ref target="1024-2-b-Dealer" reftype="term">dealer</ref> meets the definition of <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">creditor</ref> as defined under “<def term="federally related mortgage loan" id="bea5310084e2e13a74ce14ef6a4502993d2b385d">federally related mortgage loan</def>” in this section. See also § <ref target="1024-5-b-7" reftype="internal">1024.5(b)(7)</ref>, secondary market transactions.</content>
               </paragraph>
               <paragraph label="1024-2-b-LoanOriginator" marker="">
                 <content><def term="loan originator" id="2f41d4ca56dd370abfd52a590172fdb3e465bccf">Loan originator</def> means a <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-MortgageBroker" reftype="term">mortgage broker</ref>.</content>
               </paragraph>
-              <paragraph label="1024-2-b-def2" marker="">
-                <content>Manufactured home is defined in <ref target="1024-2-b-HUD" reftype="term">HUD</ref> regulation <ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>.</content>
+              <paragraph label="1024-2-b-ManufacturedHome" marker="">
+                <content><def term="manufactured home">Manufactured home</def> is defined in <ref target="1024-2-b-HUD" reftype="term">HUD</ref> regulation <ref target="CFR:24-3280-2" reftype="external">24 CFR 3280.2</ref>.</content>
               </paragraph>
               <paragraph label="1024-2-b-MortgageBroker" marker="">
                 <content><def term="mortgage broker" id="3b154889db451fb7f9f7f2ca22aedde32a56e5c5">Mortgage broker</def> means a person (not an employee of a <ref target="1024-2-b-Lender" reftype="term">lender</ref>) or entity that renders <ref target="1024-2-b-OriginationService" reftype="term">origination services</ref> and serves as an intermediary between a borrower and a <ref target="1024-2-b-Lender" reftype="term">lender</ref> in a transaction involving a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>, including such a person or entity that closes the loan in its own name in a table funded transaction. A loan correspondent approved under <ref target="1024-2-b-HUD" reftype="term">HUD</ref> regulation <ref target="CFR:24-202-8" reftype="external">24 CFR 202.8</ref> for Federal Housing Administration programs is a mortgage broker for purposes of this part.</content>
@@ -376,10 +376,10 @@
               <paragraph label="1024-2-b-OriginationService" marker="">
                 <content><def term="origination service" id="ef1212adcc1405b7f8ed2310ef3be6e63010c2d5">Origination service</def> means any service involved in the creation of a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, including but not limited to the taking of the loan <ref target="1024-2-b-Application" reftype="term">application</ref>, loan processing, the underwriting and funding of the loan, and the processing and administrative services required to perform these functions.</content>
               </paragraph>
-              <paragraph label="1024-2-b-def3" marker="">
-                <content>Person is defined in section 3(5) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2602" reftype="external">12 U.S.C. 2602</ref>(5)).</content>
+              <paragraph label="1024-2-b-Person" marker="">
+                <content><def term="person">Person</def> is defined in section 3(5) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2602" reftype="external">12 U.S.C. 2602</ref>(5)).</content>
               </paragraph>
-              <paragraph label="1024-2-b-def4" marker="">
+              <paragraph label="1024-2-b-PrepaymentPenalty" marker="">
                 <content><def term="prepayment penalty" id="73f5544760b67339c0f07690ac6233a9c6e68f0b">Prepayment penalty</def> has the same meaning as “prepayment penalty” under <ref target="1024-2-b-RegulationZ" reftype="term">Regulation Z</ref> (<ref target="CFR:12-1026" reftype="external">12 CFR part 1026</ref>).</content>
               </paragraph>
               <paragraph label="1024-2-b-PublicGuidanceDocuments" marker="">
@@ -425,7 +425,7 @@
                 <content><def term="servicing" id="15f6749c576373989cd39e2bb5b29f20203981ac">Servicing</def> means receiving any scheduled periodic payments from a borrower pursuant to the terms of any <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref>, including amounts for <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> accounts under section 10 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2609" reftype="external">12 U.S.C. 2609</ref>), and making the payments to the owner of the loan or other <ref target="1024-2-b-ThirdParty" reftype="term">third parties</ref> of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage servicing loan documents or servicing contract. In the case of a home equity conversion mortgage or <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan-1-ii-F" reftype="term">reverse mortgage</ref> as referenced in this section, servicing includes making payments to the borrower.</content>
               </paragraph>
               <paragraph label="1024-2-b-Settlement" marker="">
-                <content>Settlement means the process of executing legally binding documents regarding a lien on property that is subject to a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>. This process may also be called “closing” or “<def term="escrow" id="d6e01aa1d16657d109d8dc8274c3b0ec1081aad3">escrow</def>” in different jurisdictions.</content>
+                <content><def term="settlement">Settlement</def> means the process of executing legally binding documents regarding a lien on property that is subject to a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>. This process may also be called “<def term="closing">closing</def>” or “<def term="escrow" id="d6e01aa1d16657d109d8dc8274c3b0ec1081aad3">escrow</def>” in different jurisdictions.</content>
               </paragraph>
               <paragraph label="1024-2-b-SettlementService" marker="">
                 <content><def term="settlement service" id="701ae635638b1ce4c0ae810d49f2e7461a072012">Settlement service</def> means any service provided in connection with a prospective or actual <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>, including, but not limited to, any one or more of the following:</content>
@@ -510,7 +510,7 @@
               <title type="keyterm">Rule, regulation or interpretation.</title>
               <content>Rule, regulation or interpretation.</content>
               <paragraph label="1024-4-a-1" marker="(1)">
-                <content>For purposes of sections <ref target="1024-19-a" reftype="internal">19(a)</ref> and <ref target="1024-19-b" reftype="internal">(b)</ref> of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2617" reftype="external">12 U.S.C. 2617</ref>(a) and (b)), only the following constitute a rule, regulation or interpretation of the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref>:</content>
+                <content>For purposes of sections 19(a) and (b) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2617" reftype="external">12 U.S.C. 2617</ref>(a) and (b)), only the following constitute a rule, regulation or interpretation of the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref>:</content>
                 <paragraph label="1024-4-a-1-i" marker="(i)">
                   <content>All provisions, including appendices, of this part. Any other document referred to in this part is not incorporated in this part unless it is specifically set out in this part;</content>
                 </paragraph>
@@ -564,7 +564,7 @@
               </paragraph>
               <paragraph label="1024-5-b-7" marker="(7)">
                 <title type="keyterm">Secondary market transactions.</title>
-                <content>Secondary market transactions. A bona fide transfer of a loan obligation in the secondary market is not covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, except as set forth in section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2605" reftype="external">12 U.S.C. 2605</ref>) and § <ref target="1024-21" reftype="internal">1024.21</ref>. In determining what constitutes a bona fide transfer, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> will consider the real source of funding and the real interest of the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref>. <ref target="1024-2-b-MortgageBroker" reftype="term">Mortgage broker</ref> transactions that are table-funded are not secondary market transactions. Neither the creation of a <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan or dealer consumer credit contract</ref>, nor the first assignment of such loan or contract to a <ref target="1024-2-b-Lender" reftype="term">lender</ref>, is a secondary market transaction (see § <ref target="1024-2" reftype="internal">1024.2</ref>).</content>
+                <content>Secondary market transactions. A bona fide transfer of a loan obligation in the secondary market is not covered by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> and this part, except as set forth in section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2605" reftype="external">12 U.S.C. 2605</ref>) and § <ref target="1024-21" reftype="internal">1024.21</ref>. In determining what constitutes a bona fide transfer, the <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> will consider the real source of funding and the real interest of the funding <ref target="1024-2-b-Lender" reftype="term">lender</ref>. <ref target="1024-2-b-MortgageBroker" reftype="term">Mortgage broker</ref> transactions that are table-funded are not secondary market transactions. Neither the creation of a <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer loan</ref> or <ref target="1024-2-b-DealerLoanOrDealerConsumerCreditContract" reftype="term">dealer consumer credit contract</ref>, nor the first assignment of such loan or contract to a <ref target="1024-2-b-Lender" reftype="term">lender</ref>, is a secondary market transaction (see § <ref target="1024-2" reftype="internal">1024.2</ref>).</content>
               </paragraph>
             </paragraph>
           </section>
@@ -1024,11 +1024,11 @@
                   <content>In an affiliated business arrangement:</content>
                   <paragraph label="1024-15-b-3-i-A" marker="(A)">
                     <title type="keyterm">Bona fide</title>
-                    <content>Bona fide dividends, and capital or equity distributions, related to ownership interest or franchise relationship, between entities in an <ref target="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”" reftype="term">affiliate relationship</ref>, are permissible; and</content>
+                    <content>Bona fide dividends, and capital or equity distributions, related to ownership interest or franchise relationship, between entities in an <ref target="1024-15-c-AffiliateRelationship" reftype="term">affiliate relationship</ref>, are permissible; and</content>
                   </paragraph>
                   <paragraph label="1024-15-b-3-i-B" marker="(B)">
                     <title type="keyterm">Bona fide</title>
-                    <content>Bona fide business loans, advances, and capital or equity contributions between entities in an <ref target="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”" reftype="term">affiliate relationship</ref> (in any direction), are not prohibited—so long as they are for ordinary business purposes and are not fees for the referral of <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref> business or unearned fees.</content>
+                    <content>Bona fide business loans, advances, and capital or equity contributions between entities in an <ref target="1024-15-c-AffiliateRelationship" reftype="term">affiliate relationship</ref> (in any direction), are not prohibited—so long as they are for ordinary business purposes and are not fees for the referral of <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref> business or unearned fees.</content>
                   </paragraph>
                 </paragraph>
                 <paragraph label="1024-15-b-3-ii" marker="(ii)">
@@ -1054,27 +1054,32 @@
             <paragraph label="1024-15-c" marker="(c)">
               <title type="keyterm">Definitions.</title>
               <content>Definitions. As used in this section:</content>
-              <paragraph label="1024-15-c-AffiliateRelationship" marker="">
-                <content><def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">Affiliate relationship</def> means the relationship among business entities where one entity has effective control over the other by virtue of a partnership or other agreement or is under common control with the other by a third entity or where an entity is a corporation related to another corporation as parent to subsidiary by an identity of stock ownership.</content>
-              </paragraph>
-              <paragraph label="1024-15-c-def0" marker="">
+
+	      <paragraph label="1024-15-c-Associate" marker="">
                 <content><def term="associate" id="adb833ac38f3ed04b28b2dd15e3f056a47ce6992">Associate</def> is defined in section 3(8) of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> (<ref target="USC:12-2602" reftype="external">12 U.S.C. 2602</ref>(8)).</content>
               </paragraph>
+
+	      <paragraph label="1024-15-c-AffiliateRelationship" marker="">
+		<content><def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">Affiliate relationship</def> means the relationship among business entities where one entity has effective control over the other by virtue of a partnership or other agreement or is under common control with the other by a third entity or where an entity is a corporation related to another corporation as parent to subsidiary by an identity of stock ownership.</content>
+
+              </paragraph>
+
+	      
               <paragraph label="1024-15-c-BeneficialOwnership" marker="">
                 <content><def term="beneficial ownership" id="c20f6e87f243f9d881bd61b8508b9399e5907f5b">Beneficial ownership</def> means the effective ownership of an interest in a provider of <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> or the right to use and control the ownership interest involved even though legal ownership or title may be held in another person's name.</content>
               </paragraph>
-              <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”" marker="">
-                <content>Control, as used in the definitions of “associate” and “<def term="affiliate relationship" id="fccb8f84d2d52441cb92dc8719262070d071e17e">affiliate relationship</def>,” means that a person:</content>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-i" marker="(i)">
+              <paragraph label="1024-15-c-Control" marker="">
+                <content><def term="control">Control</def>, as used in the definitions of “<ref target="1024-15-c-Associate" reftype="term">associate</ref>” and “<ref target="1024-15-c-AffiliateRelationship" reftype="term">affiliate relationship</ref>,” means that a person:</content>
+                <paragraph label="1024-15-c-Control-i" marker="(i)">
                   <content>Is a general partner, officer, director, or employer of another person;</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-ii" marker="(ii)">
+                <paragraph label="1024-15-c-Control-ii" marker="(ii)">
                   <content>Directly or indirectly or acting in concert with others, or through one or more subsidiaries, owns, holds with power to vote, or holds proxies representing, more than 20 percent of the voting interests of another person;</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-iii" marker="(iii)">
+                <paragraph label="1024-15-c-Control-iii" marker="(iii)">
                   <content>Affirmatively influences in any manner the election of a majority of the directors of another person; or</content>
                 </paragraph>
-                <paragraph label="1024-15-c-Control,AsUsedInTheDefinitionsOf“associate”And“affiliateRelationship,”-iv" marker="(iv)">
+                <paragraph label="1024-15-c-Control-iv" marker="(iv)">
                   <content>Has contributed more than 20 percent of the capital of the other person.</content>
                 </paragraph>
               </paragraph>
@@ -1082,13 +1087,13 @@
                 <content><def term="direct ownership" id="957b8075f57316530ec3a1fc0ff3a9b4890805b7">Direct ownership</def> means the holding of legal title to an interest in a provider of <ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref> except where title is being held for the beneficial owner.</content>
               </paragraph>
               <paragraph label="1024-15-c-def1" marker="">
-                <content>Franchise is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(h).</content>
+                <content><def term="franchise">Franchise</def> is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(h).</content>
+              </paragraph>
+	      <paragraph label="1024-15-c-def3" marker="">
+                <content><def term="franchisor">Franchisor</def> is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(k).</content>
               </paragraph>
               <paragraph label="1024-15-c-def2" marker="">
-                <content>Franchisee is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(i).</content>
-              </paragraph>
-              <paragraph label="1024-15-c-def3" marker="">
-                <content>Franchisor is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(k).</content>
+                <content><def term="franchisee">Franchisee</def> is defined in <ref target="1024-15-c-FTC" reftype="term">FTC</ref> regulation <ref target="CFR:16-436-1" reftype="external">16 CFR 436.1</ref>(i).</content>
               </paragraph>
               <paragraph label="1024-15-c-FTC" marker="">
                 <content><def term="ftc" id="b8349176e9e8d1e81359c7af06f20d9fb8a6edb3">FTC</def> means the Federal Trade Commission.</content>
@@ -1103,7 +1108,7 @@
             </paragraph>
             <paragraph label="1024-15-e" marker="(e)">
               <title type="keyterm">Appendix B of this part.</title>
-              <content>Appendix <ref target="1024-B" reftype="internal">B</ref> of this part. Illustrations in appendix <ref target="1024-B" reftype="internal">B</ref> of this part demonstrate some of the requirements of this section.</content>
+              <content>Appendix B of this part. Illustrations in <ref target="1024-B" reftype="internal">appendix B</ref> of this part demonstrate some of the requirements of this section.</content>
             </paragraph>
           </section>
           <section label="1024-16" sectionNum="16">
@@ -1121,7 +1126,7 @@
             <paragraph label="1024-17-b" marker="(b)">
               <title type="keyterm">Definitions.</title>
               <content>Definitions. As used in this section:</content>
-              <paragraph label="1024-17-b-Aggregate(or)CompositeAnalysis,HereafterCalledAggregateAnalysis," marker="">
+              <paragraph label="1024-17-b-AggregateAnalysis" marker="">
                 <content>Aggregate (or) composite analysis, hereafter called aggregate analysis, means an accounting method a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> uses in conducting an <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analysis</ref> by computing the sufficiency of <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> funds by analyzing the account as a whole. Appendix <ref target="1024-E" reftype="internal">E</ref> to this part sets forth examples of aggregate <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analyses</ref>.</content>
               </paragraph>
               <paragraph label="1024-17-b-AnnualEscrowAccountStatement" marker="">
@@ -1140,7 +1145,7 @@
                 <content><def term="disbursement date" id="9f1e526d95dcbc76a0efa9900678d18d391f8a49">Disbursement date</def> means the date on which the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> actually pays an <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> item from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>.</content>
               </paragraph>
               <paragraph label="1024-17-b-EscrowAccount" marker="">
-                <content>Escrow account means any account that a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes or controls on behalf of a borrower to pay <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref>, <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref> premiums (including flood <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref>), or other charges with respect to a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>, including charges that the borrower and <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> have voluntarily agreed that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> should collect and pay. The definition encompasses any account established for this purpose, including a “trust account”, “<def term="reserve account" id="d18f1df2ab1469e43edf7b73509ae99fcb4521a6">reserve account</def>”, “impound account”, or other term in different localities. An “escrow account” includes any arrangement where the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> adds a portion of the borrower's payments to principal and subsequently deducts from principal the disbursements for <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account items</ref>. For purposes of this section, the term “escrow account” excludes any account that is under the borrower's total control.</content>
+                <content><def term="escrow account">Escrow account</def> means any account that a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> establishes or controls on behalf of a borrower to pay taxes, insurance premiums (including flood insurance), or other charges with respect to a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>, including charges that the borrower and <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> have voluntarily agreed that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> should collect and pay. The definition encompasses any account established for this purpose, including a “trust account”, “<def term="reserve account" id="d18f1df2ab1469e43edf7b73509ae99fcb4521a6">reserve account</def>”, “impound account”, or other term in different localities. An “escrow account” includes any arrangement where the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> adds a portion of the borrower's payments to principal and subsequently deducts from principal the disbursements for <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account items</ref>. For purposes of this section, the term “escrow account” excludes any account that is under the borrower's total control.</content>
               </paragraph>
               <paragraph label="1024-17-b-EscrowAccountAnalysis" marker="">
                 <content><def term="escrow account analysis" id="1494da5d4092bb4aa5772ea7519943fdf07f8cf4">Escrow account analysis</def> means the accounting that a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> conducts in the form of a <ref target="1024-17-b-TrialRunningBalance" reftype="term">trial running balance</ref> for an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> to:</content>
@@ -1164,7 +1169,7 @@
                 <content><def term="initial escrow account statement" id="eaf4991ab1d83df1d1f0ec5bd705b1a095831a98">Initial escrow account statement</def> means the first disclosure statement that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> delivers to the borrower concerning the borrower's <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. The initial <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> statement shall meet the requirements of § <ref target="1024-17-g" reftype="internal">1024.17(g)</ref> and be in substantially the format set forth in § <ref target="1024-17-h" reftype="internal">1024.17(h)</ref>.</content>
               </paragraph>
               <paragraph label="1024-17-b-InstallmentPayment" marker="">
-                <content><def term="installment payment" id="672e3c50d22fd0822bca91b297c2675aa80da678">Installment payment</def> means one of two or more payments payable on an <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account item</ref> during an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year. An example of an installment payment is where a jurisdiction bills quarterly for <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref>.</content>
+                <content><def term="installment payment" id="672e3c50d22fd0822bca91b297c2675aa80da678">Installment payment</def> means one of two or more payments payable on an <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account item</ref> during an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year. An example of an installment payment is where a jurisdiction bills quarterly for taxes.</content>
               </paragraph>
               <paragraph label="1024-17-b-PaymentDueDate" marker="">
                 <content><def term="payment due date" id="8517728d3ad92dbd04e2144185e051796612f868">Payment due date</def> means the date each month when the borrower's monthly payment to an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> is due to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>. The initial payment date is the borrower's first payment due date to an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>.</content>
@@ -1204,7 +1209,7 @@
                 <content>A <ref target="1024-2-b-Lender" reftype="term">lender</ref> or <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> (hereafter <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>) shall not require a borrower to deposit into any <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, created in connection with a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref>, more than the following amounts:</content>
                 <paragraph label="1024-17-c-1-i" marker="(i)">
                   <title type="keyterm">Charges at settlement or upon creation of an escrow account.</title>
-                  <content>Charges at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> or upon creation of an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. At the time a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> creates an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> for a borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may charge the borrower an amount sufficient to pay the charges respecting the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, such as <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref> and <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref>, which are attributable to the period from the date such payment(s) were last paid until the initial payment date. The “amount sufficient to pay” is computed so that the lowest month end <ref target="1024-17-b-TargetBalance" reftype="term">target balance</ref> projected for the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year is zero (-0-) (see Step 2 in Appendix <ref target="1024-E" reftype="internal">E</ref> to this part). In addition, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may charge the borrower a cushion that shall be no greater than one-sixth (1/6) of the estimated total annual payments from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>.</content>
+                  <content>Charges at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> or upon creation of an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. At the time a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> creates an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> for a borrower, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may charge the borrower an amount sufficient to pay the charges respecting the <ref target="1024-2-b-MortgagedProperty" reftype="term">mortgaged property</ref>, such as taxes and insurance, which are attributable to the period from the date such payment(s) were last paid until the initial payment date. The “amount sufficient to pay” is computed so that the lowest month end <ref target="1024-17-b-TargetBalance" reftype="term">target balance</ref> projected for the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year is zero (-0-) (see Step 2 in Appendix <ref target="1024-E" reftype="internal">E</ref> to this part). In addition, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may charge the borrower a cushion that shall be no greater than one-sixth (1/6) of the estimated total annual payments from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>.</content>
                 </paragraph>
                 <paragraph label="1024-17-c-1-ii" marker="(ii)">
                   <title type="keyterm">Charges during the life of the escrow account.</title>
@@ -1241,7 +1246,7 @@
               </paragraph>
               <paragraph label="1024-17-c-9" marker="(9)">
                 <title type="keyterm">Assessments for periods longer than one year.</title>
-                <content>Assessments for periods longer than one year. Some <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account items</ref> may be billed for periods longer than one year. For example, <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> may need to collect flood <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref> or water purification <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> funds for payment every three years. In such cases, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall estimate the borrower's payments for a full cycle of disbursements. For a flood <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref> premium payable every 3 years, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall collect the payments reflecting 36 equal monthly amounts. For two out of the three years, however, the account balance may not reach its low monthly balance because the low point will be on a three-year cycle, as compared to an annual one. The <ref target="1024-17-b-AnnualEscrowAccountStatement" reftype="term">annual escrow account statement</ref> shall explain this situation (see example in the Public Guidance Document entitled “Annual <ref target="1024-17-b-EscrowAccount" reftype="term">Escrow Account</ref> Disclosure Statement—Example”, available in accordance with § <ref target="1024-3" reftype="internal">1024.3</ref>).</content>
+                <content>Assessments for periods longer than one year. Some <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">escrow account items</ref> may be billed for periods longer than one year. For example, <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> may need to collect flood insurance or water purification <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> funds for payment every three years. In such cases, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall estimate the borrower's payments for a full cycle of disbursements. For a flood insurance premium payable every 3 years, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall collect the payments reflecting 36 equal monthly amounts. For two out of the three years, however, the account balance may not reach its low monthly balance because the low point will be on a three-year cycle, as compared to an annual one. The <ref target="1024-17-b-AnnualEscrowAccountStatement" reftype="term">annual escrow account statement</ref> shall explain this situation (see example in the Public Guidance Document entitled “Annual <ref target="1024-17-b-EscrowAccount" reftype="term">Escrow Account</ref> Disclosure Statement—Example”, available in accordance with § <ref target="1024-3" reftype="internal">1024.3</ref>).</content>
               </paragraph>
             </paragraph>
             <paragraph label="1024-17-d" marker="(d)">
@@ -1372,7 +1377,7 @@
                 <title type="keyterm">Submission at settlement, or within 45 calendar days of settlement.</title>
                 <content>Submission at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>, or within 45 calendar days of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. As noted in § <ref target="1024-17-c-2" reftype="internal">1024.17(c)(2)</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall conduct an <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analysis</ref> before establishing an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> to determine the amount the borrower shall deposit into the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, subject to the limitations of § <ref target="1024-17-c-1-i" reftype="internal">1024.17(c)(1)(i)</ref>. After conducting the <ref target="1024-17-b-EscrowAccountAnalysis" reftype="term">escrow account analysis</ref> for each <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall submit an <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> to the borrower at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> or within 45 calendar days of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> for <ref target="1024-17-b-EscrowAccount" reftype="term">escrow accounts</ref> that are established as a condition of the loan.</content>
                 <paragraph label="1024-17-g-1-i" marker="(i)">
-                  <content>The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> shall include the amount of the borrower's monthly mortgage payment and the portion of the monthly payment going into the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> and shall itemize the estimated <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref>, <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref> premiums, and other charges that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reasonably anticipates to be paid from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year and the anticipated <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement dates</ref> of those charges. The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> shall indicate the amount that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> selects as a cushion. The statement shall include a <ref target="1024-17-b-TrialRunningBalance" reftype="term">trial running balance</ref> for the account.</content>
+                  <content>The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> shall include the amount of the borrower's monthly mortgage payment and the portion of the monthly payment going into the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> and shall itemize the estimated taxes, insurance premiums, and other charges that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> reasonably anticipates to be paid from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year and the anticipated <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement dates</ref> of those charges. The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> shall indicate the amount that the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> selects as a cushion. The statement shall include a <ref target="1024-17-b-TrialRunningBalance" reftype="term">trial running balance</ref> for the account.</content>
                 </paragraph>
                 <paragraph label="1024-17-g-1-ii" marker="(ii)">
                   <content>Pursuant to § <ref target="1024-17-h-2" reftype="internal">1024.17(h)(2)</ref>, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may incorporate the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> into the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement. If the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> does not incorporate the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> into the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> statement, then the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall submit the <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> to the borrower as a separate document.</content>
@@ -1395,7 +1400,7 @@
               </paragraph>
               <paragraph label="1024-17-h-3" marker="(3)">
                 <title type="keyterm">Identification of payees.</title>
-                <content>Identification of payees. The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> need not identify a specific payee by name if it provides sufficient information to identify the use of the funds. For example, appropriate entries include: county <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref>, hazard <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref>, condominium dues, etc. If a particular payee, such as a taxing body, receives more than one payment during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year, the statement shall indicate each payment and <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref>. If there are several taxing authorities or insurers, the statement shall identify each taxing body or insurer (e.g., “City <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">Taxes</ref>”, “School <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">Taxes</ref>”, “Hazard <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">Insurance</ref>”, or “Flood <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">Insurance</ref>,” etc.).</content>
+                <content>Identification of payees. The <ref target="1024-17-b-InitialEscrowAccountStatement" reftype="term">initial escrow account statement</ref> need not identify a specific payee by name if it provides sufficient information to identify the use of the funds. For example, appropriate entries include: county taxes, hazard insurance, condominium dues, etc. If a particular payee, such as a taxing body, receives more than one payment during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year, the statement shall indicate each payment and <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref>. If there are several taxing authorities or insurers, the statement shall identify each taxing body or insurer (e.g., “City Taxes”, “School Taxes”, “Hazard Insurance”, or “Flood Insurance,” etc.).</content>
               </paragraph>
             </paragraph>
             <paragraph label="1024-17-i" marker="(i)">
@@ -1414,7 +1419,7 @@
                   <content>The total amount paid into the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> during the past computation year;</content>
                 </paragraph>
                 <paragraph label="1024-17-i-1-iv" marker="(iv)">
-                  <content>The total amount paid out of the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> during the same period for <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref>, <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref> premiums, and other charges (as separately identified);</content>
+                  <content>The total amount paid out of the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> during the same period for taxes, insurance premiums, and other charges (as separately identified);</content>
                 </paragraph>
                 <paragraph label="1024-17-i-1-v" marker="(v)">
                   <content>The balance in the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> at the end of the period;</content>
@@ -1446,7 +1451,7 @@
                 </paragraph>
                 <paragraph label="1024-17-i-4-ii" marker="(ii)">
                   <title type="keyterm">Short year statement upon servicing transfer.</title>
-                  <content>Short year statement upon <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer. Upon the transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>, the transferor (old) <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall submit a short year statement to the borrower within 60 days of the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref>.</content>
+                  <content>Short year statement upon <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> transfer. Upon the transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>, the transferor (old) <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall submit a short year statement to the borrower within 60 days of the <ref target="1024-2-b-EffectiveDateOfTransfer" reftype="term">effective date of transfer</ref>.</content>
                 </paragraph>
                 <paragraph label="1024-17-i-4-iii" marker="(iii)">
                   <title type="keyterm">Short year statement upon loan payoff.</title>
@@ -1468,10 +1473,10 @@
                 <content>The <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must advance funds to make disbursements in a timely manner as long as the borrower's payment is not more than 30 days overdue. Upon advancing funds to pay a disbursement, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may seek repayment from the borrower for the deficiency pursuant to paragraph <ref target="1024-17-f" reftype="internal">(f)</ref> of this section.</content>
               </paragraph>
               <paragraph label="1024-17-k-3" marker="(3)">
-                <content>For the payment of property <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref> from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, if a taxing jurisdiction offers a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> a choice between annual and installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must also comply with this paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref>. If the taxing jurisdiction neither offers a discount for disbursements on a lump sum annual basis nor imposes any additional charge or fee for installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must make disbursements on an installment basis. If, however, the taxing jurisdiction offers a discount for disbursements on a lump sum annual basis or imposes any additional charge or fee for installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, at the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s discretion (but is not required by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> to), make lump sum annual disbursements in order to take advantage of the discount for the borrower or avoid the additional charge or fee for installments, as long as such method of disbursement complies with paragraphs <ref target="1024-17-k-1" reftype="internal">(k)(1)</ref> and <ref target="1024-17-k-2" reftype="internal">(k)(2)</ref> of this section. The <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> encourages, but does not require, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to follow the preference of the borrower, if such preference is known to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
+                <content>For the payment of property taxes from the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>, if a taxing jurisdiction offers a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> a choice between annual and installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must also comply with this paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref>. If the taxing jurisdiction neither offers a discount for disbursements on a lump sum annual basis nor imposes any additional charge or fee for installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must make disbursements on an installment basis. If, however, the taxing jurisdiction offers a discount for disbursements on a lump sum annual basis or imposes any additional charge or fee for installment disbursements, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> may, at the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>'s discretion (but is not required by <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> to), make lump sum annual disbursements in order to take advantage of the discount for the borrower or avoid the additional charge or fee for installments, as long as such method of disbursement complies with paragraphs <ref target="1024-17-k-1" reftype="internal">(k)(1)</ref> and <ref target="1024-17-k-2" reftype="internal">(k)(2)</ref> of this section. The <ref target="1024-2-b-Bureau" reftype="term">Bureau</ref> encourages, but does not require, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> to follow the preference of the borrower, if such preference is known to the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>.</content>
               </paragraph>
               <paragraph label="1024-17-k-4" marker="(4)">
-                <content>Notwithstanding paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and borrower may mutually agree, on an individual case basis, to a different disbursement basis (installment or annual) or <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref> for property <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">taxes</ref> from that required under paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref> of this section, so long as the agreement meets the requirements of paragraphs <ref target="1024-17-k-1" reftype="internal">(k)(1)</ref> and <ref target="1024-17-k-2" reftype="internal">(k)(2)</ref> of this section. The borrower must voluntarily agree; neither loan approval nor any term of the loan may be conditioned on the borrower's agreeing to a different disbursement basis or <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref>.</content>
+                <content>Notwithstanding paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref> of this section, a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> and borrower may mutually agree, on an individual case basis, to a different disbursement basis (installment or annual) or <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref> for property taxes from that required under paragraph <ref target="1024-17-k-3" reftype="internal">(k)(3)</ref> of this section, so long as the agreement meets the requirements of paragraphs <ref target="1024-17-k-1" reftype="internal">(k)(1)</ref> and <ref target="1024-17-k-2" reftype="internal">(k)(2)</ref> of this section. The borrower must voluntarily agree; neither loan approval nor any term of the loan may be conditioned on the borrower's agreeing to a different disbursement basis or <ref target="1024-17-b-DisbursementDate" reftype="term">disbursement date</ref>.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1024-17-l" marker="(l)">
@@ -1495,7 +1500,7 @@
             </paragraph>
             <paragraph label="1024-17-m" marker="(m)">
               <title type="keyterm">Discretionary payments.</title>
-              <content>Discretionary payments. Any borrower's discretionary payment (such as credit life or disability <ref target="1024-17-b-EscrowAccountItemOrSeparateItem" reftype="term">insurance</ref>) made as part of a monthly mortgage payment is to be noted on the initial and annual statements. If a discretionary payment is established or terminated during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year, this change should be noted on the next annual statement. A discretionary payment is not part of the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> unless the payment is required by the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, in accordance with the definition of “<ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>” in § <ref target="1024-2" reftype="internal">1024.2</ref>, or the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> chooses to place the discretionary payment in the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has not established an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> for a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> and only receives payments for discretionary items, this section is not applicable.</content>
+              <content>Discretionary payments. Any borrower's discretionary payment (such as credit life or disability insurance) made as part of a monthly mortgage payment is to be noted on the initial and annual statements. If a discretionary payment is established or terminated during the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> computation year, this change should be noted on the next annual statement. A discretionary payment is not part of the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> unless the payment is required by the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, in accordance with the definition of “<ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>” in § <ref target="1024-2" reftype="internal">1024.2</ref>, or the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> chooses to place the discretionary payment in the <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref>. If a <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> has not established an <ref target="1024-17-b-EscrowAccount" reftype="term">escrow account</ref> for a <ref target="1024-2-b-Lender" reftype="term">federally related mortgage loan</ref> and only receives payments for discretionary items, this section is not applicable.</content>
             </paragraph>
           </section>
           <section label="1024-18" sectionNum="18">
@@ -1641,7 +1646,7 @@
               </paragraph>
               <paragraph label="1024-21-d-5" marker="(5)">
                 <title type="keyterm">Consumer protection during transfer of servicing.</title>
-                <content>Consumer protection during transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>. During the 60-day period beginning on the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref> of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of any <ref target="1024-21-a-MortgageServicingLoan" reftype="term">mortgage servicing loan</ref>, if the <ref target="1024-21-a-TransferorServicer" reftype="term">transferor servicer</ref> (rather than the <ref target="1024-21-a-TransfereeServicer" reftype="term">transferee servicer</ref> that should properly receive payment on the loan) receives payment on or before the applicable due date (including any grace period allowed under the loan documents), a late fee may not be imposed on the borrower with respect to that payment and the payment may not be treated as late for any other purposes.</content>
+                <content>Consumer protection during transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref>. During the 60-day period beginning on the <ref target="1024-2-b-EffectiveDateOfTransfer" reftype="term">effective date of transfer</ref> of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of any <ref target="1024-21-a-MortgageServicingLoan" reftype="term">mortgage servicing loan</ref>, if the <ref target="1024-21-a-TransferorServicer" reftype="term">transferor servicer</ref> (rather than the <ref target="1024-21-a-TransfereeServicer" reftype="term">transferee servicer</ref> that should properly receive payment on the loan) receives payment on or before the applicable due date (including any grace period allowed under the loan documents), a late fee may not be imposed on the borrower with respect to that payment and the payment may not be treated as late for any other purposes.</content>
               </paragraph>
             </paragraph>
             <paragraph label="1024-21-e" marker="(e)">
@@ -1940,7 +1945,7 @@
             <content>Lines 1000-1007. This series is used for amounts collected by the <ref target="1024-2-b-Lender" reftype="term">Lender</ref> from the Borrower and held in an account for the future payment of the obligations listed as they fall due. Include the time period (number of months) and the monthly assessment. In many jurisdictions this is referred to as an “<ref target="1024-2-b-Settlement" reftype="term">escrow</ref>”, “impound”, or “trust” account. In addition to the property taxes and insurance listed, some <ref target="1024-2-b-Lender" reftype="term">Lenders</ref> may require reserves for flood insurance, condominium owners' association assessments, etc. The amount in line 1001 must be listed in the columns, and the itemizations in lines 1002 through 1007 must be listed outside the columns.</content>
           </paragraph>
           <paragraph label="1024-A-h2-p66" marker="">
-            <content>After itemizing individual deposits in the 1000 series, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make an adjustment based on aggregate accounting. This adjustment equals the difference between the deposit required under aggregate accounting and the sum of the itemized deposits. The computation steps for aggregate accounting are set out in <ref target="CFR:12-1024-17" reftype="external">12 CFR 1024.17</ref><ref target="1024-17-d" reftype="internal">12 CFR 1024.17(d)</ref>. The adjustment will always be a negative number or zero (-0-), except for amounts due to rounding. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall enter the aggregate adjustment amount outside the columns on a final line of the 1000 series of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A statement. Appendix <ref target="1024-E" reftype="internal">E</ref> to this part sets out an example of aggregate analysis.</content>
+            <content>After itemizing individual deposits in the 1000 series, the <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> shall make an adjustment based on aggregate accounting. This adjustment equals the difference between the deposit required under aggregate accounting and the sum of the itemized deposits. The computation steps for aggregate accounting are set out in <ref target="1024-17-d" reftype="internal">12 CFR 1024.17(d)</ref>. The adjustment will always be a negative number or zero (-0-), except for amounts due to rounding. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall enter the aggregate adjustment amount outside the columns on a final line of the 1000 series of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 or <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A statement. Appendix <ref target="1024-E" reftype="internal">E</ref> to this part sets out an example of aggregate analysis.</content>
           </paragraph>
           <paragraph label="1024-A-h2-p67" marker="">
             <content>Lines 1100-1108. This series covers title charges and charges by attorneys and <ref target="1024-2-b-Settlement" reftype="term">closing</ref> or <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agents. The title charges include a variety of services performed by <ref target="1024-2-b-TitleCompany" reftype="term">title companies</ref> or others, and include fees directly related to the transfer of title (title examination, title search, document preparation), fees for title insurance, and fees for conducting the <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. The legal charges include fees for attorneys representing the <ref target="1024-2-b-Lender" reftype="term">lender</ref>, seller, or borrower, and any attorney preparing title work. The series also includes any <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>, notary, and delivery fees related to the services covered in this series. Disbursements to <ref target="1024-2-b-ThirdParty" reftype="term">third parties</ref> must be broken out in the appropriate lines or in blank lines in the series, and amounts paid to these <ref target="1024-2-b-ThirdParty" reftype="term">third parties</ref> must be shown outside of the columns if included in Line 1101. Charges not included in Line 1101 must be listed in the columns.</content>
@@ -2049,7 +2054,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
         <appendixSection appendixSecNum="8" label="1024-A-h8">
           <subject>General Instructions</subject>
           <paragraph label="1024-A-h8-p95" marker="">
-            <content>Information and amounts may be filled in by typewriter, hand printing, computer printing, or any other method producing clear and legible results. Refer to <ref target="CFR:12-1024-9" reftype="external">12 CFR 1024.9</ref><ref target="1024-9" reftype="internal">12 CFR 1024.9</ref> regarding rules for reproduction of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A. Additional pages may be attached to the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A for the inclusion of customary recitals and information used locally for <ref target="1024-2-b-Settlement" reftype="term">settlements</ref> or if there are insufficient lines on the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall complete the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A in accordance with the instructions for the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 to the extent possible, including the instructions for disclosing items paid outside <ref target="1024-2-b-Settlement" reftype="term">closing</ref> and for no cost loans.</content>
+            <content>Information and amounts may be filled in by typewriter, hand printing, computer printing, or any other method producing clear and legible results. Refer to <ref target="1024-9" reftype="internal">12 CFR 1024.9</ref> regarding rules for reproduction of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A. Additional pages may be attached to the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A for the inclusion of customary recitals and information used locally for <ref target="1024-2-b-Settlement" reftype="term">settlements</ref> or if there are insufficient lines on the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> agent shall complete the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A in accordance with the instructions for the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 to the extent possible, including the instructions for disclosing items paid outside <ref target="1024-2-b-Settlement" reftype="term">closing</ref> and for no cost loans.</content>
           </paragraph>
           <paragraph label="1024-A-h8-p96" marker="">
             <content>Blank lines are provided in section L for any additional <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges. Blank lines are also provided in section M for recipients of all or portions of the loan proceeds. The names of the recipients of the <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges in section L and the names of the recipients of the loan proceeds in section M should be set forth on the blank lines.</content>
@@ -2061,7 +2066,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
             <title>Page 1</title>
             <content/>
             <paragraph label="1024-A-h9-h10-p97" marker="">
-              <content>The identification information at the top of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A should be completed as follows: The borrower's name and address is entered in the space provided. If the property securing the loan is different from the borrower's address, the address or other location information on the property should be entered in the space provided. The loan number is the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s identification number for the loan. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> date is the date of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> in accordance with <ref target="CFR:12-1024-2" reftype="external">12 CFR 1024.2</ref><ref target="1024-2" reftype="internal">12 CFR 1024.2</ref>, not the end of any applicable rescission period. The name and address of the <ref target="1024-2-b-Lender" reftype="term">lender</ref> should be entered in the space provided.</content>
+              <content>The identification information at the top of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A should be completed as follows: The borrower's name and address is entered in the space provided. If the property securing the loan is different from the borrower's address, the address or other location information on the property should be entered in the space provided. The loan number is the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s identification number for the loan. The <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> date is the date of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> in accordance with <ref target="1024-2" reftype="internal">12 CFR 1024.2</ref>, not the end of any applicable rescission period. The name and address of the <ref target="1024-2-b-Lender" reftype="term">lender</ref> should be entered in the space provided.</content>
             </paragraph>
             <paragraph label="1024-A-h9-h10-p98" marker="">
               <content>Section L. <ref target="1024-2-b-Settlement" reftype="term">Settlement</ref> Charges. This section of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is similar to section L of the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1, with minor changes or omissions, including deletion of lines 700 through 704, relating to real estate broker commissions. The instructions for section L in the <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1 should be followed insofar as possible. Inapplicable charges should be ignored, as should any instructions regarding seller items.</content>
@@ -2146,6 +2151,9 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
         <appendixTitle>Appendix B to Part 1024—Illustrations of Requirements of RESPA</appendixTitle>
         <appendixSection appendixSecNum="1" label="1024-B-p1">
           <subject/>
+	  <paragraph label="1024-B-p1-p1" marker="">
+	    <content>The following illustrations provide additional guidance on the meaning and coverage of the provisions of RESPA. Other provisions of Federal or state law may also be applicable to the practices and payments discussed in the following illustrations.</content>
+	  </paragraph>
           <paragraph label="1024-B-p1-1" marker="1.">
             <title type="keyterm">Facts:</title>
             <content>Facts: A, a provider of <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref>, provides <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> at abnormally low rates or at no charge at all to B, a builder, in connection with a subdivision being developed by B. B agrees to refer purchasers of the completed homes in the subdivision to A for the purchase of <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> in connection with the sale of individual lots by B.</content>
@@ -2214,7 +2222,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
             <content>Facts: A is a real estate broker who refers business to its affiliate <ref target="1024-2-b-TitleCompany" reftype="term">title company</ref> B. A makes all required written disclosures to the homebuyer of the arrangement and estimated charges and the homebuyer is not required to use B. B refers or contracts out business to C who does all the title work and splits the fee with B. B passes its fee to A in the form of dividends, a return on ownership interest.</content>
           </paragraph>
           <paragraph label="1024-B-p1-p11" marker="">
-            <content>Comments: The relationship between A and B is an affiliated business arrangement. However, the affiliated business arrangement exemption does not provide exemption between an affiliated entity, B, and a <ref target="1024-2-b-ThirdParty" reftype="term">third party</ref>, C. Here, B is a mere “shell” and provides no substantive services for its portion of the fee. The arrangement between B and C would be in violation of section <ref target="1024-8-a" reftype="internal">8(a)</ref> and <ref target="1024-8-b" reftype="internal">(b)</ref>. Even if B had an affiliate relationship with C, the required exemption criteria have not been met and the relationship would be subject to section 8.</content>
+            <content>Comments: The relationship between A and B is an affiliated business arrangement. However, the affiliated business arrangement exemption does not provide exemption between an affiliated entity, B, and a <ref target="1024-2-b-ThirdParty" reftype="term">third party</ref>, C. Here, B is a mere “shell” and provides no substantive services for its portion of the fee. The arrangement between B and C would be in violation of section 8(a) and (b). Even if B had an affiliate relationship with C, the required exemption criteria have not been met and the relationship would be subject to section 8.</content>
           </paragraph>
           <paragraph label="1024-B-p1-11" marker="11.">
             <title type="keyterm">Facts:</title>
@@ -2297,7 +2305,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                 <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the monthly amount owed for principal, interest, and any mortgage insurance can rise even if the borrower makes payments on time. If the monthly amount owed can rise even if the borrower makes payments on time, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate the period of time after which the monthly amount owed can first change, the maximum amount to which the monthly amount owed can rise at the time of the first change, and the maximum amount to which the monthly amount owed can rise over the life of the loan. The amount used for the monthly amount owed must be the greater of: (1) The required monthly payment for principal and interest for that month, plus any monthly mortgage insurance payment; or (2) the accrued interest for that month, plus any monthly mortgage insurance payment.</content>
               </paragraph>
               <paragraph label="1024-C-h2-h3-p8-p13" marker="">
-                <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan includes a <ref target="1024-2-b-def4" reftype="term">prepayment penalty</ref>, and, if so, the maximum amount that it could be.</content>
+                <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan includes a <ref target="1024-2-b-PrepaymentPenalty" reftype="term">prepayment penalty</ref>, and, if so, the maximum amount that it could be.</content>
               </paragraph>
               <paragraph label="1024-C-h2-h3-p8-p14" marker="">
                 <content>The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must indicate whether the loan requires a <ref target="1024-2-b-def0" reftype="term">balloon payment</ref> and, if so, the amount of the payment and in how many years it will be due.</content>
@@ -2393,7 +2401,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
               <content>“ Understanding which charges can change at <ref target="1024-2-b-Settlement" reftype="term">settlement</ref>. ”—This section informs the applicant about which categories of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges can increase at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>, and by how much, and which categories of <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges cannot increase at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. This section requires no <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> action.</content>
             </paragraph>
             <paragraph label="1024-C-h2-h8-p38" marker="">
-              <content>“ Using the tradeoff table. ”—This section is designed to make borrowers aware of the relationship between their total estimated <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges on one hand, and the interest rate and resulting monthly payment on the other hand. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must complete the left hand column using the loan amount, interest rate, monthly payment figure, and the total estimated <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges from page 1 of the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>, at its option, may provide the borrower with the same information for two alternative loans, one with a higher interest rate, if available, and one with a lower interest rate, if available, from the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> should list in the tradeoff table only alternative loans for which it would presently issue a <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> based on the same information the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> considered in issuing this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The alternative loans must use the same loan amount and be otherwise identical to the loan in the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The alternative loans must have, for example, the identical number of payment periods; the same margin, index, and adjustment schedule if the loans are adjustable rate mortgages; and the same requirements for <ref target="1024-2-b-def4" reftype="term">prepayment penalty</ref> and <ref target="1024-2-b-def0" reftype="term">balloon payments</ref>. If the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> fills in the tradeoff table, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must show the borrower the loan amount, alternative interest rate, alternative monthly payment, the change in the monthly payment from the loan in this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> to the alternative loan, the change in the total <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges from the loan in this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> to the alternative loan, and the total <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges for the alternative loan. If these options are available, an applicant may request a new <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>, and a new <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> must be provided by the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>.</content>
+              <content>“ Using the tradeoff table. ”—This section is designed to make borrowers aware of the relationship between their total estimated <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges on one hand, and the interest rate and resulting monthly payment on the other hand. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must complete the left hand column using the loan amount, interest rate, monthly payment figure, and the total estimated <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges from page 1 of the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>, at its option, may provide the borrower with the same information for two alternative loans, one with a higher interest rate, if available, and one with a lower interest rate, if available, from the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>. The <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> should list in the tradeoff table only alternative loans for which it would presently issue a <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> based on the same information the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> considered in issuing this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The alternative loans must use the same loan amount and be otherwise identical to the loan in the <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>. The alternative loans must have, for example, the identical number of payment periods; the same margin, index, and adjustment schedule if the loans are adjustable rate mortgages; and the same requirements for <ref target="1024-2-b-PrepaymentPenalty" reftype="term">prepayment penalty</ref> and <ref target="1024-2-b-def0" reftype="term">balloon payments</ref>. If the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> fills in the tradeoff table, the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> must show the borrower the loan amount, alternative interest rate, alternative monthly payment, the change in the monthly payment from the loan in this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> to the alternative loan, the change in the total <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges from the loan in this <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> to the alternative loan, and the total <ref target="1024-2-b-Settlement" reftype="term">settlement</ref> charges for the alternative loan. If these options are available, an applicant may request a new <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref>, and a new <ref target="1024-2-b-GoodFaithEstimateOrGFE" reftype="term">GFE</ref> must be provided by the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref>.</content>
             </paragraph>
             <paragraph label="1024-C-h2-h8-p39" marker="">
               <content>“ Using the shopping chart. ”—This chart is a shopping tool to be provided by the <ref target="1024-2-b-LoanOriginator" reftype="term">loan originator</ref> for the borrower to complete, in order to compare GFEs.</content>
@@ -2433,12 +2441,6 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
       </appendix>
       <appendix appendixLetter="D" label="1024-D">
         <appendixTitle>Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-D-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>Affiliated Business Arrangement Disclosure Statement Format Notice</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-D-h1">
           <subject>Affiliated Business Arrangement Disclosure Statement Format Notice</subject>
           <paragraph label="1024-D-h1-p1" marker="">
@@ -2471,7 +2473,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
             <content>[A.] Set forth below is the estimated charge or range of charges for the <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> listed. You are NOT required to use the listed provider(s) as a condition for [<ref target="1024-2-b-Settlement" reftype="term">settlement</ref> of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER <ref target="1024-2-b-SettlementService" reftype="term">SETTLEMENT SERVICE</ref> PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.</content>
           </paragraph>
           <paragraph label="1024-D-h1-p8" marker="">
-            <content><dash>[provider and settlement service]</dash><ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>]_____</content>
+            <content><dash>[provider and settlement service]</dash></content>
           </paragraph>
           <paragraph label="1024-D-h1-p9" marker="">
             <content>
@@ -2502,7 +2504,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
             <content>[B.] Set forth below is the estimated charge or range of charges for the <ref target="1024-2-b-SettlementService" reftype="term">settlement services</ref> of an attorney, credit reporting agency, or real estate appraiser that we, as your <ref target="1024-2-b-Lender" reftype="term">lender</ref>, will require you to use, as a condition of your loan on this property, to represent our interests in the transaction.</content>
           </paragraph>
           <paragraph label="1024-D-h1-p15" marker="">
-            <content><dash>[provider and settlement service]</dash><ref target="1024-2-b-SettlementService" reftype="term">settlement service</ref>]_____</content>
+            <content><dash>[provider and settlement service]</dash></content>
           </paragraph>
           <paragraph label="1024-D-h1-p16" marker="">
             <content>
@@ -2544,47 +2546,13 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
               <content>Signature</content>
             </paragraph>
             <paragraph label="1024-D-h1-h2-p24" marker="">
-              <content>[INSTRUCTIONS TO PREPARER:] [Use paragraph A for referrals other than those by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> to an attorney, a credit reporting agency, or a real estate appraiser that a <ref target="1024-2-b-Lender" reftype="term">lender</ref> is requiring a borrower to use to represent the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s interests in the transaction. Use paragraph B for those referrals to an attorney, credit reporting agency, or real estate appraiser that a <ref target="1024-2-b-Lender" reftype="term">lender</ref> is requiring a borrower to use to represent the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s interests in the transaction. When applicable, use both paragraphs. Specific timing rules for delivery of the affiliated business disclosure statement are set forth in <ref target="CFR:12-1024-15" reftype="external">12 CFR 1024.15</ref><ref target="1024-15-b-1" reftype="internal">12 CFR 1024.15(b)(1)</ref> of Regulation X). These INSTRUCTIONS TO PREPARER should not appear on the statement.]</content>
+              <content>[INSTRUCTIONS TO PREPARER:] [Use paragraph A for referrals other than those by a <ref target="1024-2-b-Lender" reftype="term">lender</ref> to an attorney, a credit reporting agency, or a real estate appraiser that a <ref target="1024-2-b-Lender" reftype="term">lender</ref> is requiring a borrower to use to represent the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s interests in the transaction. Use paragraph B for those referrals to an attorney, credit reporting agency, or real estate appraiser that a <ref target="1024-2-b-Lender" reftype="term">lender</ref> is requiring a borrower to use to represent the <ref target="1024-2-b-Lender" reftype="term">lender</ref>'s interests in the transaction. When applicable, use both paragraphs. Specific timing rules for delivery of the affiliated business disclosure statement are set forth in <ref target="1024-15-b-1" reftype="internal">12 CFR 1024.15(b)(1)</ref> of Regulation X). These INSTRUCTIONS TO PREPARER should not appear on the statement.]</content>
             </paragraph>
           </paragraph>
         </appendixSection>
       </appendix>
       <appendix appendixLetter="E" label="1024-E">
         <appendixTitle>Appendix E to Part 1024—Arithmetic Steps</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-E-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>I. Example Illustrating Aggregate Analysis</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h7">
-            <appendixLetter>h7</appendixLetter>
-            <appendixSubject>Step 1—Initial Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h8">
-            <appendixLetter>h8</appendixLetter>
-            <appendixSubject>Step 2—Adjusted Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h9">
-            <appendixLetter>h9</appendixLetter>
-            <appendixSubject>Step 3—Trial Balance With Cushion</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h10">
-            <appendixLetter>h10</appendixLetter>
-            <appendixSubject>II. Example Illustrating Single-Item Analysis</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h16">
-            <appendixLetter>h16</appendixLetter>
-            <appendixSubject>Step 1—Initial Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h17">
-            <appendixLetter>h17</appendixLetter>
-            <appendixSubject>Step 2—Adjusted Trial Balance</appendixSubject>
-          </tocAppEntry>
-          <tocAppEntry target="1024-E-h18">
-            <appendixLetter>h18</appendixLetter>
-            <appendixSubject>Step 3—Trial Balance With Cushion</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-E-h1">
           <subject>I. Example Illustrating Aggregate Analysis</subject>
           <paragraph label="1024-E-h1-h2" marker="">
@@ -2715,6 +2683,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>0</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
@@ -2816,6 +2785,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>780</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
@@ -2914,6 +2884,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>1040</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
@@ -3093,6 +3064,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>0</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
@@ -3240,6 +3212,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>270</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
@@ -3384,48 +3357,46 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
                   <cell>330</cell>
                 </row>
               </table>
+	      &#xA0;
             </content>
           </paragraph>
         </appendixSection>
       </appendix>
       <appendix appendixLetter="MS1" label="1024-MS1">
         <appendixTitle>Appendix MS-1 to Part 1024—Servicing Disclosure Statement</appendixTitle>
-        <appendixSection appendixSecNum="1" label="1024-MS1-p1">
+        <appendixSection appendixSecNum="1" label="1024-MS1-1">
           <subject/>
-          <paragraph label="1024-MS1-p1-p1" marker="">
+          <paragraph label="1024-MS1-1-p1" marker="">
             <content>[Sample language; use business stationery or similar heading]</content>
           </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="2" label="1024-MS1-p2">
-          <subject/>
-          <paragraph label="1024-MS1-p2-p1" marker="">
+          <paragraph label="1024-MS1-1-p2" marker="">
             <content>[Date]</content>
           </paragraph>
-        </appendixSection>
-        <appendixSection appendixSecNum="3" label="1024-MS1-h1">
-          <subject>SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED</subject>
-          <paragraph label="1024-MS1-h1-p3" marker="">
+	  <paragraph label="1024-MS1-1-p3" marker="">
+	    <content>SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED</content>
+	  </paragraph>
+          <paragraph label="1024-MS1-1-p4" marker="">
             <content>You are applying for a <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> covered by the Real Estate <ref target="1024-2-b-Settlement" reftype="term">Settlement</ref> Procedures Act (<ref target="1024-2-b-RESPA" reftype="term">RESPA</ref>) (<ref target="USC:12-2601" reftype="external">12 U.S.C. 2601</ref> et seq.). <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> gives you certain rights under Federal law. This statement describes whether the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> for this loan may be transferred to a different loan <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>. “<ref target="1024-2-b-Servicing" reftype="term">Servicing</ref>” refers to collecting your principal, interest, and <ref target="1024-2-b-Settlement" reftype="term">escrow</ref> payments, if any, as well as sending any monthly or annual statements, tracking account balances, and handling other aspects of your loan. You will be given advance notice before a transfer occurs.</content>
           </paragraph>
-          <paragraph label="1024-MS1-h1-h2" marker="">
+          <paragraph label="1024-MS1-1-h1-h2" marker="">
             <title>Servicing Transfer Information</title>
             <content/>
-            <paragraph label="1024-MS1-h1-h2-p4" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p4" marker="">
               <content>[We may assign, sell, or transfer the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of your loan while the loan is outstanding.]</content>
             </paragraph>
-            <paragraph label="1024-MS1-h1-h2-p5" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p5" marker="">
               <content>[or]</content>
             </paragraph>
-            <paragraph label="1024-MS1-h1-h2-p6" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p6" marker="">
               <content>[We do not service <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loans</ref> of the type for which you applied. We intend to assign, sell, or transfer the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of your <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> before the first payment is due.]</content>
             </paragraph>
-            <paragraph label="1024-MS1-h1-h2-p7" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p7" marker="">
               <content>[or]</content>
             </paragraph>
-            <paragraph label="1024-MS1-h1-h2-p8" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p8" marker="">
               <content>[The loan for which you have applied will be serviced at this financial institution and we do not intend to sell, transfer, or assign the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the loan.]</content>
             </paragraph>
-            <paragraph label="1024-MS1-h1-h2-p9" marker="">
+            <paragraph label="1024-MS1-1-h1-h2-p9" marker="">
               <content>[INSTRUCTIONS TO PREPARER: Insert the date and select the appropriate language under “<ref target="1024-2-b-Servicing" reftype="term">Servicing</ref> Transfer Information.” The model format may be annotated with further information that clarifies or enhances the model language.]</content>
             </paragraph>
           </paragraph>
@@ -3433,14 +3404,11 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
       </appendix>
       <appendix appendixLetter="MS2" label="1024-MS2">
         <appendixTitle>Appendix MS-2 to Part 1024—Notice of Assignment, Sale, or Transfer of Servicing Rights</appendixTitle>
-        <tableOfContents>
-          <tocAppEntry target="1024-MS2-h1">
-            <appendixLetter>h1</appendixLetter>
-            <appendixSubject>[Sample language; use business stationery or similar heading]</appendixSubject>
-          </tocAppEntry>
-        </tableOfContents>
         <appendixSection appendixSecNum="1" label="1024-MS2-h1">
-          <subject>[Sample language; use business stationery or similar heading]</subject>
+          <subject/>
+	  <paragraph label="1024-MS2-h1-h1" marker="">
+	    <content>[Sample language; use business stationery or similar heading]</content>
+	  </paragraph>
           <paragraph label="1024-MS2-h1-h2" marker="">
             <title>NOTICE OF ASSIGNMENT, SALE, OR TRANSFER OF SERVICING RIGHTS</title>
             <content/>
@@ -3451,7 +3419,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
               <content>The assignment, sale or transfer of the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of the <ref target="1024-2-b-FederallyRelatedMortgageLoanOrMortgageLoan" reftype="term">mortgage loan</ref> does not affect any term or condition of the mortgage instruments, other than terms directly related to the <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> of your loan.</content>
             </paragraph>
             <paragraph label="1024-MS2-h1-h2-p3" marker="">
-              <content>Except in limited circumstances, the law requires that your present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> send you this notice at least 15 days before the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref>, or at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. Your new <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must also send you this notice no later than 15 days after this effective date or at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. [In this case, all necessary information is combined in this one notice].</content>
+              <content>Except in limited circumstances, the law requires that your present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> send you this notice at least 15 days before the <ref target="1024-2-b-EffectiveDateOfTransfer" reftype="term">effective date of transfer</ref>, or at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. Your new <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> must also send you this notice no later than 15 days after this effective date or at <ref target="1024-2-b-Settlement" reftype="term">closing</ref>. [In this case, all necessary information is combined in this one notice].</content>
             </paragraph>
             <paragraph label="1024-MS2-h1-h2-p4" marker="">
               <content>Your present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> is __________. If you have any question relating to the transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> from your present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref> call __________ [enter the name of an individual or department here] between __ a.m. and __ p.m. on the following days __________.</content>
@@ -3550,7 +3518,7 @@ The <ref target="1024-2-b-HUD" reftype="term">HUD</ref>-1A is an optional form t
               <content>Section 6 of <ref target="1024-2-b-RESPA" reftype="term">RESPA</ref> also provides for damages and costs for individuals or classes of individuals in circumstances where <ref target="1024-2-b-Servicer" reftype="term">servicers</ref> are shown to have violated the requirements of that section. You should seek legal advice if you believe your rights have been violated.</content>
             </paragraph>
             <paragraph label="1024-MS2-h1-h2-p30" marker="">
-              <content>[INSTRUCTIONS TO PREPARER: Delivery means placing the notice in the mail, first class postage prepaid, prior to 15 days before the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref> (transferor) or prior to 15 days after the <ref target="1024-2-b-def1" reftype="term">effective date of transfer</ref> (transferee). However, this notice may be sent not more than 30 days after the effective date of the transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> rights if certain emergency business situations occur. See 12 CFR § <ref target="1024-21-d-1-ii" reftype="internal">1024.21(d)(1)(ii)</ref>. “<ref target="1024-2-b-Lender" reftype="term">Lender</ref>” may be substituted for “present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>” where appropriate. These instructions should not appear on the format.]</content>
+              <content>[INSTRUCTIONS TO PREPARER: Delivery means placing the notice in the mail, first class postage prepaid, prior to 15 days before the <ref target="1024-2-b-EffectiveDateOfTransfer" reftype="term">effective date of transfer</ref> (transferor) or prior to 15 days after the <ref target="1024-2-b-EffectiveDateOfTransfer" reftype="term">effective date of transfer</ref> (transferee). However, this notice may be sent not more than 30 days after the effective date of the transfer of <ref target="1024-2-b-Servicing" reftype="term">servicing</ref> rights if certain emergency business situations occur. See 12 CFR § <ref target="1024-21-d-1-ii" reftype="internal">1024.21(d)(1)(ii)</ref>. “<ref target="1024-2-b-Lender" reftype="term">Lender</ref>” may be substituted for “present <ref target="1024-2-b-Servicer" reftype="term">servicer</ref>” where appropriate. These instructions should not appear on the format.]</content>
             </paragraph>
             <paragraph label="1024-MS2-h1-h2-p31" marker="">
               <content>
