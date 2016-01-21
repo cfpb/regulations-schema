@@ -1386,13 +1386,14 @@
             <content/>
             <interpParagraph label="1003-5-e-Interp-1" target="1003-5-e-1">
               <content>Poster&#8212;suggested text. An institution may use any text that meets the requirements of the regulation. Some of the Federal agencies that receive HMDA data provide HMDA posters that an institution can use to inform the public of the availability of its HMDA data, or the institution may create its own posters. If an institution prints its own, the following language is suggested but is not required:</content>
+              <interpParagraph label="1003-5-e-Interp-1-HMDANotice">
+              	<title>Home Mortgage Disclosure Act Notice</title>
+              	<content>The HMDA data about our residential mortgage lending are available online for review. The data show geographic distribution of loans and applications; ethnicity, race, sex, age, and income of applicants and borrowers; and information about loan approvals and denials. These data are available online at the Consumer Financial Protection Bureau's Web site (www.consumerfinance.gov/hmda). HMDA data for many other financial institutions are also available at this Web site.</content>
+              </interpParagraph>
             </interpParagraph>
-          </interpParagraph>
-        </interpSection>
-        <interpSection label="1003-Interp-h2">
-          <title>Home Mortgage Disclosure Act Notice</title>
-          <interpParagraph label="1003-Interp-h2-2" target="1003-h2-2">
-            <content>Additional language for institutions making the disclosure statement available on request. An institution that posts a notice informing the public of the address to which a request should be sent could include the following sentence, for example, in its general notice: &#8220;To receive a copy of these data send a written request to [address].&#8221;</content>
+            <interpParagraph label="1003-5-e-Interp-2">
+            	<content>Additional language for institutions making the disclosure statement available on request. An institution that posts a notice informing the public of the address to which a request should be sent could include the following sentence, for example, in its general notice: &#8220;To receive a copy of these data send a written request to [address].&#8221;</content>
+          	</interpParagraph>
           </interpParagraph>
         </interpSection>
         <interpSection label="1003-6-Interp" sectionNum="6">
