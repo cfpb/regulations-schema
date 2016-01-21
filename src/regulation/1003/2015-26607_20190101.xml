@@ -16,7 +16,7 @@
     </cfr>
     <documentNumber>2015-26607</documentNumber>
     <effectiveDate>2019-01-01</effectiveDate>
-    <federalRegisterURL>https://www.federalregister.goc/a/2015-26607</federalRegisterURL>
+    <federalRegisterURL>https://www.federalregister.gov/a/2015-26607</federalRegisterURL>
   </preamble>
   <part partNumber="1003">
     <tableOfContents>
@@ -51,6 +51,10 @@
       <tocAppEntry target="1003-B">
         <appendixLetter>B</appendixLetter>
         <appendixSubject>Appendix B to Part 1003—Form and Instructions for Data Collection on Ethnicity, Race, and Sex</appendixSubject>
+      </tocAppEntry>
+      <tocAppEntry target="1003-C">
+        <appendixLetter>C</appendixLetter>
+        <appendixSubject>Appendix C to Part 1003 - Procedures for Generating a Check Digit and Validating a ULI</appendixSubject>
       </tocAppEntry>
       <tocAppEntry target="1003-Interp">
         <appendixLetter>Interp</appendixLetter>
@@ -1304,7 +1308,7 @@
           </paragraph>
         </appendixSection>
       </appendix>
-      <appendix label="1003-C" appendixLetter="C">
+      <appendix appendixLetter="C" label="1003-C">
       	<appendixTitle>Appendix C to Part 1003 - Procedures for Generating a Check Digit and Validating a ULI</appendixTitle>
       	<appendixSection label="1003-C-1" appendixSecNum="1">
       		<subject></subject>
@@ -1366,6 +1370,7 @@
       						<cell></cell>
       					</row>
       				</table>
+      				&#160;
       			</content>
       		</paragraph>
       		<paragraph label="1003-C-1-p5" marker="">
