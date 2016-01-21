@@ -16,7 +16,7 @@
 	    			<element ref="tns:interpSection"></element>
 	    		</choice>
 	    		<choice minOccurs="0" maxOccurs="unbounded">
-	    			<element ref="tns:interpAppendix"></element>
+	    			<element ref="tns:interpAppSection"></element>
 	    		</choice>
     		</sequence>
 <!-- 			<choice minOccurs="0" maxOccurs="1"> -->

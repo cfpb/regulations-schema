@@ -53,7 +53,7 @@
     		<field xpath="@label"></field>
     	</unique>
     	<unique name="unique-interp-label">
-    		<selector xpath=".//tns:interpSection|.//tns:interpParagraph"></selector>
+    		<selector xpath=".//tns:interpSection|.//tns:interpParagraph|.//interpAppSection"></selector>
     		<field xpath="@label"></field>
     	</unique>
     </element>
