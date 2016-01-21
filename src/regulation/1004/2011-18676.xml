@@ -16,7 +16,7 @@
     </cfr>
     <effectiveDate>2011-07-22</effectiveDate>
   </preamble>
-  <part partNumber="1004">
+  <part label="1004">
     <tableOfContents>
       <tocSecEntry target="1004-1">
         <sectionNum>1</sectionNum>

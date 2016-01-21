@@ -16,7 +16,7 @@
     </cfr>
     <effectiveDate>2011-12-30</effectiveDate>
   </preamble>
-  <part partNumber="1010">
+  <part label="1010">
     <tableOfContents>
       <tocAppEntry target="1010-Subpart-A">
         <appendixLetter>A</appendixLetter>
