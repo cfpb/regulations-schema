@@ -54,7 +54,13 @@ navigation:
   url: appendix/
   internal: true
 - text: Interpretation
-  url: appendix/
+  url: interpretation/
+  internal: true
+- text: Analysis
+  url: analysis/
+  internal: true
+- text: Notices 
+  url: notice/
   internal: true
 - text: Sample regulation
   url: https://github.com/cfpb/regulations-schema/blob/master/src/reg_d_sample.xml

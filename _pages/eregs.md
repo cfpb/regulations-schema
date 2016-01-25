@@ -19,7 +19,9 @@ title: eRegs/RegsML schema
 
 ---
 
-**The regulation consists of three elements:**
+### `regulation`
+
+The regulation consists of three elements
 
 1. The `FDSys` tag which contains information pertinent to the federal register.
 2. The `preamble` tag which contains some descriptive information about the reg.

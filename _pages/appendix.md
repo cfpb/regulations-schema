@@ -5,6 +5,8 @@ title: Appendix schema
 
 ## Appendix
 
+### `appendix`
+
 The appendix type defines appendices to regulation. It consists of the following elements:
 
 1. `appendixTitle`, a string giving the title of the appendix
@@ -15,8 +17,6 @@ In addition, the appendix element supports the following attributes:
 
 1. `appendixLetter`, a string containing the letter by which the appendix is identified
 2. `label`, a string containing an identifier by which the appendix can be referenced
-
-### Sample XML
 
 ```xml
 <appendix appendixLetter="A" label="1004-A">
@@ -49,6 +49,8 @@ In addition, the appendix element supports the following attributes:
 
 ---
 
+### `appendixSection`
+
 The `appendixSection` type defines a section of an appendix. It consists of the following elements:
 
 1. `subject`, a string containing the section title
@@ -59,8 +61,6 @@ In addition the `appendixSection` element supports the following attributes:
 1. `appendixSecNum`, an integer indicating the section number
 2. `label`, a string containing a unique identifier by which the section can be referenced
 
-
-### Sample XML
 
 ```xml
 <appendixSection appendixSecNum="1" label="1004-A-1">
@@ -92,6 +92,8 @@ In addition the `appendixSection` element supports the following attributes:
 ```
 
 ---
+
+### `appendixHeader`
 
 The `appendixHeader` element is a wrapper type for a string element.
 

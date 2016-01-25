@@ -7,6 +7,8 @@ title: Primitives schema
 
 This describes the primitives that are allowed in RegsML.
 
+### RegText
+
 Regulation text is a mixed element that can contain:
 
 1. Regular text,
@@ -23,6 +25,8 @@ Regulation text is a mixed element that can contain:
   </choice>
 </complexType>
 ```
+
+### `paragraph`
 
 The paragraph element can contain the following:
 
@@ -60,6 +64,8 @@ In addition, the paragraph element contains the following attributes:
 </complexType>
 ```
 
+### `reference`
+
 The `reference` element supports referencing any other element with a label attribute. The `reference` element has the following attributes:
 
 1. `target`, the element being referenced.
@@ -77,6 +83,8 @@ The `reference` element supports referencing any other element with a label attr
 	</simpleContent>
 </complexType>
 ```
+
+### `definition`
 
 The `definition` element supports defined terms within the text. The `definition` has the following attributes:
 
