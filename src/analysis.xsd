@@ -18,7 +18,6 @@
         <element ref="tns:analysisSection"></element>
       </choice>
     </sequence>
-    <attribute name="notice"></attribute>
   </complexType>
 
   <!-- 
@@ -64,7 +63,7 @@
   </complexType>
 
   <!-- 
-      The footnote type defines a footnote within an analysisSection. 
+      The footnote type defines a footnote within an analysisParagraph. 
       Footnotes are strings with the following attributes:
       1. reference, the reference number (typically) of the note.
    -->

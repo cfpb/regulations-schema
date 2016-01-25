@@ -19,7 +19,8 @@
   -->
   <complexType name="Notice">
     <sequence>
-      <element name="preamble" type="tns:Preamble"></element>
+      <element ref="tns:fdsys"></element>
+      <element ref="tns:preamble"></element>
       <choice minOccurs="0" maxOccurs="1">
         <element ref="tns:changeset"></element>
       </choice>
@@ -57,8 +58,11 @@
   <complexType name="Change">
     <choice minOccurs="0" maxOccurs="unbounded">
       <element name="reserved" type="string"></element>
+      <element ref="tns:section"></element>
       <element ref="tns:paragraph"></element>
       <element ref="tns:analysis"></element>
+      <element ref="tns:appendix"></element>
+      <element ref="tns:appendixSection"></element>
       <element ref="tns:interpParagraph"></element>
       <element ref="tns:interpretations"></element>
       <element ref="tns:interpSection"></element>
