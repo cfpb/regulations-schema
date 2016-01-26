@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+    targetNamespace="eregs"
+    xmlns:tns="eregs" 
+    elementFormDefault="qualified">
+
+  <include schemaLocation="primitives.xsd"></include>
+  <include schemaLocation="preamble.xsd"></include>
+  <include schemaLocation="toc.xsd"></include>
+  <include schemaLocation="part.xsd"></include>
+
+  <!-- 
+       Notices include the same sorts of content as regulations do,
+       except that the content is just the things that have been 
+       modified from the last notice, wrapped in a changeset element. 
+       
+      All the notice metadata is contained within the preamble, which 
+      is identical to the regulation preamble.
+  -->
+  <complexType name="Notice">
+    <sequence>
+      <element ref="tns:fdsys"></element>
+      <element ref="tns:preamble"></element>
+      <choice minOccurs="0" maxOccurs="1">
+        <element ref="tns:changeset"></element>
+      </choice>
+    </sequence>
+  </complexType>
+
+  <!-- 
+      Changeset express changes from one version of a regulation to
+      another. This includes operations that add/modify/delete for a 
+      given label within the regulation itself. It consists of the 
+      following elements:
+
+      1. leftDocumentNumber, the notice document number of the left 
+         version, which will be transformed into the right.
+      2. rightDocumentNumber, the notice document number of the right 
+         version, the one into which the left is transformed.
+   -->
+  <complexType name="Changeset">
+    <sequence>
+      <choice minOccurs="0" maxOccurs="unbounded">
+        <element ref="tns:change"></element>
+      </choice>
+    </sequence>
+    <attribute name="leftDocumentNumber" type="string"></attribute>
+    <attribute name="rightDocumentNumber" type="string"></attribute>
+  </complexType>
+
+  <!-- 
+       A Change modifies the given label from the immediately prior 
+       version of a regulation with the given contents. Deletions won't 
+       have any content.
+
+       "operation" should be one of "added", "modified", or "deleted".
+   -->
+  <complexType name="Change">
+    <choice minOccurs="0" maxOccurs="unbounded">
+      <element name="reserved" type="string"></element>
+      <element ref="tns:section"></element>
+      <element ref="tns:paragraph"></element>
+      <element ref="tns:analysis"></element>
+      <element ref="tns:appendix"></element>
+      <element ref="tns:appendixSection"></element>
+      <element ref="tns:interpParagraph"></element>
+      <element ref="tns:interpretations"></element>
+      <element ref="tns:interpSection"></element>
+    </choice>
+    <attribute name="operation">
+      <simpleType>
+        <restriction base="string">
+          <enumeration value="added"/>
+          <enumeration value="modified"/>
+          <enumeration value="deleted"/>
+        </restriction>
+      </simpleType>
+    </attribute>
+    <attribute name="label"></attribute>
+  </complexType>
+
+  <element name="change" type="tns:Change"></element>
+  <element name="changeset" type="tns:Changeset"></element>
+  <element name="notice" type="tns:Notice"></element>
+</schema>
