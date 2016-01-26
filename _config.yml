@@ -1,0 +1,77 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: redcarpet
+highlighter: pygments
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+
+# Title
+name: Regulations Schema
+subtitle: A semantic XML schema for federal regulations
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/regulations-schema'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: CFPB
+  url: http://consumerfinance.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: http://cfpb.github.io/img/logo_210.png
+logoalt: Consumer Financial Protection Bureau
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: index.html
+  internal: true
+- text: eRegs/RegsML
+  url: eregs/
+  internal: true
+- text: Part
+  url: part/
+  internal: true
+- text: Preamble
+  url: preamble/
+  internal: true
+- text: Primitives
+  url: primitives/
+  internal: true
+- text: Table of Contents
+  url: toc/
+  internal: true
+- text: Appendix
+  url: appendix/
+  internal: true
+- text: Interpretation
+  url: interpretation/
+  internal: true
+- text: Analysis
+  url: analysis/
+  internal: true
+- text: Notices 
+  url: notice/
+  internal: true
+- text: Sample regulation
+  url: https://github.com/cfpb/regulations-schema/blob/master/src/reg_d_sample.xml
+  internal: false
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: regulations-schema
+  description: Schema and sample XML
+  url: https://github.com/cfpb/regulations-schema
+
+# Style Variables
+brand_color: "#2cb34a"
