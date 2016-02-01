@@ -18,6 +18,9 @@
 	<complexType name="Preamble">
 		<sequence>
 			<element name="agency" type="string"></element>
+			<choice minOccurs="0" maxOccurs="1">
+				<element name="regLetter" type="string"></element>
+			</choice>
 			<element name="cfr">
 				<complexType>
 					<sequence>
