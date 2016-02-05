@@ -50,7 +50,15 @@
 	<complexType name="InterpAppSection">
 		<sequence>
 			<choice minOccurs="0" maxOccurs="1">
-				<element name="title" type="string"></element>
+    			<element name="title">
+    				<complexType>
+    					<simpleContent>
+    						<extension base="string">
+    							<attribute name="type" type="tns:titleType"></attribute>
+    						</extension>
+    					</simpleContent>
+    				</complexType>
+    			</element>
 			</choice>
 			<choice maxOccurs="unbounded">
 				<element name="reserved" type="string"></element>
@@ -94,7 +102,15 @@
     <complexType name="InterpParagraph">
     	<sequence>
     		<choice minOccurs="0" maxOccurs="1">
-    			<element name="title" type="string"></element>
+    			<element name="title">
+    				<complexType>
+    					<simpleContent>
+    						<extension base="string">
+    							<attribute name="type" type="tns:titleType"></attribute>
+    						</extension>
+    					</simpleContent>
+    				</complexType>
+    			</element>
     		</choice>
     		<element name="content" type="tns:RegText"></element>
     		<element ref="tns:interpParagraph" minOccurs="0" maxOccurs="unbounded"></element>
