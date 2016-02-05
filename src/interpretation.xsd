@@ -44,6 +44,7 @@
 		</sequence>
 		<attribute name="sectionNum" type="int" use="optional"></attribute>
     	<attribute name="label" type="string" use="required"></attribute>
+	<attribute name="target" type="string" use="optional"></attribute>
 	</complexType>
 	
 	<complexType name="InterpAppSection">
