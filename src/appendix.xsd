@@ -53,6 +53,7 @@
     	<sequence>
     		<element name="subject" type="string"></element>
     		<choice maxOccurs="unbounded">
+    			<element name="reserved" type="string"></element>
     			<element ref="tns:appendixHeader"></element>
     			<element ref="tns:paragraph"></element>
     		</choice>

@@ -98,8 +98,8 @@
 	<complexType name="Reference">
 		<simpleContent>
 			<extension base="string">
-				<attribute name="target" type="string"></attribute>
-				<attribute name="reftype" type="tns:reftype"></attribute>
+				<attribute name="target" type="string" use="required"></attribute>
+				<attribute name="reftype" type="tns:reftype" use="required"></attribute>
 			</extension>
 		</simpleContent>
 	</complexType>
