@@ -11,12 +11,14 @@
 		   The tocSecEntry consists of the following elements:
 			a. sectionNum, an integer indicating the section number
 			b. sectionSubject, a string indicating the section title
+			c. zero or more nested tocSecEntry elements
 		   In addition, the tocSecEntry element supports the following attributes:
 		    a. target, a string indicating the label of the element being referenced
 		2. zero or more tocAppEntry elements, which express a reference to a section of the appendix content.
 		   The tocAppEntry consists of the following elements:
 		    a. zero or one appendixLetter, a string containing the letter of the appendix being referenced
 		    b. appendixSubject, a string containing the subject of the appendix or section being referenced
+		    c. zero or more nested tocAppEntry elements
 		   In addition, the tocAppEntry element supports the following attributes:
 		    a. target, a string indicating the label of the element being referenced
 	 -->
@@ -29,6 +31,7 @@
 						<sequence>
 							<element name="sectionNum" type="int"></element>
 							<element name="sectionSubject" type="string"></element>
+							<element ref="tns:tocSecEntry" minOccurs="0" maxOccurs="unbounded"></element>
 						</sequence>
 						<attribute name="target" type="string" use="required"></attribute>
 					</complexType>
@@ -42,6 +45,7 @@
 								<element name="appendixLetter" type="string"></element>
 							</choice>
 							<element name="appendixSubject" type="string"></element>
+							<element ref="tns:tocAppEntry" minOccurs="0" maxOccurs="unbounded"></element>
 						</sequence>
 						<attribute name="target" type="string" use="required"></attribute>
 					</complexType>
