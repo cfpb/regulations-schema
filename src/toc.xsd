@@ -75,9 +75,9 @@
 		</sequence>
 	</complexType>
 	
-	<element name="tocSecEntry" type="SectionEntry"></element>
-	<element name="tocAppEntry" type="AppendixEntry"></element>
-	<element name="tocSubpartEntry" type="SubpartEntry"></element>
-	<element name="tocInterpEntry" type="InterpEntry"></element>
+	<element name="tocSecEntry" type="tns:SectionEntry"></element>
+	<element name="tocAppEntry" type="tns:AppendixEntry"></element>
+	<element name="tocSubpartEntry" type="tns:SubpartEntry"></element>
+	<element name="tocInterpEntry" type="tns:InterpEntry"></element>
 	
 </schema>
