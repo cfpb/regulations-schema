@@ -22,36 +22,62 @@
 		   In addition, the tocAppEntry element supports the following attributes:
 		    a. target, a string indicating the label of the element being referenced
 	 -->
+	 
+	<complexType name="SectionEntry">
+		<sequence>
+			<element name="sectionNum" type="int"></element>
+			<element name="sectionSubject" type="string"></element>
+			<element ref="tns:tocSecEntry" minOccurs="0" maxOccurs="unbounded"></element>
+		</sequence>
+		<attribute name="target" type="string" use="required"></attribute>
+	</complexType>
+	
+	<complexType name="AppendixEntry">
+		<sequence>
+			<choice minOccurs="0" maxOccurs="1">
+				<element name="appendixLetter" type="string"></element>
+			</choice>
+			<element name="appendixSubject" type="string"></element>
+			<element ref="tns:tocAppEntry" minOccurs="0" maxOccurs="unbounded"></element>
+		</sequence>
+		<attribute name="target" type="string" use="required"></attribute>
+	</complexType>
+	
+	<complexType name="SubpartEntry">
+		<sequence>
+			<element name="subpartTitle" type="string"></element>
+			<element name="subpartLetter" type="string"></element>
+			<element ref="tns:tocSecEntry" minOccurs="0" maxOccurs="unbounded"></element>
+		</sequence>
+	</complexType>
+	
+	<complexType name="InterpEntry">
+		<sequence>
+			<element name="interpTitle" type="string"></element>
+			<element ref="tns:tocSecEntry" minOccurs="0" maxOccurs="unbounded"></element>
+		</sequence>
+	</complexType>
 	
 	<complexType name="TableOfContents">
 		<sequence>
 			<choice minOccurs="0" maxOccurs="unbounded">
-				<element name="tocSecEntry">
-					<complexType>
-						<sequence>
-							<element name="sectionNum" type="int"></element>
-							<element name="sectionSubject" type="string"></element>
-							<element ref="tns:tocSecEntry" minOccurs="0" maxOccurs="unbounded"></element>
-						</sequence>
-						<attribute name="target" type="string" use="required"></attribute>
-					</complexType>
-				</element>
+				<element ref="tns:tocSubpartEntry"></element>
 			</choice>
 			<choice minOccurs="0" maxOccurs="unbounded">
-				<element name="tocAppEntry">
-					<complexType>
-						<sequence>
-							<choice minOccurs="0" maxOccurs="1">
-								<element name="appendixLetter" type="string"></element>
-							</choice>
-							<element name="appendixSubject" type="string"></element>
-							<element ref="tns:tocAppEntry" minOccurs="0" maxOccurs="unbounded"></element>
-						</sequence>
-						<attribute name="target" type="string" use="required"></attribute>
-					</complexType>
-				</element>
+				<element ref="tns:tocSecEntry"></element>
+			</choice>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<element ref="tns:tocAppEntry"></element>
+			</choice>
+			<choice minOccurs="0" maxOccurs="unbounded">
+				<element ref="tns:tocInterpEntry"></element>
 			</choice>
 		</sequence>
 	</complexType>
+	
+	<element name="tocSecEntry" type="SectionEntry"></element>
+	<element name="tocAppEntry" type="AppendixEntry"></element>
+	<element name="tocSubpartEntry" type="SubpartEntry"></element>
+	<element name="tocInterpEntry" type="InterpEntry"></element>
 	
 </schema>
