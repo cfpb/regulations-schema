@@ -79,5 +79,6 @@
 	<element name="tocAppEntry" type="tns:AppendixEntry"></element>
 	<element name="tocSubpartEntry" type="tns:SubpartEntry"></element>
 	<element name="tocInterpEntry" type="tns:InterpEntry"></element>
+	<element name="tableOfContents" type="tns:TableOfContents"></element>
 	
 </schema>
