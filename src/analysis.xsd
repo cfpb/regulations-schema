@@ -59,6 +59,7 @@
       <choice minOccurs="0" maxOccurs="unbounded">
         <element ref="tns:footnote"></element>
         <element name="em" type="tns:Emphasis"></element>
+        <element ref="tns:graphic"></element>
       </choice>
     </sequence>
   </complexType>
