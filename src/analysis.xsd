@@ -36,6 +36,7 @@
         <element ref="tns:analysisSection"></element>
       </choice>
     </sequence>
+    <attribute name="target" type="string" use="optional"></attribute>
   </complexType>
 
   <!-- 
