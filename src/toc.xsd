@@ -73,6 +73,7 @@
 				<element ref="tns:tocInterpEntry"></element>
 			</choice>
 		</sequence>
+    	<attribute name="label" type="string" use="optional"></attribute>
 	</complexType>
 	
 	<element name="tocSecEntry" type="tns:SectionEntry"></element>
