@@ -65,6 +65,7 @@
   <complexType name="Change">
     <choice minOccurs="0" maxOccurs="unbounded">
       <element name="reserved" type="string"></element>
+      <element ref="tns:subpart"></element>
       <element ref="tns:section"></element>
       <element ref="tns:paragraph"></element>
       <element ref="tns:analysis"></element>
