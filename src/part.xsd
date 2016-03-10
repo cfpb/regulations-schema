@@ -90,6 +90,7 @@
     		</choice>
     	</sequence>
     	<attribute name="subpartLetter" type="string"></attribute>
+    	<attribute name="label" type="string" use="optional"></attribute>
     </complexType>
     
     <!-- 
