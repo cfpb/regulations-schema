@@ -42,7 +42,8 @@
 		The appendixSection type defines a section of an appendix. It consists of the
 		following elements:
 		1. subject, a string containing the section title
-		2. zero or more appendixHeader elements optionally followed by paragraph elements
+		2. either 0 or 1 tableOfContents elements
+		3. zero or more appendixHeader elements optionally followed by paragraph elements
 		
 		In addition the appendixSection element supports the following attributes:
 		1. appendixSecNum, an integer indicating the section number
