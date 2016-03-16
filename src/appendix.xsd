@@ -52,6 +52,9 @@
 	<complexType name="AppendixSection">
     	<sequence>
     		<element name="subject" type="string"></element>
+			<choice minOccurs="0" maxOccurs="1">
+				<element ref="tns:tableOfContents"></element>
+			</choice>
     		<choice maxOccurs="unbounded">
     			<element name="reserved" type="string"></element>
     			<element ref="tns:appendixHeader"></element>
