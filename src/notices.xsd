@@ -86,6 +86,7 @@
       </simpleType>
     </attribute>
     <attribute name="label" type="string"></attribute>
+    <attribute name="subpath" type="string"></attribute>
     <attribute name="parent" type="string" use="optional"></attribute>
     <attribute name="after" type="string" use="optional"></attribute>
     <attribute name="before" type="string" use="optional"></attribute>
