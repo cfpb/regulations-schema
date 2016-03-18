@@ -53,11 +53,19 @@
        version of a regulation with the given contents. Deletions won't 
        have any content.
 
-       "operation" should be one of "added", "modified", or "deleted".
+       - `operation` should be one of "added", "modified", "deleted", or 
+         "moved".
+       - `parent`, optional for "added" and required for "moved" 
+         operations, should correspond to the new parent label.
+       - `after`, optional for "added" and "moved" operations, should 
+         correspond to the preceding sibling label, if there is one.
+       - `before`, optional for "added" and "moved" operations, should 
+         correspond to the following sibling label, if there is one.
    -->
   <complexType name="Change">
     <choice minOccurs="0" maxOccurs="unbounded">
       <element name="reserved" type="string"></element>
+      <element ref="tns:subpart"></element>
       <element ref="tns:section"></element>
       <element ref="tns:paragraph"></element>
       <element ref="tns:analysis"></element>
@@ -73,10 +81,18 @@
           <enumeration value="added"/>
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
+          <enumeration value="moved"/>
+          <enumeration value="changeTarget"/>
         </restriction>
       </simpleType>
     </attribute>
-    <attribute name="label"></attribute>
+    <attribute name="label" type="string"></attribute>
+    <attribute name="subpath" type="string"></attribute>
+    <attribute name="parent" type="string" use="optional"></attribute>
+    <attribute name="after" type="string" use="optional"></attribute>
+    <attribute name="before" type="string" use="optional"></attribute>
+    <attribute name="oldTarget" type="string" use="optional"></attribute>
+    <attribute name="newTarget" type="string" use="optional"></attribute>
   </complexType>
 
   <element name="change" type="tns:Change"></element>
