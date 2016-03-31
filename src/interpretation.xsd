@@ -38,9 +38,6 @@
 				<element name="reserved" type="string"></element>
     			<element ref="tns:interpParagraph"></element>
 			</choice>
-            <choice minOccurs="0" maxOccurs="unbounded">
-    			<element ref="tns:analysis"></element>
-            </choice>
 		</sequence>
 		<attribute name="sectionNum" type="int" use="optional"></attribute>
     	<attribute name="label" type="string" use="required"></attribute>
@@ -64,9 +61,6 @@
 				<element name="reserved" type="string"></element>
     			<element ref="tns:interpParagraph"></element>
 			</choice>
-            <choice minOccurs="0" maxOccurs="unbounded">
-    			<element ref="tns:analysis"></element>
-            </choice>
 		</sequence>
 		<attribute name="appendixSecNum" type="int" use="required"></attribute>
     	<attribute name="label" type="string" use="required"></attribute>
@@ -78,7 +72,6 @@
 			<choice minOccurs="0" maxOccurs="unbounded">
 				<element ref="tns:interpAppSection"></element>
 				<element ref="tns:interpParagraph"></element>
-    			<element ref="tns:analysis"></element>
 			</choice>
 		</sequence>
 		<attribute name="appendixLetter" type="string" use="required"></attribute>
@@ -92,9 +85,6 @@
     		</choice>
     		<choice minOccurs="0" maxOccurs="unbounded">
                 <element ref="tns:interpAppendix"></element>
-    		</choice>
-    		<choice minOccurs="0" maxOccurs="unbounded">
-    			<element ref="tns:analysis"></element>
     		</choice>
     	</sequence>
     </complexType>
@@ -114,9 +104,6 @@
     		</choice>
     		<element name="content" type="tns:RegText"></element>
     		<element ref="tns:interpParagraph" minOccurs="0" maxOccurs="unbounded"></element>
-            <choice minOccurs="0" maxOccurs="unbounded">
-    			<element ref="tns:analysis"></element>
-            </choice>
     	</sequence>
 		<attribute name="marker" type="string" use="optional"></attribute>
 		<attribute name="label" type="string" use="required"></attribute>
