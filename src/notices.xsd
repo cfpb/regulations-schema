@@ -82,7 +82,7 @@
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
-          <enumeration value="changeTarget"/>
+          <enumeration value="changeTermTarget"/>
         </restriction>
       </simpleType>
     </attribute>
