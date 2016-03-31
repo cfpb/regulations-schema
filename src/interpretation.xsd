@@ -9,6 +9,9 @@
 	<include schemaLocation="toc.xsd"></include>
 	
 	<complexType name="Interpretations">
+		<choice minOccurs="0" maxOccurs="1">
+    		<element name="tableOfContents" type="tns:TableOfContents"></element>
+    	</choice>
 		<sequence>
 			<element name="title" type="string"></element>
 			<sequence>
