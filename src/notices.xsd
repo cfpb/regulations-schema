@@ -88,13 +88,17 @@
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
+          <enumeration value="changeTermTarget"/>
         </restriction>
       </simpleType>
     </attribute>
     <attribute name="label" type="string"></attribute>
+    <attribute name="subpath" type="string"></attribute>
     <attribute name="parent" type="string" use="optional"></attribute>
     <attribute name="after" type="string" use="optional"></attribute>
     <attribute name="before" type="string" use="optional"></attribute>
+    <attribute name="oldTarget" type="string" use="optional"></attribute>
+    <attribute name="newTarget" type="string" use="optional"></attribute>
   </complexType>
 
   <element name="change" type="tns:Change"></element>
