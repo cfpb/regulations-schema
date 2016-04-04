@@ -6,7 +6,6 @@
 	
 	<include schemaLocation="table.xsd"></include>
 	<include schemaLocation="formatting.xsd"></include>
-	<include schemaLocation="analysis.xsd"></include>
 	
 	<!-- 
 		This file represents the primitives that are allowed in the RegsML.
@@ -26,7 +25,6 @@
 			<element ref="tns:graphic"></element>
 			<element ref="tns:dash"></element>
 			<element ref="tns:table"></element>
-			<element ref="tns:analysis"></element>
 			<element ref="tns:callout"></element>
 			<element ref="tns:variable"></element>
 		</choice>
@@ -71,9 +69,6 @@
     		</choice>
     		<element name="content" type="tns:RegText"></element>
     		<element ref="tns:paragraph" minOccurs="0" maxOccurs="unbounded"></element>
-    		<choice minOccurs="0" maxOccurs="unbounded">
-    			<element ref="tns:analysis"></element>
-    		</choice>
     	</sequence>
 		<attribute name="marker" type="string" use="required"></attribute>
 		<attribute name="label" type="string"></attribute>
