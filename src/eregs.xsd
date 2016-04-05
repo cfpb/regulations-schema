@@ -30,6 +30,8 @@
     		<element name="preamble" type="tns:Preamble"></element>
 	    	<choice minOccurs="1" maxOccurs="unbounded">
 	    		<element ref="tns:part"></element>
+	    	</choice>
+	    	<choice minOccurs="0" maxOccurs="1">
     			<element ref="tns:analysis"></element>
 	    	</choice>
     	</sequence>
