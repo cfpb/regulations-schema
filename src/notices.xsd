@@ -27,6 +27,8 @@
       <element ref="tns:preamble"></element>
       <choice minOccurs="0" maxOccurs="1">
         <element ref="tns:changeset"></element>
+      </choice>
+      <choice minOccurs="0" maxOccurs="1">
     	<element ref="tns:analysis"></element>
       </choice>
     </sequence>
@@ -80,6 +82,7 @@
       <element ref="tns:interpParagraph"></element>
       <element ref="tns:interpretations"></element>
       <element ref="tns:interpSection"></element>
+      <element ref="tns:tableOfContents"></element>
     </choice>
     <attribute name="operation">
       <simpleType>
