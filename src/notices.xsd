@@ -8,6 +8,7 @@
   <include schemaLocation="preamble.xsd"></include>
   <include schemaLocation="toc.xsd"></include>
   <include schemaLocation="part.xsd"></include>
+  <include schemaLocation="analysis.xsd"></include>
 
   <!-- 
        Notices include the same sorts of content as regulations do,
@@ -16,6 +17,9 @@
        
       All the notice metadata is contained within the preamble, which 
       is identical to the regulation preamble.
+
+      Any analysis that is provided with the notice will be contained 
+      within a top-level child of the notice.
   -->
   <complexType name="Notice">
     <sequence>
@@ -23,6 +27,7 @@
       <element ref="tns:preamble"></element>
       <choice minOccurs="0" maxOccurs="1">
         <element ref="tns:changeset"></element>
+    	<element ref="tns:analysis"></element>
       </choice>
     </sequence>
   </complexType>
@@ -69,6 +74,7 @@
       <element ref="tns:section"></element>
       <element ref="tns:paragraph"></element>
       <element ref="tns:analysis"></element>
+      <element ref="tns:analysisSection"></element>
       <element ref="tns:appendix"></element>
       <element ref="tns:appendixSection"></element>
       <element ref="tns:interpParagraph"></element>
@@ -82,13 +88,17 @@
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
+          <enumeration value="changeTermTarget"/>
         </restriction>
       </simpleType>
     </attribute>
     <attribute name="label" type="string"></attribute>
+    <attribute name="subpath" type="string"></attribute>
     <attribute name="parent" type="string" use="optional"></attribute>
     <attribute name="after" type="string" use="optional"></attribute>
     <attribute name="before" type="string" use="optional"></attribute>
+    <attribute name="oldTarget" type="string" use="optional"></attribute>
+    <attribute name="newTarget" type="string" use="optional"></attribute>
   </complexType>
 
   <element name="change" type="tns:Change"></element>
