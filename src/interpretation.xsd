@@ -11,7 +11,7 @@
 	<complexType name="Interpretations">
 		<sequence>
 			<choice minOccurs="0" maxOccurs="1">
-    			<element name="tableOfContents" type="tns:TableOfContents"></element>
+    			<element ref="tns:tableOfContents"></element>
     		</choice>
 			<element name="title" type="string"></element>
 			<sequence>

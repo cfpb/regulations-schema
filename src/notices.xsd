@@ -69,7 +69,7 @@
        - `before`, optional for "added" and "moved" operations, should 
          correspond to the following sibling label, if there is one.
    -->
-  <complexType name="Change">
+  <complexType name="Change" mixed="true">
     <choice minOccurs="0" maxOccurs="unbounded">
       <element name="reserved" type="string"></element>
       <element ref="tns:subpart"></element>
@@ -83,6 +83,9 @@
       <element ref="tns:interpretations"></element>
       <element ref="tns:interpSection"></element>
       <element ref="tns:tableOfContents"></element>
+      <element name="title" type="string"></element>
+      <element name="subject" type="string"></element>
+      <element name="content" type="tns:RegText"></element>
     </choice>
     <attribute name="operation">
       <simpleType>
@@ -91,7 +94,7 @@
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
-          <enumeration value="changeTermTarget"/>
+          <enumeration value="changeTarget"/>
         </restriction>
       </simpleType>
     </attribute>
