@@ -72,7 +72,6 @@
 	</simpleType>
 	
 	<element name="appendix" type="tns:Appendix"></element>
-	<element name="tableOfContents" type="tns:TableOfContents"></element>
 	<element name="appendixSection" type="tns:AppendixSection"></element>
     <element name="appendixHeader" type="tns:AppendixHeader"></element>
 	
