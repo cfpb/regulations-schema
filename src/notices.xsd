@@ -60,14 +60,17 @@
        version of a regulation with the given contents. Deletions won't 
        have any content.
 
-       - `operation` should be one of "added", "modified", "deleted", or 
-         "moved".
+       - `operation` should be one of "added", "modified", "deleted",
+         "moved", "changeTarget", or "changeLabel"
        - `parent`, optional for "added" and required for "moved" 
          operations, should correspond to the new parent label.
        - `after`, optional for "added" and "moved" operations, should 
          correspond to the preceding sibling label, if there is one.
        - `before`, optional for "added" and "moved" operations, should 
          correspond to the following sibling label, if there is one.
+	 - `oldTarget` and `newTarget` are required for the `changeTarget`
+	 operation
+	 - `newLabel` is required for the `changeLabel` operation
    -->
   <complexType name="Change" mixed="true">
     <choice minOccurs="0" maxOccurs="unbounded">
@@ -95,6 +98,7 @@
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
           <enumeration value="changeTarget"/>
+	  <enumeration value="changeLabel"/>
         </restriction>
       </simpleType>
     </attribute>
@@ -105,6 +109,7 @@
     <attribute name="before" type="string" use="optional"></attribute>
     <attribute name="oldTarget" type="string" use="optional"></attribute>
     <attribute name="newTarget" type="string" use="optional"></attribute>
+    <attribute name="newLabel" type="string" use="optional"></attribute>
   </complexType>
 
   <element name="change" type="tns:Change"></element>
