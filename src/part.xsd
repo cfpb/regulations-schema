@@ -26,7 +26,6 @@
     		<choice maxOccurs="unbounded">
     			<element name="reserved" type="string"></element>
     			<element name="paragraph" type="tns:Paragraph"></element>
-    			<element ref="tns:analysis"></element>
     		</choice>
     	</sequence>
     	<attribute name="sectionNum" type="int" use="required"></attribute>
@@ -83,7 +82,7 @@
     			<element name="title" type="string"></element>
     		</choice>
     		<choice minOccurs="0" maxOccurs="1">
-    			<element name="tableOfContents" type="tns:TableOfContents"></element>
+    			<element ref="tns:tableOfContents"></element>
     		</choice>
     		<choice minOccurs="1" maxOccurs="unbounded">
     			<element name="content" type="tns:PartContents"></element>
@@ -106,7 +105,7 @@
 	<complexType name="Part">	
 		<sequence>
 			<choice minOccurs="0" maxOccurs="1">
-				<element name="tableOfContents" type="tns:TableOfContents"></element>
+				<element ref="tns:tableOfContents"></element>
 			</choice>
 			<element name="content">
 				<complexType>

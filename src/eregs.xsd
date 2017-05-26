@@ -15,6 +15,7 @@
 	<include schemaLocation="toc.xsd"></include>
 	<include schemaLocation="part.xsd"></include>
 	<include schemaLocation="notices.xsd"></include>
+	<include schemaLocation="analysis.xsd"></include>
 	
 	<!-- 
 		The regulation consists of three elements:
@@ -29,6 +30,9 @@
     		<element name="preamble" type="tns:Preamble"></element>
 	    	<choice minOccurs="1" maxOccurs="unbounded">
 	    		<element ref="tns:part"></element>
+	    	</choice>
+	    	<choice minOccurs="0" maxOccurs="1">
+    			<element ref="tns:analysis"></element>
 	    	</choice>
     	</sequence>
     </complexType>

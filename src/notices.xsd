@@ -8,6 +8,7 @@
   <include schemaLocation="preamble.xsd"></include>
   <include schemaLocation="toc.xsd"></include>
   <include schemaLocation="part.xsd"></include>
+  <include schemaLocation="analysis.xsd"></include>
 
   <!-- 
        Notices include the same sorts of content as regulations do,
@@ -16,6 +17,9 @@
        
       All the notice metadata is contained within the preamble, which 
       is identical to the regulation preamble.
+
+      Any analysis that is provided with the notice will be contained 
+      within a top-level child of the notice.
   -->
   <complexType name="Notice">
     <sequence>
@@ -23,6 +27,9 @@
       <element ref="tns:preamble"></element>
       <choice minOccurs="0" maxOccurs="1">
         <element ref="tns:changeset"></element>
+      </choice>
+      <choice minOccurs="0" maxOccurs="1">
+    	<element ref="tns:analysis"></element>
       </choice>
     </sequence>
   </complexType>
@@ -53,27 +60,35 @@
        version of a regulation with the given contents. Deletions won't 
        have any content.
 
-       - `operation` should be one of "added", "modified", "deleted", or 
-         "moved".
+       - `operation` should be one of "added", "modified", "deleted",
+         "moved", "changeTarget", or "changeLabel"
        - `parent`, optional for "added" and required for "moved" 
          operations, should correspond to the new parent label.
        - `after`, optional for "added" and "moved" operations, should 
          correspond to the preceding sibling label, if there is one.
        - `before`, optional for "added" and "moved" operations, should 
          correspond to the following sibling label, if there is one.
+	 - `oldTarget` and `newTarget` are required for the `changeTarget`
+	 operation
+	 - `newLabel` is required for the `changeLabel` operation
    -->
-  <complexType name="Change">
+  <complexType name="Change" mixed="true">
     <choice minOccurs="0" maxOccurs="unbounded">
       <element name="reserved" type="string"></element>
       <element ref="tns:subpart"></element>
       <element ref="tns:section"></element>
       <element ref="tns:paragraph"></element>
       <element ref="tns:analysis"></element>
+      <element ref="tns:analysisSection"></element>
       <element ref="tns:appendix"></element>
       <element ref="tns:appendixSection"></element>
       <element ref="tns:interpParagraph"></element>
       <element ref="tns:interpretations"></element>
       <element ref="tns:interpSection"></element>
+      <element ref="tns:tableOfContents"></element>
+      <element name="title" type="string"></element>
+      <element name="subject" type="string"></element>
+      <element name="content" type="tns:RegText"></element>
     </choice>
     <attribute name="operation">
       <simpleType>
@@ -82,7 +97,8 @@
           <enumeration value="modified"/>
           <enumeration value="deleted"/>
           <enumeration value="moved"/>
-          <enumeration value="changeTermTarget"/>
+          <enumeration value="changeTarget"/>
+	  <enumeration value="changeLabel"/>
         </restriction>
       </simpleType>
     </attribute>
@@ -93,6 +109,7 @@
     <attribute name="before" type="string" use="optional"></attribute>
     <attribute name="oldTarget" type="string" use="optional"></attribute>
     <attribute name="newTarget" type="string" use="optional"></attribute>
+    <attribute name="newLabel" type="string" use="optional"></attribute>
   </complexType>
 
   <element name="change" type="tns:Change"></element>

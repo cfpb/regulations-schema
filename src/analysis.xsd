@@ -27,6 +27,10 @@
       1. title, the title of the analysis section
       2. one or more paragraph elements
       3. zero or more other analysisSection elements
+
+      analysisSecton has three possible attributes, target (the label 
+      within the regulation text that it analyzes), notice (the 
+      notice number it originated in), and date (the notice publication date).
    -->
   <complexType name="AnalysisSection">
     <sequence>
@@ -38,6 +42,8 @@
       </choice>
     </sequence>
     <attribute name="target" type="string" use="optional"></attribute>
+    <attribute name="notice" type="string" use="optional"></attribute>
+    <attribute name="date" type="string" use="optional"></attribute>
   </complexType>
 
   <!-- 
