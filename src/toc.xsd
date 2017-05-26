@@ -83,7 +83,7 @@
   <element name="tocAppEntry" type="tns:AppendixEntry"></element>
   <element name="tocSubpartEntry" type="tns:SubpartEntry"></element>
   <element name="tocInterpEntry" type="tns:InterpEntry"></element>
-  <element name="tocHeaderentry" type="tns:HeaderEntry"></element>
+  <element name="tocHeaderEntry" type="tns:HeaderEntry"></element>
   <element name="tableOfContents" type="tns:TableOfContents"></element>
   
 </schema>
