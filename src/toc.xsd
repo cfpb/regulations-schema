@@ -63,14 +63,8 @@
 		<sequence>
 			<choice minOccurs="0" maxOccurs="unbounded">
 				<element ref="tns:tocSubpartEntry"></element>
-			</choice>
-			<choice minOccurs="0" maxOccurs="unbounded">
 				<element ref="tns:tocSecEntry"></element>
-			</choice>
-			<choice minOccurs="0" maxOccurs="unbounded">
 				<element ref="tns:tocAppEntry"></element>
-			</choice>
-			<choice minOccurs="0" maxOccurs="unbounded">
 				<element ref="tns:tocInterpEntry"></element>
 			</choice>
 		</sequence>
