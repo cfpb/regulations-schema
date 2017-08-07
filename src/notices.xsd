@@ -53,6 +53,9 @@
     </sequence>
     <attribute name="leftDocumentNumber" type="string"></attribute>
     <attribute name="rightDocumentNumber" type="string"></attribute>
+    <attribute name="leftEffectiveDate" type="date"></attribute>
+    <attribute name="rightEffectiveDate" type="date"></attribute>
+    <attribute name="order" type="integer" use="optional"></attribute>
   </complexType>
 
   <!-- 
